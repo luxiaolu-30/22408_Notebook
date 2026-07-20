@@ -1,0 +1,5 @@
+# Obsidian 本地配置
+/.obsidian/
+# Claude 插件缓存
+/.claude/
+/.claudian/
