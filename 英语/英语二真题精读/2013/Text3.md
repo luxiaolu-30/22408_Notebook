@@ -14,11 +14,35 @@ Our ability to mute 减弱 our hard-wired reactions by pausing is what different
 
 ## 题目（31–35）
 
-31. The time needed in making decisions may ______. [A] vary according to the urgency of the situation [B] prove the complexity of our brain reaction [C] depend on the importance of the assessment [D] predetermine the accuracy of our judgment
-32. Our reaction to a fast-food logo shows that snap decisions ______. [A] can be associative [B] are not unconscious [C] can be dangerous [D] are not impulsive
-33. To reverse the negative influences of snap decisions, we should ______. [A] trust our first impression [B] do as people usually do [C] think before we act [D] ask for expert advice
-34. John Gottman says that reliable snap reactions are based on ______. [A] critical assessment [B] "thin sliced" study [C] sensible explanation [D] adequate information
-35. The author's attitude toward reversing the high-speed trend is ______. [A] tolerant [B] uncertain [C] optimistic [D] doubtful
+31. The time needed in making decisions may ______.
+[A] vary according to the urgency of the situation
+[B] prove the complexity of our brain reaction
+[C] depend on the importance of the assessment
+[D] predetermine the accuracy of our judgment
+
+32. Our reaction to a fast-food logo shows that snap decisions ______.
+[A] can be associative
+[B] are not unconscious
+[C] can be dangerous
+[D] are not impulsive
+
+33. To reverse the negative influences of snap decisions, we should ______.
+[A] trust our first impression
+[B] do as people usually do
+[C] think before we act
+[D] ask for expert advice
+
+34. John Gottman says that reliable snap reactions are based on ______.
+[A] critical assessment
+[B] "thin sliced" study
+[C] sensible explanation
+[D] adequate information
+
+35. The author's attitude toward reversing the high-speed trend is ______.
+[A] tolerant
+[B] uncertain
+[C] optimistic
+[D] doubtful
 
 ---
 

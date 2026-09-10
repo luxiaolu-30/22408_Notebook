@@ -10,11 +10,35 @@ On the other hand, Tronick himself is concerned that the worries about kids' use
 
 ## 题目（26–30）
 
-26. According to Jenny Radesky, digital products are designed to ______. [A] absorb user attention [B] increase work efficiency [C] simplify routine matters [D] better interpersonal relations
-27. Radesky's food-testing exercise shows that mothers' use of devices ______. [A] takes away babies' appetite [B] distracts children's attention [C] reduces mother-child communication [D] slows down babies' verbal development
-28. Radesky cites the "still face experiment" to show that ______. [A] it is easy for children to get used to blank expressions [B] parents need to respond to children's emotional needs [C] verbal expressions are unnecessary for emotional exchange [D] children are insensitive to changes in their parents' mood
-29. The oppressive ideology mentioned by Tronick requires parents to ______. [A] protect kids from exposure to wild fantasies [B] teach their kids at least 30,000 words a year [C] remain constant about kids' use of screens [D] ensure constant interaction with their children
-30. According to Tronick, kids' use of screens may ______. [A] make their parents more creative [B] give their parents more free time [C] help them with their homework [D] help them become more attentive
+26. According to Jenny Radesky, digital products are designed to ______.
+[A] absorb user attention
+[B] increase work efficiency
+[C] simplify routine matters
+[D] better interpersonal relations
+
+27. Radesky's food-testing exercise shows that mothers' use of devices ______.
+[A] takes away babies' appetite
+[B] distracts children's attention
+[C] reduces mother-child communication
+[D] slows down babies' verbal development
+
+28. Radesky cites the "still face experiment" to show that ______.
+[A] it is easy for children to get used to blank expressions
+[B] parents need to respond to children's emotional needs
+[C] verbal expressions are unnecessary for emotional exchange
+[D] children are insensitive to changes in their parents' mood
+
+29. The oppressive ideology mentioned by Tronick requires parents to ______.
+[A] protect kids from exposure to wild fantasies
+[B] teach their kids at least 30,000 words a year
+[C] remain constant about kids' use of screens
+[D] ensure constant interaction with their children
+
+30. According to Tronick, kids' use of screens may ______.
+[A] make their parents more creative
+[B] give their parents more free time
+[C] help them with their homework
+[D] help them become more attentive
 
 ---
 

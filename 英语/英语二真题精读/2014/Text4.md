@@ -18,11 +18,35 @@ But it is not just down to 取决于 the government. While these measures would 
 
 ## 题目（36–40）
 
-36. The author believes that the housing sector ______. [A] has attracted much attention [B] has failed to communicate its real value [C] should not be the sole focus of infrastructure [D] should not be blamed for the current economic situation
-37. It can be learned that affordable housing has ______. [A] increased its home supply [B] offered spending opportunities [C] suffered government biases [D] disappointed the government
-38. According to Paragraph 5, George Osborne may ______. [A] allow greater government debt for housing [B] stop local authorities from building homes [C] prepare to reduce housing stock debt [D] release a lifted GDP growth forecast
-39. It can be inferred that a stable rental environment would ______. [A] lower the costs of registered providers [B] lessen the impact of government interference [C] contribute to funding new developments [D] relieve the ministers of responsibilities
-40. The author believes that after 2015, the government may ______. [A] implement more policies to support housing [B] review the need for large-scale grants [C] renew the affordable housing grants programme [D] stop generous funding to the housing sector
+36. The author believes that the housing sector ______.
+[A] has attracted much attention
+[B] has failed to communicate its real value
+[C] should not be the sole focus of infrastructure
+[D] should not be blamed for the current economic situation
+
+37. It can be learned that affordable housing has ______.
+[A] increased its home supply
+[B] offered spending opportunities
+[C] suffered government biases
+[D] disappointed the government
+
+38. According to Paragraph 5, George Osborne may ______.
+[A] allow greater government debt for housing
+[B] stop local authorities from building homes
+[C] prepare to reduce housing stock debt
+[D] release a lifted GDP growth forecast
+
+39. It can be inferred that a stable rental environment would ______.
+[A] lower the costs of registered providers
+[B] lessen the impact of government interference
+[C] contribute to funding new developments
+[D] relieve the ministers of responsibilities
+
+40. The author believes that after 2015, the government may ______.
+[A] implement more policies to support housing
+[B] review the need for large-scale grants
+[C] renew the affordable housing grants programme
+[D] stop generous funding to the housing sector
 
 ---
 

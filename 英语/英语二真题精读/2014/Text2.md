@@ -12,11 +12,35 @@ Knowing the results of Epley's study, it makes sense 说得通 that many people 
 
 ## 题目（26–30）
 
-26. According to the first paragraph, social psychologists have found that ______. [A] self-enhancing strategies are ineffective [B] illusory superiority is baseless [C] our need for leadership is unnatural [D] people are unrealistically optimistic about their looks
-27. Visual recognition is believed to be people's ______. [A] rapid watching [B] conscious choice [C] intuitive response [D] automatic self-defence
-28. Epley found that people with higher self-esteem tended to ______. [A] underestimate their insecurities [B] believe in their attractiveness [C] cover up their depressions [D] oversimplify their illusions
-29. The word "viscerally" (Line 2, Para.5) is closest in meaning to ______. [A] instinctively [B] occasionally [C] particularly [D] aggressively
-30. It can be inferred that Facebook is self-enhancer's paradise because people can ______. [A] present their dishonest profiles [B] define their traditional life styles [C] share their intellectual pursuits [D] withhold their unflattering sides
+26. According to the first paragraph, social psychologists have found that ______.
+[A] self-enhancing strategies are ineffective
+[B] illusory superiority is baseless
+[C] our need for leadership is unnatural
+[D] people are unrealistically optimistic about their looks
+
+27. Visual recognition is believed to be people's ______.
+[A] rapid watching
+[B] conscious choice
+[C] intuitive response
+[D] automatic self-defence
+
+28. Epley found that people with higher self-esteem tended to ______.
+[A] underestimate their insecurities
+[B] believe in their attractiveness
+[C] cover up their depressions
+[D] oversimplify their illusions
+
+29. The word "viscerally" (Line 2, Para.5) is closest in meaning to ______.
+[A] instinctively
+[B] occasionally
+[C] particularly
+[D] aggressively
+
+30. It can be inferred that Facebook is self-enhancer's paradise because people can ______.
+[A] present their dishonest profiles
+[B] define their traditional life styles
+[C] share their intellectual pursuits
+[D] withhold their unflattering sides
 
 ---
 

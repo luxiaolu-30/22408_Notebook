@@ -12,11 +12,35 @@ Intuition's special powers are unleashed 释放 only in certain circumstances. I
 
 ## 题目（36–40）
 
-36. Nalini Ambady's study deals with ______. [A] instructor student interaction [B] the power of people's memory [C] the reliability of first impressions [D] people's ability to influence others
-37. In Ambady's study, rating accuracy dropped when participants ______. [A] gave the rating in limited time [B] focused on specific details [C] watched shorter video clips [D] discussed with one another
-38. Judith Hall mentions driving to show that ______. [A] memory can be selective [B] reflection can be distracting [C] social skills must be cultivated [D] deception is difficult to detect
-39. When you are making complex decisions, it is advisable to ______. [A] follow your feelings [B] list your preferences [C] seek expert advice [D] collect enough data
-40. What can we learn from the last paragraph? [A] Generating new products takes time. [B] Intuition may affect reflective tasks. [C] Vocabulary comprehension needs creativity. [D] Objective thinking may boost intuitiveness.
+36. Nalini Ambady's study deals with ______.
+[A] instructor student interaction
+[B] the power of people's memory
+[C] the reliability of first impressions
+[D] people's ability to influence others
+
+37. In Ambady's study, rating accuracy dropped when participants ______.
+[A] gave the rating in limited time
+[B] focused on specific details
+[C] watched shorter video clips
+[D] discussed with one another
+
+38. Judith Hall mentions driving to show that ______.
+[A] memory can be selective
+[B] reflection can be distracting
+[C] social skills must be cultivated
+[D] deception is difficult to detect
+
+39. When you are making complex decisions, it is advisable to ______.
+[A] follow your feelings
+[B] list your preferences
+[C] seek expert advice
+[D] collect enough data
+
+40. What can we learn from the last paragraph?
+[A] Generating new products takes time.
+[B] Intuition may affect reflective tasks.
+[C] Vocabulary comprehension needs creativity.
+[D] Objective thinking may boost intuitiveness.
 
 ---
 

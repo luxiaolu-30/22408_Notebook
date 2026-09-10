@@ -12,11 +12,35 @@ Furthermore, the highest CEO salaries are paid to outside candidates 外部候�
 
 ## 题目（26–30）
 
-26. Which of the following has contributed to CEO pay rise? [A] Increased business opportunities for top firms. [B] Close cooperation among leading economies. [C] The general pay rise with a better economy. [D] The growth in the number of corporations.
-27. Compared with their predecessors, today's CEOs are required to ______. [A] establish closer ties with tech companies [B] operate more globalized companies [C] finance more research and development [D] foster a stronger sense of teamwork
-28. CEO pay has been rising since the 1970s despite ______. [A] continual internal opposition [B] conservative business strategies [C] repeated government warnings [D] strict corporate governance
-29. High CEO pay can be justified by the fact that it helps ______. [A] confirm the status of CEOs [B] increase corporate value [C] boost the efficiency of CEOs [D] motivate inside candidates
-30. The most suitable title for this text would be ______. [A] CEO Traits: Not Easy to Define [B] CEO Pay: Past and Present [C] CEOs Are Not Overpaid [D] CEOs' Challenges of Today
+26. Which of the following has contributed to CEO pay rise?
+[A] Increased business opportunities for top firms.
+[B] Close cooperation among leading economies.
+[C] The general pay rise with a better economy.
+[D] The growth in the number of corporations.
+
+27. Compared with their predecessors, today's CEOs are required to ______.
+[A] establish closer ties with tech companies
+[B] operate more globalized companies
+[C] finance more research and development
+[D] foster a stronger sense of teamwork
+
+28. CEO pay has been rising since the 1970s despite ______.
+[A] continual internal opposition
+[B] conservative business strategies
+[C] repeated government warnings
+[D] strict corporate governance
+
+29. High CEO pay can be justified by the fact that it helps ______.
+[A] confirm the status of CEOs
+[B] increase corporate value
+[C] boost the efficiency of CEOs
+[D] motivate inside candidates
+
+30. The most suitable title for this text would be ______.
+[A] CEO Traits: Not Easy to Define
+[B] CEO Pay: Past and Present
+[C] CEOs Are Not Overpaid
+[D] CEOs' Challenges of Today
 
 ---
 

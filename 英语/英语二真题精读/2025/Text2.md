@@ -12,11 +12,35 @@ Reform wants to ask how power and resources should be distributed 分配 in our 
 
 ## 题目（26–30）
 
-26. According to the first two paragraphs, the NHS ______. [A] is troubled by funding deficiencies [B] can hardly satisfy people's needs [C] can barely retain its current staff [D] is rivaled by private medical services
-27. One answer to the crisis in health and care is to ______. [A] boost the efficiency of hospitals [B] lighten the burden on social care [C] increase resources for primary care [D] reduce the pressure on communities
-28. "Reimagining health" is aimed to ______. [A] reinforce hospital management [B] readjust healthcare regulations [C] restructure the health system [D] resume suspended health reforms
-29. To maximize the nation's health, the author suggests ______. [A] introducing relevant taxation policies [B] paying due attention to social factors [C] reevaluating major health outcomes [D] enhancing the quality of healthcare
-30. It can be inferred that local leaders should ______. [A] exercise their power more reasonably [B] develop a stronger sense of responsibility [C] play a bigger role in the health system [D] understand people's health needs better
+26. According to the first two paragraphs, the NHS ______.
+[A] is troubled by funding deficiencies
+[B] can hardly satisfy people's needs
+[C] can barely retain its current staff
+[D] is rivaled by private medical services
+
+27. One answer to the crisis in health and care is to ______.
+[A] boost the efficiency of hospitals
+[B] lighten the burden on social care
+[C] increase resources for primary care
+[D] reduce the pressure on communities
+
+28. "Reimagining health" is aimed to ______.
+[A] reinforce hospital management
+[B] readjust healthcare regulations
+[C] restructure the health system
+[D] resume suspended health reforms
+
+29. To maximize the nation's health, the author suggests ______.
+[A] introducing relevant taxation policies
+[B] paying due attention to social factors
+[C] reevaluating major health outcomes
+[D] enhancing the quality of healthcare
+
+30. It can be inferred that local leaders should ______.
+[A] exercise their power more reasonably
+[B] develop a stronger sense of responsibility
+[C] play a bigger role in the health system
+[D] understand people's health needs better
 
 ---
 

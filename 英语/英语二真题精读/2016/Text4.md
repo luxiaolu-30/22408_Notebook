@@ -14,11 +14,35 @@ Pete Schneider considers the climb tougher today. Schneider, a 27-year-old auto 
 
 ## 题目（36–40）
 
-36. One cross-generation mark of a successful life is ______. [A] trying out different lifestyles [B] having a family with children [C] working beyond retirement age [D] setting up a profitable business
-37. It can be learned from Paragraph 3 that young people tend to ______. [A] favor a slower life pace [B] hold an occupation longer [C] attach importance to pre-marital finance [D] give priority to childcare outside the home
-38. The priorities and expectations defined by the young will ______. [A] become increasingly clear [B] focus on materialistic issues [C] depend largely on political preferences [D] reach almost all aspects of American life
-39. Both young and old agree that ______. [A] good-paying jobs are less available [B] the old made more life achievements [C] housing loans today are easy to obtain [D] getting established is harder for the young
-40. Which of the following is true about Schneider? [A] He found a dream job after graduating from college. [B] His parents believe working steadily is a must for success. [C] His parents' good life has little to do with a college degree. [D] He thinks his job as a technician quite challenging.
+36. One cross-generation mark of a successful life is ______.
+[A] trying out different lifestyles
+[B] having a family with children
+[C] working beyond retirement age
+[D] setting up a profitable business
+
+37. It can be learned from Paragraph 3 that young people tend to ______.
+[A] favor a slower life pace
+[B] hold an occupation longer
+[C] attach importance to pre-marital finance
+[D] give priority to childcare outside the home
+
+38. The priorities and expectations defined by the young will ______.
+[A] become increasingly clear
+[B] focus on materialistic issues
+[C] depend largely on political preferences
+[D] reach almost all aspects of American life
+
+39. Both young and old agree that ______.
+[A] good-paying jobs are less available
+[B] the old made more life achievements
+[C] housing loans today are easy to obtain
+[D] getting established is harder for the young
+
+40. Which of the following is true about Schneider?
+[A] He found a dream job after graduating from college.
+[B] His parents believe working steadily is a must for success.
+[C] His parents' good life has little to do with a college degree.
+[D] He thinks his job as a technician quite challenging.
 
 ---
 

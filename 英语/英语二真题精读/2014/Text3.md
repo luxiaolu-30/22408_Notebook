@@ -14,11 +14,35 @@ As Hagel notes, Brynjolfsson and McAfee indeed touched on 提及 this point in t
 
 ## 题目（31–35）
 
-31. According to the first paragraph, economic downturns would ______. [A] ease the competition of man vs. machine [B] highlight machines' threat to human jobs [C] provoke a painful technological revolution [D] outmode our current economic structure
-32. The authors of Race Against the Machine argue that ______. [A] technology is diminishing man's job opportunities [B] automation is accelerating technological development [C] certain jobs will remain intact after automation [D] man will finally win the race against machine
-33. Hagel argues that jobs in the U.S. are often ______. [A] performed by innovative minds [B] scripted with an individual style [C] standardized without a clear target [D] designed against human creativity
-34. According to the last paragraph, Brynjolfsson and McAfee discussed ______. [A] the predictability of machine behavior in practice [B] the formula for how work is conducted efficiently [C] the ways machines replace human labor in modern times [D] the necessity of human involvement in the workplace
-35. Which of the following could be the most appropriate title for the text? [A] How to Innovate Our Work Practices [B] Machines will Replace Human Labor [C] Can We Win the Race Against Machines? [D] Economic Downturns Stimulate Innovations
+31. According to the first paragraph, economic downturns would ______.
+[A] ease the competition of man vs. machine
+[B] highlight machines' threat to human jobs
+[C] provoke a painful technological revolution
+[D] outmode our current economic structure
+
+32. The authors of Race Against the Machine argue that ______.
+[A] technology is diminishing man's job opportunities
+[B] automation is accelerating technological development
+[C] certain jobs will remain intact after automation
+[D] man will finally win the race against machine
+
+33. Hagel argues that jobs in the U.S. are often ______.
+[A] performed by innovative minds
+[B] scripted with an individual style
+[C] standardized without a clear target
+[D] designed against human creativity
+
+34. According to the last paragraph, Brynjolfsson and McAfee discussed ______.
+[A] the predictability of machine behavior in practice
+[B] the formula for how work is conducted efficiently
+[C] the ways machines replace human labor in modern times
+[D] the necessity of human involvement in the workplace
+
+35. Which of the following could be the most appropriate title for the text?
+[A] How to Innovate Our Work Practices
+[B] Machines will Replace Human Labor
+[C] Can We Win the Race Against Machines?
+[D] Economic Downturns Stimulate Innovations
 
 ---
 

@@ -18,11 +18,35 @@ A more immediate response is to broaden our digital imaginations to conceive of 
 
 ## 题目（21–25）
 
-21. Coyle argues in her new book that economic growth should ______. [A] give rise to innovations [B] diversify career choices [C] benefit people equally [D] be promoted forcefully
-22. According to Paragraph 2, digital technologies should be used to ______. [A] bring about instant prosperity [B] reduce people's workload [C] raise overall work efficiency [D] enhance cross-sector cooperation
-23. What does Coyle fear about transformative technologies? [A] They may affect work-life balance. [B] They may be impractical to deploy. [C] They may incur huge expenditure. [D] They may be unwelcome to the public.
-24. Several American cities are mentioned to show ______. [A] the uneven distribution of AI technologies in the US [B] the disappointing prospect of tech jobs in the US [C] the fast progress of US AI research [D] the increasing significance of US AI assets
-25. With regard to Coyle's concern, the author suggests ______. [A] raising funds to start new AI projects [B] encouraging collaboration in AI research [C] guarding against the side effects of AI [D] redefining the role of AI technologies
+21. Coyle argues in her new book that economic growth should ______.
+[A] give rise to innovations
+[B] diversify career choices
+[C] benefit people equally
+[D] be promoted forcefully
+
+22. According to Paragraph 2, digital technologies should be used to ______.
+[A] bring about instant prosperity
+[B] reduce people's workload
+[C] raise overall work efficiency
+[D] enhance cross-sector cooperation
+
+23. What does Coyle fear about transformative technologies?
+[A] They may affect work-life balance.
+[B] They may be impractical to deploy.
+[C] They may incur huge expenditure.
+[D] They may be unwelcome to the public.
+
+24. Several American cities are mentioned to show ______.
+[A] the uneven distribution of AI technologies in the US
+[B] the disappointing prospect of tech jobs in the US
+[C] the fast progress of US AI research
+[D] the increasing significance of US AI assets
+
+25. With regard to Coyle's concern, the author suggests ______.
+[A] raising funds to start new AI projects
+[B] encouraging collaboration in AI research
+[C] guarding against the side effects of AI
+[D] redefining the role of AI technologies
 
 ---
 

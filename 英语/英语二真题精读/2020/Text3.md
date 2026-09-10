@@ -18,11 +18,35 @@ Restrictions that keep highly polluting cars out of certain areas—city centres
 
 ## 题目（31–35）
 
-31. Which of the following is true about Madrid's clean air zone? [A] Its effects are questionable. [B] It has been opposed by a judge. [C] It needs tougher enforcement. [D] Its fate is yet to be decided.
-32. Which is considered a weakness of the city-level measures to tackle dirty air? [A] They are biased against car manufacturers. [B] They prove impractical for city councils. [C] They are deemed too mild for politicians. [D] They put the burden on individual motorists.
-33. The author believes that the extension of London's Ulez will ______. [A] arouse strong resistance [B] ensure Khan's electoral success [C] improve the city's traffic [D] discourage car manufacturing
-34. Who does the author think should have addressed the problem? [A] Local residents. [B] Mayors. [C] Councillors. [D] National governments.
-35. It can be learned from the last paragraph that auto companies ______. [A] will raise low-emission car production [B] should be forced to follow regulations [C] will upgrade the design of their vehicles [D] should be put under public supervision
+31. Which of the following is true about Madrid's clean air zone?
+[A] Its effects are questionable.
+[B] It has been opposed by a judge.
+[C] It needs tougher enforcement.
+[D] Its fate is yet to be decided.
+
+32. Which is considered a weakness of the city-level measures to tackle dirty air?
+[A] They are biased against car manufacturers.
+[B] They prove impractical for city councils.
+[C] They are deemed too mild for politicians.
+[D] They put the burden on individual motorists.
+
+33. The author believes that the extension of London's Ulez will ______.
+[A] arouse strong resistance
+[B] ensure Khan's electoral success
+[C] improve the city's traffic
+[D] discourage car manufacturing
+
+34. Who does the author think should have addressed the problem?
+[A] Local residents.
+[B] Mayors.
+[C] Councillors.
+[D] National governments.
+
+35. It can be learned from the last paragraph that auto companies ______.
+[A] will raise low-emission car production
+[B] should be forced to follow regulations
+[C] will upgrade the design of their vehicles
+[D] should be put under public supervision
 
 ---
 

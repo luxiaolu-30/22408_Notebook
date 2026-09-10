@@ -14,11 +14,35 @@ As more states consider promulgating 颁布 additional regulations, there is a n
 
 ## 题目（31–35）
 
-31. It can be learned from the first two paragraphs that dark patterns ______. [A] improve user experiences [B] leak user information for profit [C] undermine users' decision-making [D] remind users of hidden costs
-32. The 2019 study on dark patterns is mentioned to show ______. [A] their major flaws [B] their complex designs [C] their severe damage [D] their strong presence
-33. To handle digital deception, businesses should ______. [A] listen to customer feedback [B] talk with relevant teams [C] turn to independent agencies [D] rely on professional training
-34. The additional regulations under the CCPA are intended to ______. [A] guide users through opt-out processes [B] protect consumers from being tricked [C] grant companies data privacy rights [D] restrict access to problematic content
-35. According to the last paragraph, a key to coping with dark patterns is ______. [A] new legal requirements [B] businesses' self-discipline [C] strict regulatory standards [D] consumers' safety awareness
+31. It can be learned from the first two paragraphs that dark patterns ______.
+[A] improve user experiences
+[B] leak user information for profit
+[C] undermine users' decision-making
+[D] remind users of hidden costs
+
+32. The 2019 study on dark patterns is mentioned to show ______.
+[A] their major flaws
+[B] their complex designs
+[C] their severe damage
+[D] their strong presence
+
+33. To handle digital deception, businesses should ______.
+[A] listen to customer feedback
+[B] talk with relevant teams
+[C] turn to independent agencies
+[D] rely on professional training
+
+34. The additional regulations under the CCPA are intended to ______.
+[A] guide users through opt-out processes
+[B] protect consumers from being tricked
+[C] grant companies data privacy rights
+[D] restrict access to problematic content
+
+35. According to the last paragraph, a key to coping with dark patterns is ______.
+[A] new legal requirements
+[B] businesses' self-discipline
+[C] strict regulatory standards
+[D] consumers' safety awareness
 
 ---
 

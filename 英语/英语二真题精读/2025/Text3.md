@@ -14,11 +14,35 @@ HAPs shouldn't just include short-term emergency responses 短期应急响应, r
 
 ## 题目（31–35）
 
-31. According to Paragraph 1, Nagpur's plan proposes measures to ______. [A] tackle extreme weather [B] ensure construction quality [C] monitor emergency warnings [D] address excessive workloads
-32. One problem with existing HAPs is that they ______. [A] prove too costly to be implemented [B] lack localized alert-issuing criteria [C] give delayed responses to heat waves [D] keep hospitals under great pressure
-33. Mumbai's case shows that India's heat alert systems need to ______. [A] include other factors besides temperature [B] take subtle weather changes into account [C] prioritize potentially disastrous heat waves [D] draw further support from local authorities
-34. Kotharkar holds that a vulnerability map can help ______. [A] prevent the harm of high humidity [B] target areas needing special attention [C] expand the Nagpur project's coverage [D] make relief plans for heat-stricken people
-35. According to the last paragraph, researchers believe that HAPs should ______. [A] focus more on heatstroke treatment [B] apply for more government grants [C] invite wider public participation [D] serve a broader range of purposes
+31. According to Paragraph 1, Nagpur's plan proposes measures to ______.
+[A] tackle extreme weather
+[B] ensure construction quality
+[C] monitor emergency warnings
+[D] address excessive workloads
+
+32. One problem with existing HAPs is that they ______.
+[A] prove too costly to be implemented
+[B] lack localized alert-issuing criteria
+[C] give delayed responses to heat waves
+[D] keep hospitals under great pressure
+
+33. Mumbai's case shows that India's heat alert systems need to ______.
+[A] include other factors besides temperature
+[B] take subtle weather changes into account
+[C] prioritize potentially disastrous heat waves
+[D] draw further support from local authorities
+
+34. Kotharkar holds that a vulnerability map can help ______.
+[A] prevent the harm of high humidity
+[B] target areas needing special attention
+[C] expand the Nagpur project's coverage
+[D] make relief plans for heat-stricken people
+
+35. According to the last paragraph, researchers believe that HAPs should ______.
+[A] focus more on heatstroke treatment
+[B] apply for more government grants
+[C] invite wider public participation
+[D] serve a broader range of purposes
 
 ---
 

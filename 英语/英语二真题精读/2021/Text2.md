@@ -14,11 +14,35 @@ Just 23 percent of the fruit and vegetables consumed in the UK are currently hom
 
 ## 题目（26–30）
 
-26. Some people argue that food self-sufficiency in the UK would ______. [A] be hindered by its population growth [B] become a priority of government [C] pose a challenge to its farming industry [D] contribute to the nation's well-being
-27. The report by the University of Leeds shows that in the UK ______. [A] farmland has been inefficiently utilized [B] factory-style production needs reforming [C] most land is used for meat and dairy production [D] more green fields will be converted for farming
-28. Crop-growing in the UK is restricted due to ______. [A] its farming technology [B] its dietary tradition [C] its natural conditions [D] its commercial interests
-29. It can be learned from the last paragraph that British people ______. [A] rely largely on imports for fresh produce [B] enjoy a steady rise in fruit consumption [C] are seeking effective ways to cut calorie intake [D] are trying to grow new varieties of grains
-30. The author's attitude to food self-sufficiency in the UK is ______. [A] defensive [B] doubtful [C] tolerant [D] optimistic
+26. Some people argue that food self-sufficiency in the UK would ______.
+[A] be hindered by its population growth
+[B] become a priority of government
+[C] pose a challenge to its farming industry
+[D] contribute to the nation's well-being
+
+27. The report by the University of Leeds shows that in the UK ______.
+[A] farmland has been inefficiently utilized
+[B] factory-style production needs reforming
+[C] most land is used for meat and dairy production
+[D] more green fields will be converted for farming
+
+28. Crop-growing in the UK is restricted due to ______.
+[A] its farming technology
+[B] its dietary tradition
+[C] its natural conditions
+[D] its commercial interests
+
+29. It can be learned from the last paragraph that British people ______.
+[A] rely largely on imports for fresh produce
+[B] enjoy a steady rise in fruit consumption
+[C] are seeking effective ways to cut calorie intake
+[D] are trying to grow new varieties of grains
+
+30. The author's attitude to food self-sufficiency in the UK is ______.
+[A] defensive
+[B] doubtful
+[C] tolerant
+[D] optimistic
 
 ---
 

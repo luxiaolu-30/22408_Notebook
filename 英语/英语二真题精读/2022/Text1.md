@@ -14,11 +14,35 @@ The industry is betting that the same consumers paying more for premium attribut
 
 ## 题目（21–25）
 
-21. The climate-friendly eggs are produced ______. [A] at a considerably low cost [B] at the demand of regular shoppers [C] as a replacement for organic eggs [D] on specially designed farms
-22. Larry Brown is excited about his progress in ______. [A] reducing the damage of worms [B] accelerating the disposal of waste [C] creating a sustainable system [D] attracting customers to his products
-23. The example of organic eggs is used in the fourth paragraph to suggest ______. [A] the doubts over natural feeds [B] the setbacks in the egg industry [C] the potential of regenerative products [D] the promotional success of supermarkets
-24. It can be learned from the last paragraph that young people ______. [A] are reluctant to change their diet [B] are likely to buy climate-friendly eggs [C] are curious about new food [D] are amazed at agriculture advance
-25. John Brunnquell would disagree with Julie Stanton over regenerative products in ______. [A] market prospects [B] nutritional value [C] standard definition [D] moral implication
+21. The climate-friendly eggs are produced ______.
+[A] at a considerably low cost
+[B] at the demand of regular shoppers
+[C] as a replacement for organic eggs
+[D] on specially designed farms
+
+22. Larry Brown is excited about his progress in ______.
+[A] reducing the damage of worms
+[B] accelerating the disposal of waste
+[C] creating a sustainable system
+[D] attracting customers to his products
+
+23. The example of organic eggs is used in the fourth paragraph to suggest ______.
+[A] the doubts over natural feeds
+[B] the setbacks in the egg industry
+[C] the potential of regenerative products
+[D] the promotional success of supermarkets
+
+24. It can be learned from the last paragraph that young people ______.
+[A] are reluctant to change their diet
+[B] are likely to buy climate-friendly eggs
+[C] are curious about new food
+[D] are amazed at agriculture advance
+
+25. John Brunnquell would disagree with Julie Stanton over regenerative products in ______.
+[A] market prospects
+[B] nutritional value
+[C] standard definition
+[D] moral implication
 
 ---
 

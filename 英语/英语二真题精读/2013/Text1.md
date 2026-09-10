@@ -14,11 +14,35 @@ In a world where average is officially over, there are many things we need to do
 
 ## 题目（21–25）
 
-21. The joke in Paragraph 1 is used to illustrate ______. [A] the impact of technological advances [B] the alleviation of job pressure [C] the shrinkage of textile mills [D] the decline of middle-class incomes
-22. According to Paragraph 3, to be a successful employee, one has to ______. [A] work on cheap software [B] ask for a moderate salary [C] adopt an average lifestyle [D] contribute something unique
-23. The quotation in Paragraph 4 explains that ______. [A] gains of technology have been erased [B] job opportunities are disappearing at a high speed [C] factories are making much less money than before [D] new jobs and services have been offered
-24. According to the author, to reduce unemployment, the most important is ______. [A] to accelerate the I.T. revolution [B] to ensure more education for people [C] to advance economic globalization [D] to pass more bills in the 21st century
-25. Which of the following would be the most appropriate title for the text? [A] New Law Takes Effect [B] Technology Goes Cheap [C] Average Is Over [D] Recession Is Bad
+21. The joke in Paragraph 1 is used to illustrate ______.
+[A] the impact of technological advances
+[B] the alleviation of job pressure
+[C] the shrinkage of textile mills
+[D] the decline of middle-class incomes
+
+22. According to Paragraph 3, to be a successful employee, one has to ______.
+[A] work on cheap software
+[B] ask for a moderate salary
+[C] adopt an average lifestyle
+[D] contribute something unique
+
+23. The quotation in Paragraph 4 explains that ______.
+[A] gains of technology have been erased
+[B] job opportunities are disappearing at a high speed
+[C] factories are making much less money than before
+[D] new jobs and services have been offered
+
+24. According to the author, to reduce unemployment, the most important is ______.
+[A] to accelerate the I.T. revolution
+[B] to ensure more education for people
+[C] to advance economic globalization
+[D] to pass more bills in the 21st century
+
+25. Which of the following would be the most appropriate title for the text?
+[A] New Law Takes Effect
+[B] Technology Goes Cheap
+[C] Average Is Over
+[D] Recession Is Bad
 
 ---
 

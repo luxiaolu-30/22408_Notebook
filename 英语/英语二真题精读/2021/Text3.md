@@ -16,11 +16,35 @@ However, critics say that the big companies use such deals to buy their most thr
 
 ## 题目（31–35）
 
-31. What is true about Wunderlist and Sunrise after their acquisitions? [A] Their market values declined. [B] Their tech features improved. [C] Their engineers were retained. [D] Their products were re-priced.
-32. Microsoft's critics believe that the big tech companies tend to ______. [A] ignore public opinions [B] treat new tech talent unfairly [C] exaggerate their product quality [D] eliminate their potential competitors
-33. Paul Arnold is concerned that small acquisitions might ______. [A] harm the national economy [B] worsen market competition [C] discourage start-up investors [D] weaken big tech companies
-34. The US Federal Trade Commission intends to ______. [A] examine small acquisitions [B] limit Big Tech's expansion [C] supervise start-ups' operations [D] encourage research collaboration
-35. For the five biggest tech companies, their small acquisitions have ______. [A] brought little financial pressure [B] raised few management challenges [C] set an example for future deals [D] generated considerable profits
+31. What is true about Wunderlist and Sunrise after their acquisitions?
+[A] Their market values declined.
+[B] Their tech features improved.
+[C] Their engineers were retained.
+[D] Their products were re-priced.
+
+32. Microsoft's critics believe that the big tech companies tend to ______.
+[A] ignore public opinions
+[B] treat new tech talent unfairly
+[C] exaggerate their product quality
+[D] eliminate their potential competitors
+
+33. Paul Arnold is concerned that small acquisitions might ______.
+[A] harm the national economy
+[B] worsen market competition
+[C] discourage start-up investors
+[D] weaken big tech companies
+
+34. The US Federal Trade Commission intends to ______.
+[A] examine small acquisitions
+[B] limit Big Tech's expansion
+[C] supervise start-ups' operations
+[D] encourage research collaboration
+
+35. For the five biggest tech companies, their small acquisitions have ______.
+[A] brought little financial pressure
+[B] raised few management challenges
+[C] set an example for future deals
+[D] generated considerable profits
 
 ---
 

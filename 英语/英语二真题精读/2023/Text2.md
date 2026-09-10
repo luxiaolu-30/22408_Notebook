@@ -16,11 +16,35 @@ The parks do all this on a shoestring 小成本. Congress allocates 拨款 only 
 
 ## 题目（26–30）
 
-26. What problem are U.S. national parks faced with? [A] Decline of business profits. [B] Inadequate commercialization. [C] Lack of transportation services. [D] Poorly maintained infrastructure.
-27. Increased privatization of the campgrounds may ______. [A] spoil visitor experience [B] help preserve nature [C] bring operational pressure [D] boost visitors to parks
-28. According to Paragraph 5, most respondents in the survey would ______. [A] go to the national parks on a regular basis [B] advocate a bigger budget for the national parks [C] agree to pay extra for the national parks [D] support the national parks' recent reforms
-29. The national parks are valuable in that they ______. [A] lead the way in tourism [B] have historical significance [C] sponsor research on climate [D] provide an income for the locals
-30. It can be concluded from the text that the national park system ______. [A] is able to cope with staff shortages [B] is able to meet visitors' demands [C] is in need of a new pricing policy [D] is in need of a funding increase
+26. What problem are U.S. national parks faced with?
+[A] Decline of business profits.
+[B] Inadequate commercialization.
+[C] Lack of transportation services.
+[D] Poorly maintained infrastructure.
+
+27. Increased privatization of the campgrounds may ______.
+[A] spoil visitor experience
+[B] help preserve nature
+[C] bring operational pressure
+[D] boost visitors to parks
+
+28. According to Paragraph 5, most respondents in the survey would ______.
+[A] go to the national parks on a regular basis
+[B] advocate a bigger budget for the national parks
+[C] agree to pay extra for the national parks
+[D] support the national parks' recent reforms
+
+29. The national parks are valuable in that they ______.
+[A] lead the way in tourism
+[B] have historical significance
+[C] sponsor research on climate
+[D] provide an income for the locals
+
+30. It can be concluded from the text that the national park system ______.
+[A] is able to cope with staff shortages
+[B] is able to meet visitors' demands
+[C] is in need of a new pricing policy
+[D] is in need of a funding increase
 
 ---
 

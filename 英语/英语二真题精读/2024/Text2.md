@@ -10,11 +10,35 @@ While productive tree planting can deliver real financial benefits to rural econ
 
 ## 题目（26–30）
 
-26. It can be learned from Paragraph 1 that UK needs to ______. [A] increase its domestic wood supply [B] reduce its demand for timber [C] lower its wood production costs [D] lift its control on timber imports
-27. According to Confor, the UK government's fresh incentives ______. [A] can hardly address a construction crisis [B] are believed to come at a wrong time [C] seem to be misleading for landowners [D] will be too costly to put into practice
-28. The UK's exposure to fluctuating wood prices is a result of ______. [A] the government's inaction on timber imports [B] inadequate investment in growing wood [C] the competition among timber traders at home [D] wood producers' motive to maximise profits
-29. Which of the following causes the shortage of wood supply in the UK? [A] Excessive timber consumption in construction [B] Unfavourable conditions for growing wood [C] Outdated technologies of the wood industry [D] Farmers' unwillingness to plant trees
-30. What does Goodall think the UK government should do? [A] Subsidise the building of low-carbon homes [B] Pay greater attention to boosting rural economies [C] Provide more support for productive tree planting [D] Give priority to pursuing its net-zero strategy
+26. It can be learned from Paragraph 1 that UK needs to ______.
+[A] increase its domestic wood supply
+[B] reduce its demand for timber
+[C] lower its wood production costs
+[D] lift its control on timber imports
+
+27. According to Confor, the UK government's fresh incentives ______.
+[A] can hardly address a construction crisis
+[B] are believed to come at a wrong time
+[C] seem to be misleading for landowners
+[D] will be too costly to put into practice
+
+28. The UK's exposure to fluctuating wood prices is a result of ______.
+[A] the government's inaction on timber imports
+[B] inadequate investment in growing wood
+[C] the competition among timber traders at home
+[D] wood producers' motive to maximise profits
+
+29. Which of the following causes the shortage of wood supply in the UK?
+[A] Excessive timber consumption in construction
+[B] Unfavourable conditions for growing wood
+[C] Outdated technologies of the wood industry
+[D] Farmers' unwillingness to plant trees
+
+30. What does Goodall think the UK government should do?
+[A] Subsidise the building of low-carbon homes
+[B] Pay greater attention to boosting rural economies
+[C] Provide more support for productive tree planting
+[D] Give priority to pursuing its net-zero strategy
 
 ---
 

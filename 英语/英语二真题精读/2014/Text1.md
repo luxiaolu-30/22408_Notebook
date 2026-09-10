@@ -10,11 +10,35 @@ Readers of "Happy Money" are clearly a privileged 特权的 lot 一群人, anxio
 
 ## 题目（21–25）
 
-21. According to Dunn and Norton, which of the following is the most rewarding purchase? [A] A big house [B] A special tour [C] A stylish car [D] A rich meal
-22. The author's attitude toward Americans' watching TV is ______. [A] critical [B] supportive [C] sympathetic [D] ambiguous
-23. McRib is mentioned in Paragraph 3 to show that ______. [A] consumers are sometimes irrational [B] popularity usually comes after quality [C] marketing tricks are after effective [D] rarity generally increases pleasure
-24. According to the last paragraph, Happy Money ______. [A] has left much room for readers' criticism [B] may prove to be a worthwhile purchase [C] has predicted a wider income gap in the US [D] may give its readers a sense of achievement
-25. This text mainly discusses how to ______. [A] balance feeling good and spending money [B] spend large sums of money won in lotteries [C] obtain lasting satisfaction from money spent [D] become more reasonable in spending on luxuries
+21. According to Dunn and Norton, which of the following is the most rewarding purchase?
+[A] A big house
+[B] A special tour
+[C] A stylish car
+[D] A rich meal
+
+22. The author's attitude toward Americans' watching TV is ______.
+[A] critical
+[B] supportive
+[C] sympathetic
+[D] ambiguous
+
+23. McRib is mentioned in Paragraph 3 to show that ______.
+[A] consumers are sometimes irrational
+[B] popularity usually comes after quality
+[C] marketing tricks are after effective
+[D] rarity generally increases pleasure
+
+24. According to the last paragraph, Happy Money ______.
+[A] has left much room for readers' criticism
+[B] may prove to be a worthwhile purchase
+[C] has predicted a wider income gap in the US
+[D] may give its readers a sense of achievement
+
+25. This text mainly discusses how to ______.
+[A] balance feeling good and spending money
+[B] spend large sums of money won in lotteries
+[C] obtain lasting satisfaction from money spent
+[D] become more reasonable in spending on luxuries
 
 ---
 

@@ -16,11 +16,35 @@ Teenagers are particularly sensitive to social rewards—winning the game, impre
 
 ## 题目（36–40）
 
-36. According to Paragraph 1, children growing into adolescence tend to ______. [A] develop opposite personality traits [B] see the world in an unreasonable way [C] have fond memories of their past [D] show affection to their parents
-37. It can be learned from Paragraph 2 that Crone's study ______. [A] explores teenagers' social responsibilities [B] examines teenagers' emotional problems [C] provides a new insight into adolescence [D] highlights negative adolescent behavior
-38. What does Crone's study find about prosocial behavior? [A] It results from the wish to cooperate. [B] It is cultivated through education. [C] It is subject to family influence. [D] It tends to peak in adolescence.
-39. It can be learned from the last two paragraphs that teenagers ______. [A] overstress their influence on others [B] care a lot about social recognition [C] become anxious about their future [D] endeavor to live up to a joyful life
-40. What is the text mainly about? [A] Why teenagers are self-contradictory [B] Why teenagers are risk-sensitive [C] How teenagers develop prosociality [D] How teenagers become independent
+36. According to Paragraph 1, children growing into adolescence tend to ______.
+[A] develop opposite personality traits
+[B] see the world in an unreasonable way
+[C] have fond memories of their past
+[D] show affection to their parents
+
+37. It can be learned from Paragraph 2 that Crone's study ______.
+[A] explores teenagers' social responsibilities
+[B] examines teenagers' emotional problems
+[C] provides a new insight into adolescence
+[D] highlights negative adolescent behavior
+
+38. What does Crone's study find about prosocial behavior?
+[A] It results from the wish to cooperate.
+[B] It is cultivated through education.
+[C] It is subject to family influence.
+[D] It tends to peak in adolescence.
+
+39. It can be learned from the last two paragraphs that teenagers ______.
+[A] overstress their influence on others
+[B] care a lot about social recognition
+[C] become anxious about their future
+[D] endeavor to live up to a joyful life
+
+40. What is the text mainly about?
+[A] Why teenagers are self-contradictory
+[B] Why teenagers are risk-sensitive
+[C] How teenagers develop prosociality
+[D] How teenagers become independent
 
 ---
 

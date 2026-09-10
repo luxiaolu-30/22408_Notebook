@@ -10,11 +10,35 @@ The product they're selling is data, and we, the users, convert 转变 our lives
 
 ## 题目（31–35）
 
-31. According to Paragraph 1, Facebook acquired WhatsApp for its ______. [A] digital products [B] user information [C] physical assets [D] quality service
-32. Linking phone numbers to Facebook identities may ______. [A] worsen political disputes [B] mess up customer records [C] pose a risk to Facebook users [D] mislead the European commission
-33. According to the author, competition law ______. [A] should serve the new market powers [B] may worsen the economic imbalance [C] should not provide just one legal solution [D] cannot keep pace with the changing market
-34. Competition law as presently interpreted can hardly protect Facebook users because ______. [A] they are not defined as customers [B] they are not financially reliable [C] the services are generally digital [D] the services are paid for by advertisers
-35. The ants analogy is used to illustrate ______. [A] a win-win business model between digital giants [B] a typical competition pattern among digital giants [C] the benefits provided for digital giants' customers [D] the relationship between digital giants and their users
+31. According to Paragraph 1, Facebook acquired WhatsApp for its ______.
+[A] digital products
+[B] user information
+[C] physical assets
+[D] quality service
+
+32. Linking phone numbers to Facebook identities may ______.
+[A] worsen political disputes
+[B] mess up customer records
+[C] pose a risk to Facebook users
+[D] mislead the European commission
+
+33. According to the author, competition law ______.
+[A] should serve the new market powers
+[B] may worsen the economic imbalance
+[C] should not provide just one legal solution
+[D] cannot keep pace with the changing market
+
+34. Competition law as presently interpreted can hardly protect Facebook users because ______.
+[A] they are not defined as customers
+[B] they are not financially reliable
+[C] the services are generally digital
+[D] the services are paid for by advertisers
+
+35. The ants analogy is used to illustrate ______.
+[A] a win-win business model between digital giants
+[B] a typical competition pattern among digital giants
+[C] the benefits provided for digital giants' customers
+[D] the relationship between digital giants and their users
 
 ---
 

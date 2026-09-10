@@ -12,11 +12,35 @@ Schwitzgebel suspects the greatest impact came from social influence 社会影�
 
 ## 题目（36–40）
 
-36. Scientists generally believe that the effects of ethics classes are ______. [A] hard to determine [B] narrowly interpreted [C] difficult to ignore [D] poorly summarized
-37. Which of the following is a reason for the researchers to study meat-eating? [A] It is common among students. [B] It is a behavior easy to measure. [C] It is important to students' health. [D] It is a hot topic in ethics classes.
-38. Eric Schwitzgebel's previous findings suggest that ethics professors ______. [A] are seldom critical of their students [B] are less sociable than other professors [C] are not sensitive to political issues [D] are not necessarily ethically better
-39. Nina Strohminger thinks that the effect of the intervention is ______. [A] permanent [B] predictable [C] uncertain [D] unrepeatable
-40. Eric Schwitzgebel suspects that the students' change in behavior ______. [A] can bring psychological benefits [B] can be analyzed statistically [C] is a result of multiple factors [D] is a sign of self-development
+36. Scientists generally believe that the effects of ethics classes are ______.
+[A] hard to determine
+[B] narrowly interpreted
+[C] difficult to ignore
+[D] poorly summarized
+
+37. Which of the following is a reason for the researchers to study meat-eating?
+[A] It is common among students.
+[B] It is a behavior easy to measure.
+[C] It is important to students' health.
+[D] It is a hot topic in ethics classes.
+
+38. Eric Schwitzgebel's previous findings suggest that ethics professors ______.
+[A] are seldom critical of their students
+[B] are less sociable than other professors
+[C] are not sensitive to political issues
+[D] are not necessarily ethically better
+
+39. Nina Strohminger thinks that the effect of the intervention is ______.
+[A] permanent
+[B] predictable
+[C] uncertain
+[D] unrepeatable
+
+40. Eric Schwitzgebel suspects that the students' change in behavior ______.
+[A] can bring psychological benefits
+[B] can be analyzed statistically
+[C] is a result of multiple factors
+[D] is a sign of self-development
 
 ---
 

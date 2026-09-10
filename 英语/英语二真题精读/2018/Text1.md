@@ -18,11 +18,35 @@ Koziatek's school is a wake-up call 警钟. When education becomes one-size-fits
 
 ## 题目（21–25）
 
-21. A broken bike chain is mentioned to show students' lack of ______. [A] academic training [B] practical ability [C] pioneering spirit [D] mechanical memorization
-22. There exists the prejudice that vocational education is for kids who ______. [A] have a stereotyped mind [B] have no career motivation [C] are financially disadvantaged [D] are not academically successful
-23. We can infer from Paragraph 5 that high school graduates ______. [A] used to have more job opportunities [B] used to have big financial concerns [C] are entitled to more educational privileges [D] are reluctant to work in manufacturing
-24. The headlong push into bachelor's degrees for all ______. [A] helps create a lot of middle-skill jobs [B] may narrow the gap in working-class jobs [C] indicates the overvaluing of higher education [D] is expected to yield a better-trained workforce
-25. The author's attitude toward Koziatek's school can be described as ______. [A] tolerant [B] cautious [C] supportive [D] disappointed
+21. A broken bike chain is mentioned to show students' lack of ______.
+[A] academic training
+[B] practical ability
+[C] pioneering spirit
+[D] mechanical memorization
+
+22. There exists the prejudice that vocational education is for kids who ______.
+[A] have a stereotyped mind
+[B] have no career motivation
+[C] are financially disadvantaged
+[D] are not academically successful
+
+23. We can infer from Paragraph 5 that high school graduates ______.
+[A] used to have more job opportunities
+[B] used to have big financial concerns
+[C] are entitled to more educational privileges
+[D] are reluctant to work in manufacturing
+
+24. The headlong push into bachelor's degrees for all ______.
+[A] helps create a lot of middle-skill jobs
+[B] may narrow the gap in working-class jobs
+[C] indicates the overvaluing of higher education
+[D] is expected to yield a better-trained workforce
+
+25. The author's attitude toward Koziatek's school can be described as ______.
+[A] tolerant
+[B] cautious
+[C] supportive
+[D] disappointed
 
 ---
 

@@ -12,11 +12,35 @@ As to the prospects for federal legislation 联邦立法前景, commentators sug
 
 ## 题目（36–40）
 
-36. The research findings are cited in paragraph 1 to show ______. [A] the prevalence of health apps [B] the public concern over health [C] popularity of smartphone [D] the advancement of technology
-37. What does the author imply about existing health privacy law? [A] Its coverage needs to be extended [B] Its enforcement needs strengthening [C] It has discouraged medical misconduct [D] It has disappointed insurance companies
-38. Before sharing its users' health information, Flo Health is required to ______. [A] seek the approval of the FTC [B] find qualified third parties [C] remove irrelevant personal data [D] obtain their explicit permission
-39. What challenge is the FTC currently faced with? [A] The complexity of health information [B] The rapid increase in new health apps [C] The subtle deceptiveness of health apps [D] The difficulty in assessing consumer harm
-40. It can be learned from the last paragraph that health data protection ______. [A] has been embraced by health app developers [B] has been a focus of federal policy-making [C] has encountered opposition in California [D] has gained legislative support in some states
+36. The research findings are cited in paragraph 1 to show ______.
+[A] the prevalence of health apps
+[B] the public concern over health
+[C] popularity of smartphone
+[D] the advancement of technology
+
+37. What does the author imply about existing health privacy law?
+[A] Its coverage needs to be extended
+[B] Its enforcement needs strengthening
+[C] It has discouraged medical misconduct
+[D] It has disappointed insurance companies
+
+38. Before sharing its users' health information, Flo Health is required to ______.
+[A] seek the approval of the FTC
+[B] find qualified third parties
+[C] remove irrelevant personal data
+[D] obtain their explicit permission
+
+39. What challenge is the FTC currently faced with?
+[A] The complexity of health information
+[B] The rapid increase in new health apps
+[C] The subtle deceptiveness of health apps
+[D] The difficulty in assessing consumer harm
+
+40. It can be learned from the last paragraph that health data protection ______.
+[A] has been embraced by health app developers
+[B] has been a focus of federal policy-making
+[C] has encountered opposition in California
+[D] has gained legislative support in some states
 
 ---
 

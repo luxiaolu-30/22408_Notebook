@@ -10,11 +10,35 @@ But the researchers believe that outside directors have an easier time of avoidi
 
 ## 题目（21–25）
 
-21. According to Paragraph 1, Ms. Simmons was criticized for ______. [A] gaining excessive profits [B] failing to fulfill her duty [C] refusing to make compromises [D] leaving the board in tough times
-22. We learn from Paragraph 2 that outside directors are supposed to be ______. [A] generous investors [B] unbiased executives [C] share price forecasters [D] independent advisers
-23. According to the researchers from Ohio University, after an outside director's surprise departure, the firm is likely to ______. [A] become more stable [B] report increased earnings [C] do less well in the stock market [D] perform worse in lawsuits
-24. It can be inferred from the last paragraph that outside directors ______. [A] may stay for the attractive offers from the firm [B] have often had records of wrongdoings in the firm [C] are accustomed to stress-free work in the firm [D] will decline incentives from the firm
-25. The author's attitude toward the role of outside directors is ______. [A] permissive [B] positive [C] scornful [D] critical
+21. According to Paragraph 1, Ms. Simmons was criticized for ______.
+[A] gaining excessive profits
+[B] failing to fulfill her duty
+[C] refusing to make compromises
+[D] leaving the board in tough times
+
+22. We learn from Paragraph 2 that outside directors are supposed to be ______.
+[A] generous investors
+[B] unbiased executives
+[C] share price forecasters
+[D] independent advisers
+
+23. According to the researchers from Ohio University, after an outside director's surprise departure, the firm is likely to ______.
+[A] become more stable
+[B] report increased earnings
+[C] do less well in the stock market
+[D] perform worse in lawsuits
+
+24. It can be inferred from the last paragraph that outside directors ______.
+[A] may stay for the attractive offers from the firm
+[B] have often had records of wrongdoings in the firm
+[C] are accustomed to stress-free work in the firm
+[D] will decline incentives from the firm
+
+25. The author's attitude toward the role of outside directors is ______.
+[A] permissive
+[B] positive
+[C] scornful
+[D] critical
 
 ---
 

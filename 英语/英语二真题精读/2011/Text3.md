@@ -16,11 +16,35 @@ The "Case Study Houses" 案例研究住宅 commissioned 委托 from talented mod
 
 ## 题目（31–35）
 
-31. The postwar American housing style largely reflected the Americans' ______. [A] prosperity and growth [B] efficiency and practicality [C] restraint and confidence [D] pride and faithfulness
-32. Which of the following can be inferred from Paragraph 3 about the Bauhaus? [A] It was founded by Ludwig Mies van der Rohe. [B] Its designing concept was affected by World War II. [C] Most American architects used to study there. [D] It had a great influence upon American architecture.
-33. Mies held that elegance of architectural design ______. [A] was related to large space [B] was identified with emptiness [C] was not reliant on abundant decoration [D] was not associated with efficiency
-34. What is true about the apartments Mies built on Chicago's Lake Shore Drive? [A] They ignored details and proportions. [B] They were built with materials popular at that time. [C] They were more spacious than neighboring buildings. [D] They shared some characteristics of abstract art.
-35. What can we learn about the design of the "Case Study Houses"? [A] Mechanical devices were widely used. [B] Natural scenes were taken into consideration. [C] Details were sacrificed for the overall effect. [D] Eco-friendly materials were employed.
+31. The postwar American housing style largely reflected the Americans' ______.
+[A] prosperity and growth
+[B] efficiency and practicality
+[C] restraint and confidence
+[D] pride and faithfulness
+
+32. Which of the following can be inferred from Paragraph 3 about the Bauhaus?
+[A] It was founded by Ludwig Mies van der Rohe.
+[B] Its designing concept was affected by World War II.
+[C] Most American architects used to study there.
+[D] It had a great influence upon American architecture.
+
+33. Mies held that elegance of architectural design ______.
+[A] was related to large space
+[B] was identified with emptiness
+[C] was not reliant on abundant decoration
+[D] was not associated with efficiency
+
+34. What is true about the apartments Mies built on Chicago's Lake Shore Drive?
+[A] They ignored details and proportions.
+[B] They were built with materials popular at that time.
+[C] They were more spacious than neighboring buildings.
+[D] They shared some characteristics of abstract art.
+
+35. What can we learn about the design of the "Case Study Houses"?
+[A] Mechanical devices were widely used.
+[B] Natural scenes were taken into consideration.
+[C] Details were sacrificed for the overall effect.
+[D] Eco-friendly materials were employed.
 
 ---
 

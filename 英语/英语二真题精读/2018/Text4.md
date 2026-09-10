@@ -20,11 +20,35 @@ Srini Pillay, an assistant professor of psychiatry 精神病学助理教授 at H
 
 ## 题目（36–40）
 
-36. The key to mastering the art of deep work is to ______. [A] keep to your focus time [B] list your immediate tasks [C] make specific daily plans [D] seize every minute to work
-37. The study in the early 1980s cited by Harford shows that ______. [A] distractions may actually increase efficiency [B] daily schedules are indispensable to studying [C] students are hardly motivated by monthly goals [D] detailed plans may not be as fruitful as expected
-38. According to Newport, idleness is ______. [A] a desirable mental state for busy people [B] a major contributor to physical health [C] an effective way to save time and energy [D] an essential factor in accomplishing any work
-39. Pillay believes that our brains' shift between being focused and unfocused ______. [A] can result in psychological well-being [B] can bring about greater efficiency [C] is aimed at better balance in work [D] is driven by task urgency
-40. This text is mainly about ______. [A] ways to relieve the tension of busy life [B] approaches to getting more done in less time [C] the key to eliminating distractions [D] the cause of the lack of focus time
+36. The key to mastering the art of deep work is to ______.
+[A] keep to your focus time
+[B] list your immediate tasks
+[C] make specific daily plans
+[D] seize every minute to work
+
+37. The study in the early 1980s cited by Harford shows that ______.
+[A] distractions may actually increase efficiency
+[B] daily schedules are indispensable to studying
+[C] students are hardly motivated by monthly goals
+[D] detailed plans may not be as fruitful as expected
+
+38. According to Newport, idleness is ______.
+[A] a desirable mental state for busy people
+[B] a major contributor to physical health
+[C] an effective way to save time and energy
+[D] an essential factor in accomplishing any work
+
+39. Pillay believes that our brains' shift between being focused and unfocused ______.
+[A] can result in psychological well-being
+[B] can bring about greater efficiency
+[C] is aimed at better balance in work
+[D] is driven by task urgency
+
+40. This text is mainly about ______.
+[A] ways to relieve the tension of busy life
+[B] approaches to getting more done in less time
+[C] the key to eliminating distractions
+[D] the cause of the lack of focus time
 
 ---
 

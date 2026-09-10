@@ -14,11 +14,35 @@ It is too soon to write off 否定 the EU. It remains the world's largest tradin
 
 ## 题目（36–40）
 
-36. The EU is faced with so many problems that ______. [A] it has more or less lost faith in markets [B] even its supporters begin to feel concerned [C] some of its member countries plan to abandon euro [D] it intends to deny the possibility of devaluation
-37. The debate over the EU's single currency is stuck because the dominant powers ______. [A] are competing for the leading position [B] are busy handling their own crises [C] fail to reach an agreement on harmonization [D] disagree on the steps towards disintegration
-38. To solve the euro problem, Germany proposed that ______. [A] EU funds for poor regions be increased [B] stricter regulations be imposed [C] only core members be involved in economic coordination [D] voting rights of the EU members be guaranteed
-39. The French proposal of handling the crisis implies that ______. [A] poor countries are more likely to get funds [B] strict monetary policy will be applied to poor countries [C] loans will be readily available to rich countries [D] rich countries will basically control Eurobonds
-40. Regarding the future of the EU, the author seems to feel ______. [A] pessimistic [B] desperate [C] conceited [D] hopeful
+36. The EU is faced with so many problems that ______.
+[A] it has more or less lost faith in markets
+[B] even its supporters begin to feel concerned
+[C] some of its member countries plan to abandon euro
+[D] it intends to deny the possibility of devaluation
+
+37. The debate over the EU's single currency is stuck because the dominant powers ______.
+[A] are competing for the leading position
+[B] are busy handling their own crises
+[C] fail to reach an agreement on harmonization
+[D] disagree on the steps towards disintegration
+
+38. To solve the euro problem, Germany proposed that ______.
+[A] EU funds for poor regions be increased
+[B] stricter regulations be imposed
+[C] only core members be involved in economic coordination
+[D] voting rights of the EU members be guaranteed
+
+39. The French proposal of handling the crisis implies that ______.
+[A] poor countries are more likely to get funds
+[B] strict monetary policy will be applied to poor countries
+[C] loans will be readily available to rich countries
+[D] rich countries will basically control Eurobonds
+
+40. Regarding the future of the EU, the author seems to feel ______.
+[A] pessimistic
+[B] desperate
+[C] conceited
+[D] hopeful
 
 ---
 

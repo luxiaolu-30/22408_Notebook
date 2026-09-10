@@ -22,11 +22,35 @@ At the same time, people continue to treat fire as an event that needs to be who
 
 ## 题目（36–40）
 
-36. More frequent wildfires have become a national concern because in 2015 they ______. [A] exhausted unprecedented management efforts [B] consumed a record-high percentage of budget [C] severely damaged the ecology of western states [D] caused a huge rise of infrastructure expenditure
-37. Moritz calls for the use of "a magnifying glass" to ______. [A] raise more funds for fire-prone areas [B] avoid the redirection of federal money [C] find wildfire-free parts of the landscape [D] guarantee safer spending of public funds
-38. While admitting that climate is a key element, Moritz notes that ______. [A] public debates have not settled yet [B] fire-fighting conditions are improving [C] other factors should not be overlooked [D] a shift in the view of fire has taken place
-39. The overly simplified view Moritz mentions is a result of failing to ______. [A] discover the fundamental makeup of nature [B] explore the mechanism of the human systems [C] maximize the role of landscape in human life [D] understand the interrelations of man and nature
-40. Professor Balch points out that fire is something man should ______. [A] do away with [B] come to terms with [C] pay a price for [D] keep away from
+36. More frequent wildfires have become a national concern because in 2015 they ______.
+[A] exhausted unprecedented management efforts
+[B] consumed a record-high percentage of budget
+[C] severely damaged the ecology of western states
+[D] caused a huge rise of infrastructure expenditure
+
+37. Moritz calls for the use of "a magnifying glass" to ______.
+[A] raise more funds for fire-prone areas
+[B] avoid the redirection of federal money
+[C] find wildfire-free parts of the landscape
+[D] guarantee safer spending of public funds
+
+38. While admitting that climate is a key element, Moritz notes that ______.
+[A] public debates have not settled yet
+[B] fire-fighting conditions are improving
+[C] other factors should not be overlooked
+[D] a shift in the view of fire has taken place
+
+39. The overly simplified view Moritz mentions is a result of failing to ______.
+[A] discover the fundamental makeup of nature
+[B] explore the mechanism of the human systems
+[C] maximize the role of landscape in human life
+[D] understand the interrelations of man and nature
+
+40. Professor Balch points out that fire is something man should ______.
+[A] do away with
+[B] come to terms with
+[C] pay a price for
+[D] keep away from
 
 ---
 

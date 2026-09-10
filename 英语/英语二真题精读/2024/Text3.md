@@ -14,11 +14,35 @@ As long as there are other cars on the roads, self-driving cars won't solve the 
 
 ## 题目（31–35）
 
-31. According to Paragraph 1, keeping unsafe aging drivers off the road ______. [A] is a new safety measure [B] has become a disputed issue [C] can be a tough task to complete [D] will be beneficial to their health
-32. The American Medical Association's advice ______. [A] has won support from drivers [B] is generally considered unrealistic [C] is widely dismissed as unnecessary [D] has met with different responses
-33. According to Dugan, efforts to keep older drivers safe ______. [A] have brought about big changes [B] need to be well coordinated [C] have gained public recognition [D] call for relevant legal support
-34. Some older drivers have trouble driving because they tend to ______. [A] stick with bad driving habits [B] have a weakened memory [C] suffer from chronic pains [D] neglect car maintenance
-35. Dugan thinks that the solution to the problems of crashes may lie in ______. [A] upgrading self-driving vehicles [B] developing senior-friendly cars [C] renovating transport facilities [D] adjusting the age limit for drivers
+31. According to Paragraph 1, keeping unsafe aging drivers off the road ______.
+[A] is a new safety measure
+[B] has become a disputed issue
+[C] can be a tough task to complete
+[D] will be beneficial to their health
+
+32. The American Medical Association's advice ______.
+[A] has won support from drivers
+[B] is generally considered unrealistic
+[C] is widely dismissed as unnecessary
+[D] has met with different responses
+
+33. According to Dugan, efforts to keep older drivers safe ______.
+[A] have brought about big changes
+[B] need to be well coordinated
+[C] have gained public recognition
+[D] call for relevant legal support
+
+34. Some older drivers have trouble driving because they tend to ______.
+[A] stick with bad driving habits
+[B] have a weakened memory
+[C] suffer from chronic pains
+[D] neglect car maintenance
+
+35. Dugan thinks that the solution to the problems of crashes may lie in ______.
+[A] upgrading self-driving vehicles
+[B] developing senior-friendly cars
+[C] renovating transport facilities
+[D] adjusting the age limit for drivers
 
 ---
 

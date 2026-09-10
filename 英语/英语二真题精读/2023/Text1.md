@@ -14,11 +14,35 @@ It added: "We prefer to help people and organizations make the right choice rath
 
 ## 题目（21–25）
 
-21. The RHS thinks that plastic grass ______. [A] is harmful to the environment [B] is a hot topic in gardening circles [C] is overpraised in the annual show [D] is ruining the view of west London
-22. The petitions mentioned in Paragraph 3 reveal the campaigners' ______. [A] disappointment with the RHS [B] resistance to fake grass use [C] anger over the proposed tax [D] concern about real grass supply
-23. In Paragraph 4, supporters of fake grass point out ______. [A] the necessity to lower the costs of fake grass [B] the disadvantages of growing real grass [C] the way to take care of artificial lawns [D] the challenges of insect habitat protection
-24. What would the government do with regard to artificial grass? [A] Urge legislation to restrict its use. [B] Take measures to guarantee its quality. [C] Remind its users to obey existing rules. [D] Replace it with sustainable alternatives.
-25. It can be learned from the text that fake grass ______. [A] is being improved continuously [B] has seen a market share decline [C] is becoming increasingly affordable [D] has been a controversial product
+21. The RHS thinks that plastic grass ______.
+[A] is harmful to the environment
+[B] is a hot topic in gardening circles
+[C] is overpraised in the annual show
+[D] is ruining the view of west London
+
+22. The petitions mentioned in Paragraph 3 reveal the campaigners' ______.
+[A] disappointment with the RHS
+[B] resistance to fake grass use
+[C] anger over the proposed tax
+[D] concern about real grass supply
+
+23. In Paragraph 4, supporters of fake grass point out ______.
+[A] the necessity to lower the costs of fake grass
+[B] the disadvantages of growing real grass
+[C] the way to take care of artificial lawns
+[D] the challenges of insect habitat protection
+
+24. What would the government do with regard to artificial grass?
+[A] Urge legislation to restrict its use.
+[B] Take measures to guarantee its quality.
+[C] Remind its users to obey existing rules.
+[D] Replace it with sustainable alternatives.
+
+25. It can be learned from the text that fake grass ______.
+[A] is being improved continuously
+[B] has seen a market share decline
+[C] is becoming increasingly affordable
+[D] has been a controversial product
 
 ---
 

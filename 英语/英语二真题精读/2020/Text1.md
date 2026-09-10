@@ -14,11 +14,35 @@ The finding shows how sensitive rats are to social cues 社会线索, even when 
 
 ## 题目（21–25）
 
-21. Quinn and her colleagues conducted a test to see if rats can ______. [A] distinguish a friendly rat from a hostile one [B] pick up social signals from non-living rats [C] attain sociable traits through special training [D] send out warning messages to their fellow
-22. What did the asocial robot do during the experiment? [A] It played with some toys. [B] It set the trapped rats free. [C] It moved around alone. [D] It followed the social robot.
-23. According to Quinn, the rats released the social robot because they ______. [A] expected it to do the same in return [B] considered that an interesting game [C] wanted to display their intelligence [D] tried to practise a means of escape
-24. Janet Wiles notes that rats ______. [A] respond more to actions than to looks [B] differentiate smells better than sizes [C] can be scared by a plastic box on wheels [D] can remember other rats' facial features
-25. It can be learned from the text that rats ______. [A] appear to be adaptable to new surroundings [B] are more socially active than other animals [C] are more sensitive to social cues than expected [D] behave differently from children in socializing
+21. Quinn and her colleagues conducted a test to see if rats can ______.
+[A] distinguish a friendly rat from a hostile one
+[B] pick up social signals from non-living rats
+[C] attain sociable traits through special training
+[D] send out warning messages to their fellow
+
+22. What did the asocial robot do during the experiment?
+[A] It played with some toys.
+[B] It set the trapped rats free.
+[C] It moved around alone.
+[D] It followed the social robot.
+
+23. According to Quinn, the rats released the social robot because they ______.
+[A] expected it to do the same in return
+[B] considered that an interesting game
+[C] wanted to display their intelligence
+[D] tried to practise a means of escape
+
+24. Janet Wiles notes that rats ______.
+[A] respond more to actions than to looks
+[B] differentiate smells better than sizes
+[C] can be scared by a plastic box on wheels
+[D] can remember other rats' facial features
+
+25. It can be learned from the text that rats ______.
+[A] appear to be adaptable to new surroundings
+[B] are more socially active than other animals
+[C] are more sensitive to social cues than expected
+[D] behave differently from children in socializing
 
 ---
 

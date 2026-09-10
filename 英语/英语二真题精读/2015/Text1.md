@@ -14,11 +14,35 @@ So it's not surprising that people are more stressed at home. Not only are the t
 
 ## 题目（21–25）
 
-21. According to Paragraph 1, most previous surveys found that home ______. [A] was an unrealistic place for relaxation [B] generated more stress than the workplace [C] was an ideal place for stress measurement [D] offered greater relaxation than the workplace
-22. According to Damaske, who are likely to be the happiest at home? [A] Working mothers [B] Childless husbands [C] Childless wives [D] Working fathers
-23. The blurring of working women's roles refers to the fact that ______. [A] they are both bread winners and housewives [B] their home is also a place for kicking back [C] there is often much housework left behind [D] it is difficult for them to leave their office
-24. The word "moola" (Line 4, Para 4) most probably means ______. [A] energy [B] skills [C] earnings [D] nutrition
-25. The home front differs from the workplace in that ______. [A] home is hardly a cozier working environment [B] division of labor at home is seldom clear-cut [C] household tasks are generally more motivating [D] family labor is often adequately rewarded
+21. According to Paragraph 1, most previous surveys found that home ______.
+[A] was an unrealistic place for relaxation
+[B] generated more stress than the workplace
+[C] was an ideal place for stress measurement
+[D] offered greater relaxation than the workplace
+
+22. According to Damaske, who are likely to be the happiest at home?
+[A] Working mothers
+[B] Childless husbands
+[C] Childless wives
+[D] Working fathers
+
+23. The blurring of working women's roles refers to the fact that ______.
+[A] they are both bread winners and housewives
+[B] their home is also a place for kicking back
+[C] there is often much housework left behind
+[D] it is difficult for them to leave their office
+
+24. The word "moola" (Line 4, Para 4) most probably means ______.
+[A] energy
+[B] skills
+[C] earnings
+[D] nutrition
+
+25. The home front differs from the workplace in that ______.
+[A] home is hardly a cozier working environment
+[B] division of labor at home is seldom clear-cut
+[C] household tasks are generally more motivating
+[D] family labor is often adequately rewarded
 
 ---
 

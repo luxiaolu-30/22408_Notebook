@@ -16,11 +16,35 @@ However, Obamacare has allowed more than 12 million people to either get insuran
 
 ## 题目（36–40）
 
-36. Which part of the jobs picture was neglected? [A] The prospect of a thriving job market. [B] The increase of voluntary part-time jobs. [C] The possibility of full employment. [D] The acceleration of job creation.
-37. Many people work part-time because they [A] prefer part-time jobs to full-time jobs [B] feel that is enough to make ends meet [C] cannot get their hands on full-time jobs [D] haven't seen the weakness of the market
-38. Involuntary part-time employment in the US [A] is harder to acquire than one year ago [B] shows a general tendency of decline [C] satisfies the real need of the jobless [D] is lower than before the recession
-39. It can be learned that with Obamacare, ______. [A] it is no longer easy for part-timers to get insurance [B] employment is no longer a precondition to get insurance [C] it is still challenging to get insurance for family members [D] full-time employment is still essential for insurance
-40. The text mainly discusses ______. [A] employment in the US [B] part-timer classification [C] insurance through Medicaid [D] Obamacare's trouble
+36. Which part of the jobs picture was neglected?
+[A] The prospect of a thriving job market.
+[B] The increase of voluntary part-time jobs.
+[C] The possibility of full employment.
+[D] The acceleration of job creation.
+
+37. Many people work part-time because they
+[A] prefer part-time jobs to full-time jobs
+[B] feel that is enough to make ends meet
+[C] cannot get their hands on full-time jobs
+[D] haven't seen the weakness of the market
+
+38. Involuntary part-time employment in the US
+[A] is harder to acquire than one year ago
+[B] shows a general tendency of decline
+[C] satisfies the real need of the jobless
+[D] is lower than before the recession
+
+39. It can be learned that with Obamacare, ______.
+[A] it is no longer easy for part-timers to get insurance
+[B] employment is no longer a precondition to get insurance
+[C] it is still challenging to get insurance for family members
+[D] full-time employment is still essential for insurance
+
+40. The text mainly discusses ______.
+[A] employment in the US
+[B] part-timer classification
+[C] insurance through Medicaid
+[D] Obamacare's trouble
 
 ---
 

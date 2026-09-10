@@ -12,11 +12,35 @@ The homework rules should be put on hold 暂停 while the school board, which is
 
 ## 题目（21–25）
 
-21. It is implied in Paragraph 1 that nowadays homework ______. [A] is receiving more criticism [B] is no longer an educational ritual [C] is not required for advanced courses [D] is gaining more preferences
-22. L.A. Unified has made the rule about homework mainly because poor students ______. [A] tend to have moderate expectations for their education [B] have asked for a different educational standard [C] may have problems finishing their homework [D] have voiced their complaints about homework
-23. According to Paragraph 3, one problem with the policy is that it may ______. [A] discourage students from doing homework [B] result in students' indifference to their report cards [C] undermine the authority of state tests [D] restrict teachers' power in education
-24. As mentioned in Paragraph 4, a key question unanswered about homework is whether ______. [A] it should be eliminated [B] it counts much in schooling [C] it places extra burdens on teachers [D] it is important for grades
-25. A suitable title for this text could be ______. [A] Wrong Interpretation of an Educational Policy [B] A Welcomed Policy for Poor Students [C] Thorny Questions about Homework [D] A Faulty Approach to Homework
+21. It is implied in Paragraph 1 that nowadays homework ______.
+[A] is receiving more criticism
+[B] is no longer an educational ritual
+[C] is not required for advanced courses
+[D] is gaining more preferences
+
+22. L.A. Unified has made the rule about homework mainly because poor students ______.
+[A] tend to have moderate expectations for their education
+[B] have asked for a different educational standard
+[C] may have problems finishing their homework
+[D] have voiced their complaints about homework
+
+23. According to Paragraph 3, one problem with the policy is that it may ______.
+[A] discourage students from doing homework
+[B] result in students' indifference to their report cards
+[C] undermine the authority of state tests
+[D] restrict teachers' power in education
+
+24. As mentioned in Paragraph 4, a key question unanswered about homework is whether ______.
+[A] it should be eliminated
+[B] it counts much in schooling
+[C] it places extra burdens on teachers
+[D] it is important for grades
+
+25. A suitable title for this text could be ______.
+[A] Wrong Interpretation of an Educational Policy
+[B] A Welcomed Policy for Poor Students
+[C] Thorny Questions about Homework
+[D] A Faulty Approach to Homework
 
 ---
 

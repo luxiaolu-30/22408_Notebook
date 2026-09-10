@@ -18,11 +18,35 @@ Unfortunately, many people who are opting to work in retirement are preparing to
 
 ## 题目（26–30）
 
-26. The survey conducted by Harris Poll indicates that ______. [A] over half of the retirees are physically fit for work [B] the old workforce is as active as the younger one [C] one in three Americans enjoy earlier retirement [D] more Americans are willing to work in retirement
-27. It can be inferred from Paragraph 3 that Americans tend to think that ______. [A] retirement may cause problems for them [B] boredom can be relieved after retirement [C] the mental health of retirees is overlooked [D] "unretirement" contributes to the economy
-28. Retirement patterns are changing partly due to ______. [A] labor shortages [B] population growth [C] longer life expectancy [D] rising living costs
-29. Many retirees are increasing their savings by ______. [A] investing more in stocks [B] taking up odd jobs [C] getting well-paid work [D] spending less
-30. With regard to retirement, Brent Weiss thinks that many people are ______. [A] unprepared [B] unafraid [C] disappointed [D] enthusiastic
+26. The survey conducted by Harris Poll indicates that ______.
+[A] over half of the retirees are physically fit for work
+[B] the old workforce is as active as the younger one
+[C] one in three Americans enjoy earlier retirement
+[D] more Americans are willing to work in retirement
+
+27. It can be inferred from Paragraph 3 that Americans tend to think that ______.
+[A] retirement may cause problems for them
+[B] boredom can be relieved after retirement
+[C] the mental health of retirees is overlooked
+[D] "unretirement" contributes to the economy
+
+28. Retirement patterns are changing partly due to ______.
+[A] labor shortages
+[B] population growth
+[C] longer life expectancy
+[D] rising living costs
+
+29. Many retirees are increasing their savings by ______.
+[A] investing more in stocks
+[B] taking up odd jobs
+[C] getting well-paid work
+[D] spending less
+
+30. With regard to retirement, Brent Weiss thinks that many people are ______.
+[A] unprepared
+[B] unafraid
+[C] disappointed
+[D] enthusiastic
 
 ---
 

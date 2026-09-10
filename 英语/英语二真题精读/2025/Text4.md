@@ -12,11 +12,35 @@ Animal desire paths, such as ducks forging 开辟 trails through frozen ponds or
 
 ## 题目（36–40）
 
-36. According to Paragraph 1, desire paths are a result of ______. [A] the curiosity to explore surrounding hills [B] the necessity to preserve green spaces [C] the tendency to pursue convenience [D] the wish to find comfort in solitude
-37. It can be inferred that Ohio State University ______. [A] intends to improve its desire paths [B] leads in the research on desire paths [C] guides the creation of its desire paths [D] takes a positive view of desire paths
-38. The images on the Reddit webpage reflect ______. [A] conflicting opinions on the use of desire paths [B] the call to upgrade the designing of public spaces [C] the demand for proper planning of desire paths [D] growing concerns over the loss of public spaces
-39. The example of the Wickquasgeck Trail illustrates ______. [A] the growth of New York City [B] the Dutch origin of desire paths [C] the importance of urban planning [D] the recognition of desire paths
-40. It can be learned from the last paragraph that desire paths ______. [A] reveal humans' deep respect for nature [B] are crucial to humans' mental well-being [C] are a human imitation of animal behaviour [D] show a shared trait in humans and animals
+36. According to Paragraph 1, desire paths are a result of ______.
+[A] the curiosity to explore surrounding hills
+[B] the necessity to preserve green spaces
+[C] the tendency to pursue convenience
+[D] the wish to find comfort in solitude
+
+37. It can be inferred that Ohio State University ______.
+[A] intends to improve its desire paths
+[B] leads in the research on desire paths
+[C] guides the creation of its desire paths
+[D] takes a positive view of desire paths
+
+38. The images on the Reddit webpage reflect ______.
+[A] conflicting opinions on the use of desire paths
+[B] the call to upgrade the designing of public spaces
+[C] the demand for proper planning of desire paths
+[D] growing concerns over the loss of public spaces
+
+39. The example of the Wickquasgeck Trail illustrates ______.
+[A] the growth of New York City
+[B] the Dutch origin of desire paths
+[C] the importance of urban planning
+[D] the recognition of desire paths
+
+40. It can be learned from the last paragraph that desire paths ______.
+[A] reveal humans' deep respect for nature
+[B] are crucial to humans' mental well-being
+[C] are a human imitation of animal behaviour
+[D] show a shared trait in humans and animals
 
 ---
 

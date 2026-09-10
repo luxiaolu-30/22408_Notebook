@@ -18,11 +18,35 @@ In effect 实际上, the U.S. can import food or it can import the workers who p
 
 ## 题目（31–35）
 
-31. What problem should be addressed according to the first two paragraphs? [A] Discrimination against foreign workers in the U.S. [B] Biased laws in favor of some American businesses. [C] Flaws in U.S. immigration rules for farm workers. [D] Decline of job opportunities in U.S. agriculture.
-32. One trouble with U.S. agricultural workforce is ______. [A] the rising number of illegal immigrants [B] the high mobility of crop workers [C] the lack of experienced laborers [D] the aging of immigrant farm workers
-33. What is the much-argued solution to the labor shortage in U.S. farming? [A] To attract younger laborers to farm work. [B] To get native U.S. workers back to farming. [C] To use more robots to grow high-value crops. [D] To strengthen financial support for farmers.
-34. Agricultural employers complain about the H-2A visa for its ______. [A] slow granting procedures [B] limit on duration of stay [C] tightened requirements [D] control of annual admissions
-35. Which of the following could be the best title for this text? [A] U.S. Agriculture in Decline? [B] Import Food or Labor? [C] America Saved by Mexico? [D] Manpower vs. Automation?
+31. What problem should be addressed according to the first two paragraphs?
+[A] Discrimination against foreign workers in the U.S.
+[B] Biased laws in favor of some American businesses.
+[C] Flaws in U.S. immigration rules for farm workers.
+[D] Decline of job opportunities in U.S. agriculture.
+
+32. One trouble with U.S. agricultural workforce is ______.
+[A] the rising number of illegal immigrants
+[B] the high mobility of crop workers
+[C] the lack of experienced laborers
+[D] the aging of immigrant farm workers
+
+33. What is the much-argued solution to the labor shortage in U.S. farming?
+[A] To attract younger laborers to farm work.
+[B] To get native U.S. workers back to farming.
+[C] To use more robots to grow high-value crops.
+[D] To strengthen financial support for farmers.
+
+34. Agricultural employers complain about the H-2A visa for its ______.
+[A] slow granting procedures
+[B] limit on duration of stay
+[C] tightened requirements
+[D] control of annual admissions
+
+35. Which of the following could be the best title for this text?
+[A] U.S. Agriculture in Decline?
+[B] Import Food or Labor?
+[C] America Saved by Mexico?
+[D] Manpower vs. Automation?
 
 ---
 

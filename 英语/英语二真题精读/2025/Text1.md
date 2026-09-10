@@ -10,11 +10,35 @@ So, to increase employee wages without raising prices, more employers are succum
 
 ## 题目（21–25）
 
-21. According to Paragraph 1, the practice of tipping in the U.S. ______. [A] was regarded as a sign of generosity [B] was considered essential for waiters [C] was a way of rewarding diligence [D] was optional in most businesses
-22. Compared with tips in the past, today's tips ______. [A] are paid much less frequently [B] are less often requested in advance [C] have less to do with service quality [D] contribute less to workers' income
-23. Tip requests are creeping into new kinds of service as a result of ______. [A] the advancement of technology [B] the desire for income increase [C] the diversification of business [D] the emergence of tipflation
-24. The movement toward no-tipping services intended to ______. [A] promote consumption [B] enrich income sources [C] maintain reasonable prices [D] guarantee income fairness
-25. It can be learned from the last paragraph that tipping ______. [A] is becoming a burden for customers [B] helps encourage quality service [C] is vital to business development [D] reflects the need to reduce prices
+21. According to Paragraph 1, the practice of tipping in the U.S. ______.
+[A] was regarded as a sign of generosity
+[B] was considered essential for waiters
+[C] was a way of rewarding diligence
+[D] was optional in most businesses
+
+22. Compared with tips in the past, today's tips ______.
+[A] are paid much less frequently
+[B] are less often requested in advance
+[C] have less to do with service quality
+[D] contribute less to workers' income
+
+23. Tip requests are creeping into new kinds of service as a result of ______.
+[A] the advancement of technology
+[B] the desire for income increase
+[C] the diversification of business
+[D] the emergence of tipflation
+
+24. The movement toward no-tipping services intended to ______.
+[A] promote consumption
+[B] enrich income sources
+[C] maintain reasonable prices
+[D] guarantee income fairness
+
+25. It can be learned from the last paragraph that tipping ______.
+[A] is becoming a burden for customers
+[B] helps encourage quality service
+[C] is vital to business development
+[D] reflects the need to reduce prices
 
 ---
 

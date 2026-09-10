@@ -12,11 +12,35 @@ Accommodating 适应 this new world of people in motion 流动中 will require n
 
 ## 题目（26–30）
 
-26. "Birds of passage" refers to those who ______. [A] immigrate across the Atlantic [B] leave their home countries for good [C] stay in a foreign country temporarily [D] find permanent jobs overseas
-27. It is implied in Paragraph 2 that the current immigration system in the US ______. [A] needs new immigrant categories [B] has loosened control over immigrants [C] should be adapted to meet challenges [D] has been fixed via political means
-28. According to the author, today's birds of passage want ______. [A] financial incentives [B] a global recognition [C] opportunities to get regular jobs [D] the freedom to stay and leave
-29. The author suggests that the birds of passage today should be treated ______. [A] as faithful partners [B] with economic favors [C] with legal tolerance [D] as mighty rivals
-30. The most appropriate title for this text would be ______. [A] Come and Go: Big Mistake [B] Living and Thriving in the US [C] Legal or Illegal: Big Mistake [D] With or Without: Great Risk
+26. "Birds of passage" refers to those who ______.
+[A] immigrate across the Atlantic
+[B] leave their home countries for good
+[C] stay in a foreign country temporarily
+[D] find permanent jobs overseas
+
+27. It is implied in Paragraph 2 that the current immigration system in the US ______.
+[A] needs new immigrant categories
+[B] has loosened control over immigrants
+[C] should be adapted to meet challenges
+[D] has been fixed via political means
+
+28. According to the author, today's birds of passage want ______.
+[A] financial incentives
+[B] a global recognition
+[C] opportunities to get regular jobs
+[D] the freedom to stay and leave
+
+29. The author suggests that the birds of passage today should be treated ______.
+[A] as faithful partners
+[B] with economic favors
+[C] with legal tolerance
+[D] as mighty rivals
+
+30. The most appropriate title for this text would be ______.
+[A] Come and Go: Big Mistake
+[B] Living and Thriving in the US
+[C] Legal or Illegal: Big Mistake
+[D] With or Without: Great Risk
 
 ---
 

@@ -10,11 +10,35 @@ If you're not convinced of the inherent value 内在价值 in taking a year off 
 
 ## 题目（31–35）
 
-31. One of the reasons for high-school graduates not taking a gap year is that ______. [A] they think it academically misleading [B] they have a lot of fun to explore in college [C] it feels strange to do differently from others [D] it seems worthless to take off-campus courses
-32. Studies from the US and Australia imply that taking a gap year helps ______. [A] keep students from being unrealistic [B] lower risks in choosing careers [C] ease freshmen's financial burdens [D] relieve freshmen of pressures
-33. The word "acclimation" (Line 8, Para.3) is closest in meaning to ______. [A] adaptation [B] application [C] motivation [D] competition
-34. A gap year may save money for students by helping them ______. [A] avoid academic failures [B] establish long-term goals [C] switch to another college [D] decide on the right major
-35. The most suitable title for this text would be ______. [A] In Favor of the Gap Year [B] The ABCs of the Gap Year [C] The Gap Year Comes Back [D] The Gap Year: A Dilemma
+31. One of the reasons for high-school graduates not taking a gap year is that ______.
+[A] they think it academically misleading
+[B] they have a lot of fun to explore in college
+[C] it feels strange to do differently from others
+[D] it seems worthless to take off-campus courses
+
+32. Studies from the US and Australia imply that taking a gap year helps ______.
+[A] keep students from being unrealistic
+[B] lower risks in choosing careers
+[C] ease freshmen's financial burdens
+[D] relieve freshmen of pressures
+
+33. The word "acclimation" (Line 8, Para.3) is closest in meaning to ______.
+[A] adaptation
+[B] application
+[C] motivation
+[D] competition
+
+34. A gap year may save money for students by helping them ______.
+[A] avoid academic failures
+[B] establish long-term goals
+[C] switch to another college
+[D] decide on the right major
+
+35. The most suitable title for this text would be ______.
+[A] In Favor of the Gap Year
+[B] The ABCs of the Gap Year
+[C] The Gap Year Comes Back
+[D] The Gap Year: A Dilemma
 
 ---
 

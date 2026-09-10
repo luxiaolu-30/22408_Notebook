@@ -18,11 +18,35 @@ None of this is about writing off 忽视 the individual. It's just about putting
 
 ## 题目（36–40）
 
-36. Some celebrities star in a new video to ______. [A] demand new laws on the use of plastics [B] urge consumers to cut the use of plastics [C] invite public opinion on the plastics crisis [D] disclose the causes of the plastics crisis
-37. The author is concerned that "moral licensing" may ______. [A] mislead us into doing worthless things [B] prevent us from making further efforts [C] weaken our sense of accomplishment [D] suppress our desire for success
-38. By pointing out our identity as "citizens," the author indicates that ______. [A] our focus should be shifted to community welfare [B] our relationship with local industries is improving [C] we have been actively exercising our civil rights [D] we should press our governments to lead the combat
-39. DeSombre argues that the best way for a collective change should be ______. [A] a win-win arrangement [B] a self-driven mechanism [C] a cost-effective approach [D] a top-down process
-40. The author concludes that individual efforts ______. [A] can be too aggressive [B] can be too inconsistent [C] are far from sufficient [D] are far from rational
+36. Some celebrities star in a new video to ______.
+[A] demand new laws on the use of plastics
+[B] urge consumers to cut the use of plastics
+[C] invite public opinion on the plastics crisis
+[D] disclose the causes of the plastics crisis
+
+37. The author is concerned that "moral licensing" may ______.
+[A] mislead us into doing worthless things
+[B] prevent us from making further efforts
+[C] weaken our sense of accomplishment
+[D] suppress our desire for success
+
+38. By pointing out our identity as "citizens," the author indicates that ______.
+[A] our focus should be shifted to community welfare
+[B] our relationship with local industries is improving
+[C] we have been actively exercising our civil rights
+[D] we should press our governments to lead the combat
+
+39. DeSombre argues that the best way for a collective change should be ______.
+[A] a win-win arrangement
+[B] a self-driven mechanism
+[C] a cost-effective approach
+[D] a top-down process
+
+40. The author concludes that individual efforts ______.
+[A] can be too aggressive
+[B] can be too inconsistent
+[C] are far from sufficient
+[D] are far from rational
 
 ---
 

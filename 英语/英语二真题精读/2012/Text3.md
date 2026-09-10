@@ -14,11 +14,35 @@ Their success may be determined by a suit related to this issue, brought by the 
 
 ## 题目（31–35）
 
-31. It can be learned from Paragraph 1 that the biotech companies would like ______. [A] their executives to be active [B] judges to rule out gene patenting [C] genes to be patentable [D] the BIO to issue a warning
-32. Those who are against gene patents believe that ______. [A] genetic tests are not reliable [B] only man-made products are patentable [C] patents on genes depend much on innovation [D] courts should restrict access to genetic tests
-33. According to Hans Sauer, companies are eager to win patents for ______. [A] establishing disease correlations [B] discovering gene interactions [C] drawing pictures of genes [D] identifying human DNA
-34. By saying "Each meeting was packed" (Para.6), the author means that ______. [A] the supreme court was authoritative [B] the BIO was a powerful organisation [C] gene patenting was a great concern [D] lawyers were keen to attend conventions
-35. Generally speaking, the author's attitude toward gene patenting is ______. [A] critical [B] supportive [C] scornful [D] objective
+31. It can be learned from Paragraph 1 that the biotech companies would like ______.
+[A] their executives to be active
+[B] judges to rule out gene patenting
+[C] genes to be patentable
+[D] the BIO to issue a warning
+
+32. Those who are against gene patents believe that ______.
+[A] genetic tests are not reliable
+[B] only man-made products are patentable
+[C] patents on genes depend much on innovation
+[D] courts should restrict access to genetic tests
+
+33. According to Hans Sauer, companies are eager to win patents for ______.
+[A] establishing disease correlations
+[B] discovering gene interactions
+[C] drawing pictures of genes
+[D] identifying human DNA
+
+34. By saying "Each meeting was packed" (Para.6), the author means that ______.
+[A] the supreme court was authoritative
+[B] the BIO was a powerful organisation
+[C] gene patenting was a great concern
+[D] lawyers were keen to attend conventions
+
+35. Generally speaking, the author's attitude toward gene patenting is ______.
+[A] critical
+[B] supportive
+[C] scornful
+[D] objective
 
 ---
 

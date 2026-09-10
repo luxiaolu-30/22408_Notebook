@@ -16,11 +16,35 @@ If appropriate pubic policies 公共政策 were in place 到位 to help all wome
 
 ## 题目（36–40）
 
-36. In the European corporate workplace, generally ______. [A] women take the lead [B] men have the final say [C] corporate governance is overwhelmed [D] senior management is family-friendly
-37. The European Union's intended legislation is ______. [A] a reflection of gender balance [B] a reluctant choice [C] a response to Reding's call [D] a voluntary action
-38. According to Reding, quotas may help women ______. [A] get top business positions [B] see through the glass ceiling [C] balance work and family [D] anticipate legal results
-39. The author's attitude toward Reding's appeal is one of ______. [A] skepticism [B] objectiveness [C] indifference [D] approval
-40. Women entering top management become headlines due to lack of ______. [A] more social justice [B] massive media attention [C] suitable public policies [D] greater "soft pressure"
+36. In the European corporate workplace, generally ______.
+[A] women take the lead
+[B] men have the final say
+[C] corporate governance is overwhelmed
+[D] senior management is family-friendly
+
+37. The European Union's intended legislation is ______.
+[A] a reflection of gender balance
+[B] a reluctant choice
+[C] a response to Reding's call
+[D] a voluntary action
+
+38. According to Reding, quotas may help women ______.
+[A] get top business positions
+[B] see through the glass ceiling
+[C] balance work and family
+[D] anticipate legal results
+
+39. The author's attitude toward Reding's appeal is one of ______.
+[A] skepticism
+[B] objectiveness
+[C] indifference
+[D] approval
+
+40. Women entering top management become headlines due to lack of ______.
+[A] more social justice
+[B] massive media attention
+[C] suitable public policies
+[D] greater "soft pressure"
 
 ---
 

@@ -10,11 +10,35 @@ That's a big change from the previous generation. "Millennials wanted more flexi
 
 ## 题目（36–40）
 
-36. Generation Zs graduating college this spring ______. [A] are recognized for their abilities [B] are optimistic about the labor market [C] are in favor of office job offers [D] are drawing growing public attention
-37. Generation Zs are keenly aware ______. [A] what their parents expect of them [B] how valuable a counselor's advice is [C] what a tough economic situation is like [D] how they differ from past generations
-38. The word "assuage" (Line 7, Para.2) is closest in meaning to ______. [A] deepen [B] define [C] maintain [D] relieve
-39. It can be learned from Paragraph 3 that Generation Zs ______. [A] give top priority to professional training [B] have a clear idea about their future jobs [C] care little about their job performance [D] think it hard to achieve work-life balance
-40. Michelsen thinks that compared with millennials, Generation Zs are ______. [A] less adventurous [B] less realistic [C] more generous [D] more diligent
+36. Generation Zs graduating college this spring ______.
+[A] are recognized for their abilities
+[B] are optimistic about the labor market
+[C] are in favor of office job offers
+[D] are drawing growing public attention
+
+37. Generation Zs are keenly aware ______.
+[A] what their parents expect of them
+[B] how valuable a counselor's advice is
+[C] what a tough economic situation is like
+[D] how they differ from past generations
+
+38. The word "assuage" (Line 7, Para.2) is closest in meaning to ______.
+[A] deepen
+[B] define
+[C] maintain
+[D] relieve
+
+39. It can be learned from Paragraph 3 that Generation Zs ______.
+[A] give top priority to professional training
+[B] have a clear idea about their future jobs
+[C] care little about their job performance
+[D] think it hard to achieve work-life balance
+
+40. Michelsen thinks that compared with millennials, Generation Zs are ______.
+[A] less adventurous
+[B] less realistic
+[C] more generous
+[D] more diligent
 
 ---
 

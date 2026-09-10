@@ -16,11 +16,35 @@ Of course, reskilling programs, whether for pandemic needs or the post-pandemic 
 
 ## 题目（21–25）
 
-21. Research by the World Economic Forum suggests ______. [A] an increase in full-time employment [B] an urgent demand for new job skills [C] a steady growth of job opportunities [D] a controversy about the "core skills"
-22. AT&T is cited to show ______. [A] an alternative to the fire-and-hire strategy [B] an immediate need for government support [C] the importance of staff appraisal standards [D] the characteristics of reskilling programs
-23. Efforts to resolve the skills mismatch in Canada ______. [A] have driven up labour costs [B] have proved to be inconsistent [C] have met with fierce opposition [D] have appeared to be insufficient
-24. We can learn from Paragraph 3 that there was ______. [A] a call for policy adjustment [B] a change in hiring practices [C] a lack of medical workers [D] a sign of economic recovery
-25. Scandinavian Airlines decided to ______. [A] create job vacancies for the unemployed [B] prepare their laid-off workers for other jobs [C] retrain their cabin staff for better services [D] finance their staff's college education
+21. Research by the World Economic Forum suggests ______.
+[A] an increase in full-time employment
+[B] an urgent demand for new job skills
+[C] a steady growth of job opportunities
+[D] a controversy about the "core skills"
+
+22. AT&T is cited to show ______.
+[A] an alternative to the fire-and-hire strategy
+[B] an immediate need for government support
+[C] the importance of staff appraisal standards
+[D] the characteristics of reskilling programs
+
+23. Efforts to resolve the skills mismatch in Canada ______.
+[A] have driven up labour costs
+[B] have proved to be inconsistent
+[C] have met with fierce opposition
+[D] have appeared to be insufficient
+
+24. We can learn from Paragraph 3 that there was ______.
+[A] a call for policy adjustment
+[B] a change in hiring practices
+[C] a lack of medical workers
+[D] a sign of economic recovery
+
+25. Scandinavian Airlines decided to ______.
+[A] create job vacancies for the unemployed
+[B] prepare their laid-off workers for other jobs
+[C] retrain their cabin staff for better services
+[D] finance their staff's college education
 
 ---
 

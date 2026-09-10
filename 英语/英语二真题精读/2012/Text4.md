@@ -12,11 +12,35 @@ In the Internet age, it is particularly easy to see the resentment 怨恨 that h
 
 ## 题目（36–40）
 
-36. By saying "to find silver linings" (Para.2) the author suggests that the jobless try to ______. [A] seek subsidies from the government [B] explore reasons for the unemployment [C] make profits from the troubled economy [D] look on the bright side of the recession
-37. According to Paragraph 2, the recession has made people ______. [A] realize the national dream [B] struggle against each other [C] challenge their prudence [D] reconsider their lifestyle
-38. Benjamin Friedman believes that economic recessions may ______. [A] impose a heavier burden on immigrants [B] bring out more evils of human nature [C] promote the advance of rights and freedoms [D] ease conflicts between races and classes
-39. The research of Till Von Wachter suggests that in recession graduates from elite universities tend to ______. [A] lag behind the others due to decreased opportunities [B] catch up quickly with experienced employees [C] see their life chances as dimmed as the others' [D] recover more quickly than the others
-40. The author thinks that the influence of hard times on society is ______. [A] certain [B] positive [C] trivial [D] destructive
+36. By saying "to find silver linings" (Para.2) the author suggests that the jobless try to ______.
+[A] seek subsidies from the government
+[B] explore reasons for the unemployment
+[C] make profits from the troubled economy
+[D] look on the bright side of the recession
+
+37. According to Paragraph 2, the recession has made people ______.
+[A] realize the national dream
+[B] struggle against each other
+[C] challenge their prudence
+[D] reconsider their lifestyle
+
+38. Benjamin Friedman believes that economic recessions may ______.
+[A] impose a heavier burden on immigrants
+[B] bring out more evils of human nature
+[C] promote the advance of rights and freedoms
+[D] ease conflicts between races and classes
+
+39. The research of Till Von Wachter suggests that in recession graduates from elite universities tend to ______.
+[A] lag behind the others due to decreased opportunities
+[B] catch up quickly with experienced employees
+[C] see their life chances as dimmed as the others'
+[D] recover more quickly than the others
+
+40. The author thinks that the influence of hard times on society is ______.
+[A] certain
+[B] positive
+[C] trivial
+[D] destructive
 
 ---
 

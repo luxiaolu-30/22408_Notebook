@@ -12,11 +12,35 @@ But this seems to be the irony 讽刺 of office speak 办公室用语: Everyone 
 
 ## 题目（31–35）
 
-31. According to Nancy Koehn, office language has become ______. [A] more emotional [B] more objective [C] less energetic [D] less strategic
-32. "team"-oriented corporate vocabulary is closely related to ______. [A] historical incidents [B] gender difference [C] sports culture [D] athletic executives
-33. Khurana believes that the importation of terminology aims to ______. [A] revive historical terms [B] promote company image [C] foster corporate cooperation [D] strengthen employee loyalty
-34. It can be inferred that Lean In ______. [A] voices for working women [B] appeals to passionate workaholics [C] triggers debates among mommies [D] praises motivated employees
-35. Which of the following statements is true about office speak? [A] Managers admire it but avoid it [B] Linguists believe it to be nonsense [C] Companies find it to be fundamental [D] Regular people mock it but accept it
+31. According to Nancy Koehn, office language has become ______.
+[A] more emotional
+[B] more objective
+[C] less energetic
+[D] less strategic
+
+32. "team"-oriented corporate vocabulary is closely related to ______.
+[A] historical incidents
+[B] gender difference
+[C] sports culture
+[D] athletic executives
+
+33. Khurana believes that the importation of terminology aims to ______.
+[A] revive historical terms
+[B] promote company image
+[C] foster corporate cooperation
+[D] strengthen employee loyalty
+
+34. It can be inferred that Lean In ______.
+[A] voices for working women
+[B] appeals to passionate workaholics
+[C] triggers debates among mommies
+[D] praises motivated employees
+
+35. Which of the following statements is true about office speak?
+[A] Managers admire it but avoid it
+[B] Linguists believe it to be nonsense
+[C] Companies find it to be fundamental
+[D] Regular people mock it but accept it
 
 ---
 

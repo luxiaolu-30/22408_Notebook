@@ -10,11 +10,35 @@ So what does work? Perhaps surprisingly, scheduling regular times for reading. Y
 
 ## 题目（31–35）
 
-31. The usual time-management techniques don't work because ______. [A] what they can offer does not ease the modern mind [B] what challenging books demand is repetitive reading [C] what people often forget is carrying a book with them [D] what deep reading requires cannot be guaranteed
-32. The "empty bottles" metaphor illustrates that people feel a pressure to ______. [A] update their to-do lists [B] make passing time fulfilling [C] carry their plans through [D] pursue carefree reading
-33. Eberle would agree that scheduling regular times for reading helps ______. [A] encourage the efficiency mind-set [B] develop online reading habits [C] promote ritualistic reading [D] achieve immersive reading
-34. "Carry a book with you at all times" can work if ______. [A] reading becomes your primary business of the day [B] all the daily business has been promptly dealt with [C] you are able to drop back to business after reading [D] time can be evenly split for reading and business
-35. The best title for this text could be ______. [A] How to Enjoy Easy Reading [B] How to Find Time to Read [C] How to Set Reading Goals [D] How to Read Extensively
+31. The usual time-management techniques don't work because ______.
+[A] what they can offer does not ease the modern mind
+[B] what challenging books demand is repetitive reading
+[C] what people often forget is carrying a book with them
+[D] what deep reading requires cannot be guaranteed
+
+32. The "empty bottles" metaphor illustrates that people feel a pressure to ______.
+[A] update their to-do lists
+[B] make passing time fulfilling
+[C] carry their plans through
+[D] pursue carefree reading
+
+33. Eberle would agree that scheduling regular times for reading helps ______.
+[A] encourage the efficiency mind-set
+[B] develop online reading habits
+[C] promote ritualistic reading
+[D] achieve immersive reading
+
+34. "Carry a book with you at all times" can work if ______.
+[A] reading becomes your primary business of the day
+[B] all the daily business has been promptly dealt with
+[C] you are able to drop back to business after reading
+[D] time can be evenly split for reading and business
+
+35. The best title for this text could be ______.
+[A] How to Enjoy Easy Reading
+[B] How to Find Time to Read
+[C] How to Set Reading Goals
+[D] How to Read Extensively
 
 ---
 

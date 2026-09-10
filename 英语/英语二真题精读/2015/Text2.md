@@ -12,11 +12,35 @@ Many first-generation students "struggle to navigate 应对 the middle-class cul
 
 ## 题目（26–30）
 
-26. Recruiting more first-generation students has ______. [A] reduced their dropout rates [B] narrowed the achievement gap [C] missed its original purpose [D] depressed college students
-27. The author of the research article are optimistic because ______. [A] the problem is solvable [B] their approach is costless [C] the recruiting rate has increased [D] their finding appeal to students
-28. The study suggests that most first-generation students ______. [A] study at private universities [B] are from single-parent families [C] are in need of financial support [D] have failed their college
-29. The author of the paper believe that first-generation students ______. [A] are actually indifferent to the achievement gap [B] can have a potential influence on other students [C] may lack opportunities to apply for research projects [D] are inexperienced in handling their issues at college
-30. We may infer from the last paragraph that ______. [A] universities often reject the culture of the middle-class [B] students are usually to blame for their lack of resources [C] social class greatly helps enrich educational experiences [D] colleges are partly responsible for the problem in question
+26. Recruiting more first-generation students has ______.
+[A] reduced their dropout rates
+[B] narrowed the achievement gap
+[C] missed its original purpose
+[D] depressed college students
+
+27. The author of the research article are optimistic because ______.
+[A] the problem is solvable
+[B] their approach is costless
+[C] the recruiting rate has increased
+[D] their finding appeal to students
+
+28. The study suggests that most first-generation students ______.
+[A] study at private universities
+[B] are from single-parent families
+[C] are in need of financial support
+[D] have failed their college
+
+29. The author of the paper believe that first-generation students ______.
+[A] are actually indifferent to the achievement gap
+[B] can have a potential influence on other students
+[C] may lack opportunities to apply for research projects
+[D] are inexperienced in handling their issues at college
+
+30. We may infer from the last paragraph that ______.
+[A] universities often reject the culture of the middle-class
+[B] students are usually to blame for their lack of resources
+[C] social class greatly helps enrich educational experiences
+[D] colleges are partly responsible for the problem in question
 
 ---
 

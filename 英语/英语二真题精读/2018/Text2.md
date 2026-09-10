@@ -16,11 +16,35 @@ While there's a long way to go, the trend lines for renewables are spiking 飙�
 
 ## 题目（26–30）
 
-26. The word "plummeting" (Line 3, Para.2) is closest in meaning to ______. [A] stabilizing [B] changing [C] falling [D] rising
-27. According to Paragraph 3, the use of renewable energy in America ______. [A] is progressing notably [B] is as extensive as in Europe [C] faces many challenges [D] has proved to be impractical
-28. It can be learned that in Iowa, ______. [A] wind is a widely used energy source [B] wind energy has replaced fossil fuels [C] tech giants are investing in clean energy [D] there is a shortage of clean energy supply
-29. Which of the following is true about clean energy according to Paragraphs 5&6? [A] Its application has boosted battery storage. [B] It is commonly used in car manufacturing. [C] Its continuous supply is becoming a reality. [D] Its sustainable exploitation will remain difficult.
-30. It can be inferred from the last paragraph that renewable energy ______. [A] will bring the US closer to other countries [B] will accelerate global environmental change [C] is not really encouraged by the US government [D] is not competitive enough with regard to its cost
+26. The word "plummeting" (Line 3, Para.2) is closest in meaning to ______.
+[A] stabilizing
+[B] changing
+[C] falling
+[D] rising
+
+27. According to Paragraph 3, the use of renewable energy in America ______.
+[A] is progressing notably
+[B] is as extensive as in Europe
+[C] faces many challenges
+[D] has proved to be impractical
+
+28. It can be learned that in Iowa, ______.
+[A] wind is a widely used energy source
+[B] wind energy has replaced fossil fuels
+[C] tech giants are investing in clean energy
+[D] there is a shortage of clean energy supply
+
+29. Which of the following is true about clean energy according to Paragraphs 5&6?
+[A] Its application has boosted battery storage.
+[B] It is commonly used in car manufacturing.
+[C] Its continuous supply is becoming a reality.
+[D] Its sustainable exploitation will remain difficult.
+
+30. It can be inferred from the last paragraph that renewable energy ______.
+[A] will bring the US closer to other countries
+[B] will accelerate global environmental change
+[C] is not really encouraged by the US government
+[D] is not competitive enough with regard to its cost
 
 ---
 

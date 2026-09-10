@@ -10,11 +10,35 @@ Indeed, there is something a little absurd 荒谬的 in the state getting involv
 
 ## 题目（21–25）
 
-21. According to Paragraph 1, Parkrun has ______. [A] created many jobs [B] become an official festival [C] gained great popularity [D] strengthened community ties
-22. The author believes that London's Olympic "Legacy" has failed to ______. [A] boost population growth [B] improve the city's image [C] promote sport participation [D] increase sport hours in schools
-23. Parkrun is different from Olympic games in that it ______. [A] does not emphasize elitism [B] does not attract first-timers [C] aims at discovering talents [D] focuses on mass competition
-24. With regard to mass sports, the author holds that government should ______. [A] increase funds for sport clubs [B] invest in public sports facilities [C] supervise local sports associations [D] organize "grassroots" sports events
-25. The author's attitude to what U.K. governments have done for sports is ______. [A] critical [B] tolerant [C] uncertain [D] sympathetic
+21. According to Paragraph 1, Parkrun has ______.
+[A] created many jobs
+[B] become an official festival
+[C] gained great popularity
+[D] strengthened community ties
+
+22. The author believes that London's Olympic "Legacy" has failed to ______.
+[A] boost population growth
+[B] improve the city's image
+[C] promote sport participation
+[D] increase sport hours in schools
+
+23. Parkrun is different from Olympic games in that it ______.
+[A] does not emphasize elitism
+[B] does not attract first-timers
+[C] aims at discovering talents
+[D] focuses on mass competition
+
+24. With regard to mass sports, the author holds that government should ______.
+[A] increase funds for sport clubs
+[B] invest in public sports facilities
+[C] supervise local sports associations
+[D] organize "grassroots" sports events
+
+25. The author's attitude to what U.K. governments have done for sports is ______.
+[A] critical
+[B] tolerant
+[C] uncertain
+[D] sympathetic
 
 ---
 

@@ -10,11 +10,35 @@ Not everyone buys the win-win rhetoric 双赢的花言巧语. Some Congress memb
 
 ## 题目（26–30）
 
-26. The major reason for listing the lesser prairie as threatened is ______. [A] its drastically decreased population [B] the underestimate of the grassland acreage [C] a desperate appeal from some biologists [D] the insistence of private landowners
-27. The "threatened" tag disappointed some environmentalists in that it ______. [A] was a give-in to governmental pressure [B] would involve fewer agencies in action [C] granted less federal regulatory power [D] went against conservation policies
-28. It can be learned from Paragraph 3 that unintentional harm-doers will not be prosecuted if they ______. [A] agree to pay a sum for compensation [B] volunteer to set up an equally big habitat [C] offer to support the WAFWA monitoring job [D] promise to raise funds for USFWS operations
-29. According to Ashe, the leading role in managing the species is ______. [A] the federal government [B] the wildlife agencies [C] the landowners [D] the states
-30. Jay Lininger would most likely support ______. [A] industry groups [B] the win-win rhetoric [C] environmental groups [D] the plan under challenge
+26. The major reason for listing the lesser prairie as threatened is ______.
+[A] its drastically decreased population
+[B] the underestimate of the grassland acreage
+[C] a desperate appeal from some biologists
+[D] the insistence of private landowners
+
+27. The "threatened" tag disappointed some environmentalists in that it ______.
+[A] was a give-in to governmental pressure
+[B] would involve fewer agencies in action
+[C] granted less federal regulatory power
+[D] went against conservation policies
+
+28. It can be learned from Paragraph 3 that unintentional harm-doers will not be prosecuted if they ______.
+[A] agree to pay a sum for compensation
+[B] volunteer to set up an equally big habitat
+[C] offer to support the WAFWA monitoring job
+[D] promise to raise funds for USFWS operations
+
+29. According to Ashe, the leading role in managing the species is ______.
+[A] the federal government
+[B] the wildlife agencies
+[C] the landowners
+[D] the states
+
+30. Jay Lininger would most likely support ______.
+[A] industry groups
+[B] the win-win rhetoric
+[C] environmental groups
+[D] the plan under challenge
 
 ---
 

@@ -16,11 +16,35 @@ State governments are well accustomed to 习惯于 managing forests, but traditi
 
 ## 题目（26–30）
 
-26. By saying "one of the harder challenges," the author implies that ______. [A] global climate change may get out of control [B] people may misunderstand global warming [C] extreme weather conditions may arise [D] forests may become a potential threat
-27. To maintain forests as valuable "carbon sinks," we may need to ______. [A] preserve the diversity of species in them [B] accelerate the growth of young trees [C] strike a balance among different plants [D] lower their present carbon-absorbing capacity
-28. California's Forest Carbon Plan endeavors to ______. [A] cultivate more drought-resistant trees [B] reduce the density of some of its forests [C] find more effective ways to kill insects [D] restore its forests quickly after wildfires
-29. What is essential to California's plan according to Paragraph 5? [A] To handle the areas in serious danger first. [B] To carry it out before the year of 2020. [C] To perfect the emissions-permit auctions. [D] To obtain enough financial support.
-30. The author's attitude to California's plan can best be described as ______. [A] ambiguous [B] tolerant [C] supportive [D] cautious
+26. By saying "one of the harder challenges," the author implies that ______.
+[A] global climate change may get out of control
+[B] people may misunderstand global warming
+[C] extreme weather conditions may arise
+[D] forests may become a potential threat
+
+27. To maintain forests as valuable "carbon sinks," we may need to ______.
+[A] preserve the diversity of species in them
+[B] accelerate the growth of young trees
+[C] strike a balance among different plants
+[D] lower their present carbon-absorbing capacity
+
+28. California's Forest Carbon Plan endeavors to ______.
+[A] cultivate more drought-resistant trees
+[B] reduce the density of some of its forests
+[C] find more effective ways to kill insects
+[D] restore its forests quickly after wildfires
+
+29. What is essential to California's plan according to Paragraph 5?
+[A] To handle the areas in serious danger first.
+[B] To carry it out before the year of 2020.
+[C] To perfect the emissions-permit auctions.
+[D] To obtain enough financial support.
+
+30. The author's attitude to California's plan can best be described as ______.
+[A] ambiguous
+[B] tolerant
+[C] supportive
+[D] cautious
 
 ---
 

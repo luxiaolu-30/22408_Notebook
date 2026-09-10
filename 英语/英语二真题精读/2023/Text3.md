@@ -10,11 +10,35 @@ Still other experts say it's too soon to understand how the Internet affects our
 
 ## 题目（31–35）
 
-31. Sparrow's study shows that with the Internet, the human brain will ______. [A] analyze information in detail [B] collect information efficiently [C] switch its focus of memory [D] extend its memory duration
-32. The process of "cognitive offloading" ______. [A] helps us identify false information [B] keeps our memory from failing [C] enables us to classify trivial facts [D] lessens our memory burdens
-33. Which of the following would Sparrow support about the Internet? [A] It may reform our learning approach. [B] It may impact our society negatively. [C] It may enhance our adaptability to technology. [D] It may interfere with our conceptual thinking.
-34. It is indicated in Paragraph 3 that how the Internet affects our brains? [A] requires further academic research [B] is most studied in older adults [C] is reflected in our reading speed [D] depends on our web-surfing habits
-35. Neither Sparrow nor Storm would agree that ______. [A] our reliance on the Internet will be costly [B] the Internet is weakening our memory [C] memory exercise is a must for our brain [D] our ability to focus declines with age
+31. Sparrow's study shows that with the Internet, the human brain will ______.
+[A] analyze information in detail
+[B] collect information efficiently
+[C] switch its focus of memory
+[D] extend its memory duration
+
+32. The process of "cognitive offloading" ______.
+[A] helps us identify false information
+[B] keeps our memory from failing
+[C] enables us to classify trivial facts
+[D] lessens our memory burdens
+
+33. Which of the following would Sparrow support about the Internet?
+[A] It may reform our learning approach.
+[B] It may impact our society negatively.
+[C] It may enhance our adaptability to technology.
+[D] It may interfere with our conceptual thinking.
+
+34. It is indicated in Paragraph 3 that how the Internet affects our brains?
+[A] requires further academic research
+[B] is most studied in older adults
+[C] is reflected in our reading speed
+[D] depends on our web-surfing habits
+
+35. Neither Sparrow nor Storm would agree that ______.
+[A] our reliance on the Internet will be costly
+[B] the Internet is weakening our memory
+[C] memory exercise is a must for our brain
+[D] our ability to focus declines with age
 
 ---
 

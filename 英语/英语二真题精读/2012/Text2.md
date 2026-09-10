@@ -10,11 +10,35 @@ Trade publications 行业刊物 counselled 建议 department stores that, in ord
 
 ## 题目（26–30）
 
-26. By saying "it is … the rainbow" (Para.1), the author means pink ______. [A] should not be the sole representation of girlhood [B] should not be associated with girls' innocence [C] cannot explain girls' lack of imagination [D] cannot influence girls' lives and interests
-27. According to Paragraph 2, which of the following is true of colours? [A] Colours are encoded in girls' DNA. [B] Blue used to be regarded as the colour for girls. [C] Pink used to be a neutral colour in symbolising genders. [D] White is preferred by babies.
-28. The author suggests that our perception of children's psychological development was much influenced by ______. [A] the marketing of products for children [B] the observation of children's nature [C] researches into children's behaviour [D] studies of childhood consumption
-29. We may learn from Paragraph 4 that department stores were advised to ______. [A] focus on infant wear and older kids' clothes [B] attach equal importance to different genders [C] classify consumers into smaller groups [D] create some common shoppers' terms
-30. It can be concluded that girls' attraction to pink seems to be ______. [A] clearly explained by their inborn tendency [B] fully understood by clothing manufacturers [C] mainly imposed by profit-driven businessmen [D] well interpreted by psychological experts
+26. By saying "it is … the rainbow" (Para.1), the author means pink ______.
+[A] should not be the sole representation of girlhood
+[B] should not be associated with girls' innocence
+[C] cannot explain girls' lack of imagination
+[D] cannot influence girls' lives and interests
+
+27. According to Paragraph 2, which of the following is true of colours?
+[A] Colours are encoded in girls' DNA.
+[B] Blue used to be regarded as the colour for girls.
+[C] Pink used to be a neutral colour in symbolising genders.
+[D] White is preferred by babies.
+
+28. The author suggests that our perception of children's psychological development was much influenced by ______.
+[A] the marketing of products for children
+[B] the observation of children's nature
+[C] researches into children's behaviour
+[D] studies of childhood consumption
+
+29. We may learn from Paragraph 4 that department stores were advised to ______.
+[A] focus on infant wear and older kids' clothes
+[B] attach equal importance to different genders
+[C] classify consumers into smaller groups
+[D] create some common shoppers' terms
+
+30. It can be concluded that girls' attraction to pink seems to be ______.
+[A] clearly explained by their inborn tendency
+[B] fully understood by clothing manufacturers
+[C] mainly imposed by profit-driven businessmen
+[D] well interpreted by psychological experts
 
 ---
 

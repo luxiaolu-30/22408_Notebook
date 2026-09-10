@@ -14,11 +14,35 @@ In a 2014 study, for example, Malti looked at 244 children. Using caregiver asse
 
 ## 题目（21–25）
 
-21. Researchers think that guilt can be a good thing because it may help ______. [A] regulate a child's basic emotions [B] improve a child's intellectual ability [C] foster a child's moral development [D] intensify a child's positive feelings
-22. According to Paragraph 2, many people still consider guilt to be ______. [A] deceptive [B] burdensome [C] addictive [D] deceptive
-23. Vaish holds that the rethinking about guilt comes from an awareness that ______. [A] emotions are context-independent [B] emotions are socially constructive [C] emotional stability can benefit health [D] an emotion can play opposing roles
-24. Malti and others have shown that cooperation and sharing ______. [A] may help correct emotional deficiencies [B] can result from either sympathy or guilt [C] can bring about emotional satisfaction [D] may be the outcome of impulsive acts
-25. The word "transgressions" (Line 4, Para.5) is closest in meaning to ______. [A] teachings [B] discussions [C] restrictions [D] wrongdoings
+21. Researchers think that guilt can be a good thing because it may help ______.
+[A] regulate a child's basic emotions
+[B] improve a child's intellectual ability
+[C] foster a child's moral development
+[D] intensify a child's positive feelings
+
+22. According to Paragraph 2, many people still consider guilt to be ______.
+[A] deceptive
+[B] burdensome
+[C] addictive
+[D] deceptive
+
+23. Vaish holds that the rethinking about guilt comes from an awareness that ______.
+[A] emotions are context-independent
+[B] emotions are socially constructive
+[C] emotional stability can benefit health
+[D] an emotion can play opposing roles
+
+24. Malti and others have shown that cooperation and sharing ______.
+[A] may help correct emotional deficiencies
+[B] can result from either sympathy or guilt
+[C] can bring about emotional satisfaction
+[D] may be the outcome of impulsive acts
+
+25. The word "transgressions" (Line 4, Para.5) is closest in meaning to ______.
+[A] teachings
+[B] discussions
+[C] restrictions
+[D] wrongdoings
 
 ---
 

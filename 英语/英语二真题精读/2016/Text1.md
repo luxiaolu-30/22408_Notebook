@@ -14,11 +14,35 @@ Indeed, the Flatiron students might not go into IT at all. But creating a future
 
 ## 题目（21–25）
 
-21. Cortina holds that early exposure to computer science makes it easier to ______. [A] complete future job training [B] remodel the way of thinking [C] formulate logical hypotheses [D] perfect artwork production
-22. In delivering lessons for high-schoolers, Flatiron has considered their ______. [A] experience [B] academic backgrounds [C] career prospects [D] interest
-23. Deborah Seehorn believes that the skills learned at Flatiron will ______. [A] help students learn other computer languages [B] have to be upgraded when new technologies come [C] need improving when students look for jobs [D] enable students to make big quick money
-24. According to the last paragraph, Flatiron students are expected to ______. [A] compete with a future army of programmers [B] stay longer in the information technology industry [C] become better prepared for the digitalized world [D] bring forth innovative computer technologies
-25. The word "coax" (Line 4, Para.6) is closest in meaning to ______. [A] challenge [B] persuade [C] frighten [D] misguide
+21. Cortina holds that early exposure to computer science makes it easier to ______.
+[A] complete future job training
+[B] remodel the way of thinking
+[C] formulate logical hypotheses
+[D] perfect artwork production
+
+22. In delivering lessons for high-schoolers, Flatiron has considered their ______.
+[A] experience
+[B] academic backgrounds
+[C] career prospects
+[D] interest
+
+23. Deborah Seehorn believes that the skills learned at Flatiron will ______.
+[A] help students learn other computer languages
+[B] have to be upgraded when new technologies come
+[C] need improving when students look for jobs
+[D] enable students to make big quick money
+
+24. According to the last paragraph, Flatiron students are expected to ______.
+[A] compete with a future army of programmers
+[B] stay longer in the information technology industry
+[C] become better prepared for the digitalized world
+[D] bring forth innovative computer technologies
+
+25. The word "coax" (Line 4, Para.6) is closest in meaning to ______.
+[A] challenge
+[B] persuade
+[C] frighten
+[D] misguide
 
 ---
 

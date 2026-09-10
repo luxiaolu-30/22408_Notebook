@@ -12,11 +12,35 @@ The whirlwind 旋风 that swept through newsrooms harmed everybody, but much of 
 
 ## 题目（26–30）
 
-26. By saying "Newspapers like … their own doom" (Para.1), the author indicates that newspapers ______. [A] neglected the sign of crisis [B] failed to get state subsidies [C] were not charitable corporations [D] were in a desperate situation
-27. Some newspapers refused delivery to distant suburbs probably because ______. [A] readers threatened to pay less [B] newspapers wanted to reduce costs [C] journalists reported little about areas [D] subscribers complained about slimmer products
-28. Compared with their American counterparts, Japanese newspapers are much more stable because they ______. [A] have more sources of revenue [B] have more balanced newsrooms [C] are less dependent on advertising [D] are less affected by readership
-29. What can be inferred from the last paragraph about the current newspaper business? [A] Distinctiveness is an essential feature of newspapers. [B] Completeness is to blame for the failure of newspapers. [C] Foreign bureaus play a crucial role in the newspaper business. [D] Readers have lost their interest in car and film reviews.
-30. The most appropriate title for this text would be ______. [A] American Newspapers: Struggling for Survival [B] American Newspapers: Gone with the Wind [C] American Newspapers: A Thriving Business [D] American Newspapers: A Hopeless Story
+26. By saying "Newspapers like … their own doom" (Para.1), the author indicates that newspapers ______.
+[A] neglected the sign of crisis
+[B] failed to get state subsidies
+[C] were not charitable corporations
+[D] were in a desperate situation
+
+27. Some newspapers refused delivery to distant suburbs probably because ______.
+[A] readers threatened to pay less
+[B] newspapers wanted to reduce costs
+[C] journalists reported little about areas
+[D] subscribers complained about slimmer products
+
+28. Compared with their American counterparts, Japanese newspapers are much more stable because they ______.
+[A] have more sources of revenue
+[B] have more balanced newsrooms
+[C] are less dependent on advertising
+[D] are less affected by readership
+
+29. What can be inferred from the last paragraph about the current newspaper business?
+[A] Distinctiveness is an essential feature of newspapers.
+[B] Completeness is to blame for the failure of newspapers.
+[C] Foreign bureaus play a crucial role in the newspaper business.
+[D] Readers have lost their interest in car and film reviews.
+
+30. The most appropriate title for this text would be ______.
+[A] American Newspapers: Struggling for Survival
+[B] American Newspapers: Gone with the Wind
+[C] American Newspapers: A Thriving Business
+[D] American Newspapers: A Hopeless Story
 
 ---
 
