@@ -19,13 +19,13 @@ But the researchers believe that outside directors have an easier time of avoidi
 
 ## 题目（21–25）
 
-21. According to Paragraph 1, Ms. Simmons was criticized for ______.
+21. According to Paragraph 1, Ms. Simmons was criticized 批判 for ______.
 [A] gaining excessive profits
 [B] failing to fulfill her duty
 [C] refusing to make compromises
 [D] leaving the board in tough times
 
-22. We learn from Paragraph 2 that outside directors are supposed to be ______.
+22. We learn from Paragraph 2 that outside directors are supposed to be理应是 ______.
 [A] generous investors
 [B] unbiased executives
 [C] share price forecasters
