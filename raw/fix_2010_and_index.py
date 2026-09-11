@@ -95,7 +95,6 @@ if other_rows:
             lines.append(f'- {o}')
         lines.append('')
 lines.append('## See Also')
-lines.append('- [[英语/历年真题]]')
 lines.append('- [[英语/英语考情分析]]')
 lines.append('')
 

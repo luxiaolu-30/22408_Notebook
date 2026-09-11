@@ -42,7 +42,6 @@ for y, cells in rows:
     lines.append(f'| {y} | ' + ' | '.join(cells) + ' |')
 lines.append('')
 lines.append('## See Also')
-lines.append('- [[英语/历年真题]]')
 lines.append('- [[英语/英语考情分析]]')
 lines.append('')
 
