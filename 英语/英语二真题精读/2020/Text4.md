@@ -1,4 +1,13 @@
-
+---
+title: 英语二 2020 Text4
+type: source-summary
+domain: 英语
+subject: 英语二
+topic: 真题精读
+created: 2026-09-10
+updated: 2026-09-10
+tags: [英语二, 真题精读, 2020, Text4]
+---
 
 Now that members of Generation Z Z世代 are graduating college this spring—the most commonly-accepted definition says this generation was born after 1995, give or take a year 大约一年—the attention has been rising steadily 稳步上升 in recent weeks. Gen Zs are about to hit the streets 走上街头 looking for work in a labor market that's tighter than it's been in decades. And employers are planning on hiring about 17 percent more new graduates for jobs in the U.S. this year than last, according to a survey conducted by the National Association of Colleges and Employers 全国大学与雇主协会. Everybody wants to know how the people who will soon inhabit those empty office cubicles 办公室隔间 will differ from those who came before them.
 

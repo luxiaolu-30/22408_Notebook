@@ -1,4 +1,13 @@
-
+---
+title: 英语二 2019 Text4
+type: source-summary
+domain: 英语
+subject: 英语二
+topic: 真题精读
+created: 2026-09-10
+updated: 2026-09-10
+tags: [英语二, 真题精读, 2019, Text4]
+---
 
 Arnold Schwarzenegger, Dia Mirza and Adrian Grenier have a message for you. It's easy to beat plastic 塑料. They're part of a bunch of 一群 celebrities 名人 starring in 主演 a new video for World Environment Day 世界环境日—encouraging you, the consumer, to swap out 换掉 your single-use plastic staples 一次性塑料日用品 like straws 吸管 and cutlery 餐具 to combat the plastics crisis 塑料危机.
 

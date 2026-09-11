@@ -1,4 +1,13 @@
-
+---
+title: 英语二 2013 Text3
+type: source-summary
+domain: 英语
+subject: 英语二
+topic: 真题精读
+created: 2026-09-10
+updated: 2026-09-10
+tags: [英语二, 真题精读, 2013, Text3]
+---
 
 Scientists have found that although we are prone to 易于 snap overreactions 快速过度反应, if we take a moment and think about how we are likely to react, we can reduce or even eliminate 消除 the negative effects of our quick, hard-wired 天生的 responses.
 

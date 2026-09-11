@@ -1,4 +1,13 @@
-
+---
+title: 英语二 2015 Text1
+type: source-summary
+domain: 英语
+subject: 英语二
+topic: 真题精读
+created: 2026-09-10
+updated: 2026-09-10
+tags: [英语二, 真题精读, 2015, Text1]
+---
 
 A new study suggests that contrary to 与…相反 most surveys, people are actually more stressed at home than at work. Researchers measured people's cortisol 皮质醇, which is a stress marker 压力标志物, while they were at work and while they were at home and found it higher at what is supposed to be a place of refuge 避难所.
 

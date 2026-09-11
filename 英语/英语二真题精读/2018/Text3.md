@@ -1,4 +1,13 @@
-
+---
+title: 英语二 2018 Text3
+type: source-summary
+domain: 英语
+subject: 英语二
+topic: 真题精读
+created: 2026-09-10
+updated: 2026-09-10
+tags: [英语二, 真题精读, 2018, Text3]
+---
 
 The power and ambition 雄心 of the giants of the digital economy 数字经济 is astonishing 惊人的—Amazon has just announced the purchase of the upmarket 高端的 grocery chain 杂货连锁店 Whole Foods for $13.5bn, but two years ago Facebook paid even more than that to acquire 收购 the WhatsApp messaging service 信息服务, which doesn't have any physical product 实体产品 at all. What WhatsApp offered Facebook was an intricate 复杂的 and finely detailed 极其详细的 web of its users' friendships and social lives 社交生活.
 

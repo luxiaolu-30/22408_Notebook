@@ -1,4 +1,13 @@
-
+---
+title: 英语二 2025 Text2
+type: source-summary
+domain: 英语
+subject: 英语二
+topic: 真题精读
+created: 2026-09-10
+updated: 2026-09-10
+tags: [英语二, 真题精读, 2025, Text2]
+---
 
 When it was established, the National Health Service (NHS) 英国国民保健制度 was visionary 有远见的: offering high-quality, timely care 及时护理 to meet the dominant needs 主要需求 of the population it served. Nearly 75 years on, with the UK facing very different health challenges, it is clear that the model is out of date 过时的.
 

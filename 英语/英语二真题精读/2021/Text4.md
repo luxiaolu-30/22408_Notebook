@@ -1,4 +1,13 @@
-
+---
+title: 英语二 2021 Text4
+type: source-summary
+domain: 英语
+subject: 英语二
+topic: 真题精读
+created: 2026-09-10
+updated: 2026-09-10
+tags: [英语二, 真题精读, 2021, Text4]
+---
 
 We're fairly good at judging people based on first impressions 第一印象, thin slices of experience 经验薄片 ranging from a glimpse of a photo to a five-minute interaction, and deliberation 深思熟虑 can be not only extraneous 无关的 but intrusive 打扰的. In one study of the ability she dubbed 称为 "thin slicing," the late psychologist 已故心理学家 Nalini Ambady asked participants to watch silent 10-second video clips 视频片段 of professors and to rate the instructor's overall effectiveness 整体有效性. Their ratings correlated strongly with 与…强相关 students' end-of-semester ratings. Another set of participants had to count backward 倒数 from 1,000 by nines as they watched the clips, occupying their conscious working memory 有意识工作记忆. Their ratings were just as accurate, demonstrating the intuitive nature 直觉本质 of the social processing 社会处理.
 

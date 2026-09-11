@@ -1,4 +1,13 @@
-
+---
+title: 英语二 2017 Text2
+type: source-summary
+domain: 英语
+subject: 英语二
+topic: 真题精读
+created: 2026-09-10
+updated: 2026-09-10
+tags: [英语二, 真题精读, 2017, Text2]
+---
 
 With so much focus on Children's use of screen 屏幕, it's easy for parents to forget about their own screen use. "Tech is designed to really suck you in 吸引你," says Jenny Radesky in her study of digital play 数字游戏, "and digital products are there to promote maximal engagement 最大程度的参与. It makes it hard to disengage 脱离, and leads to a lot of bleed-over 渗透 into the family routine 日常生活."
 

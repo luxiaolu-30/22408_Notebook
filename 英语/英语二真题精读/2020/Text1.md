@@ -1,4 +1,13 @@
-
+---
+title: 英语二 2020 Text1
+type: source-summary
+domain: 英语
+subject: 英语二
+topic: 真题精读
+created: 2026-09-10
+updated: 2026-09-10
+tags: [英语二, 真题精读, 2020, Text1]
+---
 
 Rats and other animals need to be highly attuned to 适应 social signals from others so they can identify friends to cooperate with and enemies to avoid. To find out if this extends to 延伸到 non-living beings, Laleh Quinn at the University of California, San Diego, and her colleagues tested whether rats can detect social signals from robotic rats 机器老鼠.
 

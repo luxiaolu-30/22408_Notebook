@@ -1,4 +1,13 @@
-
+---
+title: 英语二 2011 Text4
+type: source-summary
+domain: 英语
+subject: 英语二
+topic: 真题精读
+created: 2026-09-10
+updated: 2026-09-10
+tags: [英语二, 真题精读, 2011, Text4]
+---
 
 Will the European Union make it 成功? The question would have sounded strange not long ago. Now even the project's greatest cheerleaders 支持者 talk of a continent facing a "Bermuda triangle 百慕大三角" of debt, population decline and lower growth.
 

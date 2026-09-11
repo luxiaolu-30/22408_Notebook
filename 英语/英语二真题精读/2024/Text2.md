@@ -1,4 +1,13 @@
-
+---
+title: 英语二 2024 Text2
+type: source-summary
+domain: 英语
+subject: 英语二
+topic: 真题精读
+created: 2026-09-10
+updated: 2026-09-10
+tags: [英语二, 真题精读, 2024, Text2]
+---
 
 The UK is facing a future construction crisis because of a failure to plant trees to produce wood. Confor has warned. The forestry and wood trade body 林业和木材贸易机构 has called for urgent action to reduce the country's reliance on timber imports 木材进口 and provide a stable supply of wood for future generations. Currently only 20 per cent of the UK's wood requirement is home-grown 国产的 while it remains the second-largest net importer 净进口国 of timber in the world.
 

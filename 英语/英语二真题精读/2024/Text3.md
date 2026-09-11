@@ -1,4 +1,13 @@
-
+---
+title: 英语二 2024 Text3
+type: source-summary
+domain: 英语
+subject: 英语二
+topic: 真题精读
+created: 2026-09-10
+updated: 2026-09-10
+tags: [英语二, 真题精读, 2024, Text3]
+---
 
 One of the biggest challenges in keeping unsafe aging drivers 不安全的老年司机 off the road is convincing them that it's time to turn over the keys 交出钥匙. "It's a complete life-changer 彻底改变生活的事" when someone stops—or is forced to stop—driving, said former risk manager 前风险经理 Anne M. Menke.
 

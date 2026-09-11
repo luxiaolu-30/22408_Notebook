@@ -1,4 +1,13 @@
-
+---
+title: 英语二 2019 Text1
+type: source-summary
+domain: 英语
+subject: 英语二
+topic: 真题精读
+created: 2026-09-10
+updated: 2026-09-10
+tags: [英语二, 真题精读, 2019, Text1]
+---
 
 Unlike so-called basic emotions 基本情绪 such as sadness, fear, and anger, guilt 内疚 emerges 出现 a little later, in conjunction with 与…一起 a child's growing grasp 理解 of social and moral norms 社会和道德规范. Children aren't born knowing how to say "I'm sorry"; rather, they learn over time that such statements appease 安抚 parents and friends—and their own consciences 良心. This is why researchers generally regard so-called moral guilt, in the right amount 适量, to be a good thing.
 

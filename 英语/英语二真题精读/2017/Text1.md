@@ -1,4 +1,13 @@
-
+---
+title: 英语二 2017 Text1
+type: source-summary
+domain: 英语
+subject: 英语二
+topic: 真题精读
+created: 2026-09-10
+updated: 2026-09-10
+tags: [英语二, 真题精读, 2017, Text1]
+---
 
 Every Saturday morning, at 9 am, more than 50,000 runners set off 出发 to run 5km around their local park. The Parkrun phenomenon 现象 began with a dozen friends and has inspired 激发 400 events in the UK and more abroad. Events are free, staffed 配备人员 by thousands of volunteers 志愿者. Runners range from four years old to grandparents; their times range from Andrew Baddeley's world record 13 minutes 48 seconds up to an hour.
 

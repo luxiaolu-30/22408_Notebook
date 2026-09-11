@@ -1,4 +1,13 @@
-
+---
+title: 英语二 2017 Text4
+type: source-summary
+domain: 英语
+subject: 英语二
+topic: 真题精读
+created: 2026-09-10
+updated: 2026-09-10
+tags: [英语二, 真题精读, 2017, Text4]
+---
 
 Though often viewed as a problem for western states, the growing frequency 频率 of wildfires 野火 is a national concern 国家关注 because of its impact on federal tax dollars 联邦税收, Professor Moritz and others say.
 

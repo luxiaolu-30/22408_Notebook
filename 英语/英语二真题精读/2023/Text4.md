@@ -1,4 +1,13 @@
-
+---
+title: 英语二 2023 Text4
+type: source-summary
+domain: 英语
+subject: 英语二
+topic: 真题精读
+created: 2026-09-10
+updated: 2026-09-10
+tags: [英语二, 真题精读, 2023, Text4]
+---
 
 Teenagers are paradoxical 矛盾的. That's a mild and detached 温和而超然的 way of saying something that parents often express with considerably stronger language. But the paradox is scientific as well as personal. In adolescence 青春期, helpless and dependent children who have relied on grown-ups for just about everything become independent people who can take care of themselves and help each other. At the same time, once cheerful and compliant 顺从的 children become rebellious 叛逆的 teenage risk-takers 冒险者.
 

@@ -1,4 +1,13 @@
-
+---
+title: 英语二 2022 Text1
+type: source-summary
+domain: 英语
+subject: 英语二
+topic: 真题精读
+created: 2026-09-10
+updated: 2026-09-10
+tags: [英语二, 真题精读, 2022, Text1]
+---
 
 On a recent sunny day, 13,000 chickens roam 漫步 over Larry Brown's 40 windswept 当风的 acres in Shiner, Texas. Some rest in the shade of a parked car, others drink water with the cows. This all seems random 随机的, but it's by design 有意设计的, part of what the $6.1 billion U.S. egg industry bets 打赌 will be its next big thing: climate-friendly eggs 气候友好型鸡蛋.
 

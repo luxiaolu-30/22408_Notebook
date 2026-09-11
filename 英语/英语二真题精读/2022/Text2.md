@@ -1,4 +1,13 @@
-
+---
+title: 英语二 2022 Text2
+type: source-summary
+domain: 英语
+subject: 英语二
+topic: 真题精读
+created: 2026-09-10
+updated: 2026-09-10
+tags: [英语二, 真题精读, 2022, Text2]
+---
 
 More Americans are opting to 选择 work well into retirement 退休后很久, a growing trend that threatens to upend 颠覆 the old workforce model 旧劳动力模式.
 

@@ -1,4 +1,13 @@
-
+---
+title: 英语二 2014 Text3
+type: source-summary
+domain: 英语
+subject: 英语二
+topic: 真题精读
+created: 2026-09-10
+updated: 2026-09-10
+tags: [英语二, 真题精读, 2014, Text3]
+---
 
 The concept of man versus machine 人机对抗 is at least as old as the industrial revolution, but this phenomenon tends to be most acutely 强烈地 felt during economic downturns 经济下滑 and fragile 脆弱的 recoveries. And yet, it would be a mistake to think we are right now simply experiencing the painful side of a boom and bust cycle 繁荣与萧条周期. Certain jobs have gone away for good 永远消失, outmoded 过时 by machines. Since technology has such an insatiable 贪得无厌的 appetite for eating up 吞噬 human jobs, this phenomenon will continue to restructure 重组 our economy in ways we can't immediately foresee.
 

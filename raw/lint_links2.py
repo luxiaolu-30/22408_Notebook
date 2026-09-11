@@ -27,11 +27,15 @@ def extract_links(text):
         out.append((raw, target))
     return out
 
+def file_stem(rel):
+    """去 .md 后缀后取 basename（不用 splitext，避免 8.3 之类数字点被误判为扩展名）"""
+    stem = rel[:-3] if rel.endswith(".md") else rel
+    return os.path.basename(stem)
+
 files = all_md_files()
 by_base = defaultdict(list)
 for rel in files:
-    base = os.path.splitext(os.path.basename(rel))[0]
-    by_base[base].append(rel)
+    by_base[file_stem(rel)].append(rel)
 
 # ---------- 1. 链接分类 ----------
 path_ok, path_bad, broken, self_links = [], [], [], []
@@ -40,7 +44,8 @@ for rel in sorted(files):
     with open(files[rel], encoding="utf-8") as f:
         text = f.read()
     for raw, tgt in extract_links(text):
-        base = os.path.splitext(os.path.basename(tgt))[0]
+        tgt_stem = tgt[:-3] if tgt.endswith(".md") else tgt
+        base = os.path.basename(tgt_stem)
         # 1) 目标是否真实存在（basename 匹配）
         exists = base in by_base
         # 2) 链接是否自带路径
@@ -58,8 +63,7 @@ for rel in sorted(files):
             if not matched:
                 path_bad.append((rel, raw, real_paths))
         # 4) 统计入链（按 basename）
-        if rel != files[rel] or True:
-            link_src[base].add(rel)
+        link_src[base].add(rel)
 
 print("=" * 70)
 print("[1] 链接路径前缀错误（目标存在但路径不对，Obsidian 中会断链/歧义）")
@@ -79,7 +83,7 @@ print("=" * 70)
 print("[3] 孤立页面（没有任何入链；index/README/WIKI-SCHEMA/log 除外）")
 orphans = []
 for rel in sorted(files):
-    base = os.path.splitext(os.path.basename(rel))[0]
+    base = file_stem(rel)
     if base in special:
         continue
     if base not in link_src:
@@ -102,7 +106,7 @@ REQ_KEYS = ["title", "type", "created", "updated"]
 issues = []
 no_fm = []
 for rel in sorted(files):
-    base = os.path.splitext(os.path.basename(rel))[0]
+    base = file_stem(rel)
     if base in special:
         continue
     with open(files[rel], encoding="utf-8") as f:
@@ -135,14 +139,11 @@ conflict_files = []
 for rel in sorted(files):
     with open(files[rel], encoding="utf-8") as f:
         text = f.read()
-    if "<<<<<<<" in text or "=======" in text.split("```")[0] if False else False:
-        pass
-    # 简单粗暴：检查冲突标记（排除代码块内的 ======= 误报，粗略处理）
+    # 检查冲突标记（粗略处理）
     if re.search(r"^<<<<<<< ", text, re.M):
         conflict_files.append(rel)
         cnt = len(re.findall(r"^<<<<<<< ", text, re.M))
         print(f"    [冲突] {rel}: {cnt} 处 <<<<<<< 标记")
-        # 显示冲突块内容
         for cm in re.finditer(r"^<<<<<<< .*?\n(.*?)^>>>>>>> .*?$", text, re.M | re.S):
             block = cm.group(1)
             print(f"      ---冲突块---")

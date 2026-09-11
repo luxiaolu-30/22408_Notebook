@@ -1,4 +1,13 @@
-
+---
+title: 英语二 2012 Text3
+type: source-summary
+domain: 英语
+subject: 英语二
+topic: 真题精读
+created: 2026-09-10
+updated: 2026-09-10
+tags: [英语二, 真题精读, 2012, Text3]
+---
 
 In 2010, a federal judge 联邦法官 shook America's biotech 生物技术 industry to its core 核心. Companies had won patents 专利 for isolated 分离的 DNA for decades—by 2005 some 20% of human genes were patented. But in March 2010 a judge ruled 裁定 that genes were unpatentable 不可申请专利的. Executives were violently agitated 极度焦虑. The Biotechnology Industry Organisation (BIO), a trade group 行业组织, assured 保证 members that this was just a "preliminary step 初步步骤" in a longer battle.
 

@@ -1,4 +1,13 @@
-
+---
+title: 英语二 2014 Text2
+type: source-summary
+domain: 英语
+subject: 英语二
+topic: 真题精读
+created: 2026-09-10
+updated: 2026-09-10
+tags: [英语二, 真题精读, 2014, Text2]
+---
 
 An article in Scientific American has pointed out that empirical 实证的 research says that, actually, you think you're more beautiful than you are. We have a deep-seated 根深蒂固的 need to feel good about ourselves and we naturally employ a number of self-enhancing 自我提升 strategies to achieve this. Social psychologists have amassed 积累 oceans of research into what they call the "above average effect 高于平均效应", or "illusory superiority 虚幻的优越感", and shown that, for example, 70% of us rate ourselves as above average in leadership, 93% in driving and 85% at getting on well with others—all obviously statistical impossibilities 统计上不可能.
 

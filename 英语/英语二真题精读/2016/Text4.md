@@ -1,4 +1,13 @@
-
+---
+title: 英语二 2016 Text4
+type: source-summary
+domain: 英语
+subject: 英语二
+topic: 真题精读
+created: 2026-09-10
+updated: 2026-09-10
+tags: [英语二, 真题精读, 2016, Text4]
+---
 
 Against a backdrop of 在…背景下 drastic changes in economy and population structure, younger Americans are drawing a new 21st-century road map 路线图 to success, a latest poll 民意调查 has found.
 

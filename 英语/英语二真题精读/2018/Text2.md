@@ -1,4 +1,13 @@
-
+---
+title: 英语二 2018 Text2
+type: source-summary
+domain: 英语
+subject: 英语二
+topic: 真题精读
+created: 2026-09-10
+updated: 2026-09-10
+tags: [英语二, 真题精读, 2018, Text2]
+---
 
 While fossil fuels 化石燃料—coal, oil, gas—still generate 产生 roughly 大约 85 percent of the world's energy supply 能源供应, it's clearer than ever that the future belongs to 属于 renewable sources 可再生能源 such as wind and solar. The move to renewables is picking up momentum 势头 around the world: They now account for 占 more than half of new power sources 电源 going on line 上线.
 

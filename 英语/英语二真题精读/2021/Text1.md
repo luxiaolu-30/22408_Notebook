@@ -1,4 +1,13 @@
-
+---
+title: 英语二 2021 Text1
+type: source-summary
+domain: 英语
+subject: 英语二
+topic: 真题精读
+created: 2026-09-10
+updated: 2026-09-10
+tags: [英语二, 真题精读, 2021, Text1]
+---
 
 Reskilling 再培训 is something that sounds like a buzzword 流行词 but is actually a requirement if we plan to have a future where a lot of would-be workers 准工人 do not get left behind 落后.
 

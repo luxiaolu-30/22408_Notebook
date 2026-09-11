@@ -1,4 +1,13 @@
-
+---
+title: 英语二 2012 Text2
+type: source-summary
+domain: 英语
+subject: 英语二
+topic: 真题精读
+created: 2026-09-10
+updated: 2026-09-10
+tags: [英语二, 真题精读, 2012, Text2]
+---
 
 Pretty in pink: adult women do not remember being so obsessed with 着迷于 the colour, yet it is pervasive 普遍的 in our young girls' lives. It is not that pink is intrinsically 本质上 bad, but it is such a tiny slice of the rainbow 彩虹 and, though it may celebrate girlhood 少女时代 in one way, it also repeatedly and firmly fuses 融合 girls' identity to appearance 外表. Then it presents that connection, even among two-year-olds, between girls as not only innocent 天真的 but as evidence of innocence. Looking around, I despaired at 对…感到绝望 the singular lack of imagination about girls' lives and interests.
 

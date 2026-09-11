@@ -1,4 +1,13 @@
-
+---
+title: 英语二 2019 Text2
+type: source-summary
+domain: 英语
+subject: 英语二
+topic: 真题精读
+created: 2026-09-10
+updated: 2026-09-10
+tags: [英语二, 真题精读, 2019, Text2]
+---
 
 Forests give us shade 阴凉, quiet and one of the harder challenges 更艰巨的挑战 in the fight against climate change. Even as we humans count on 依靠 forests to soak up 吸收 a good share of the carbon dioxide 二氧化碳 we produce, we are threatening their ability to do so. The climate change we are hastening 加速 could one day leave us with forests that emit 排放 more carbon than they absorb.
 

@@ -1,4 +1,13 @@
-
+---
+title: 英语二 2017 Text3
+type: source-summary
+domain: 英语
+subject: 英语二
+topic: 真题精读
+created: 2026-09-10
+updated: 2026-09-10
+tags: [英语二, 真题精读, 2017, Text3]
+---
 
 Today, widespread social pressure 普遍的社会压力 to immediately go to college in conjunction with 与…一起 increasingly high expectations in a fast-moving world often causes students to completely overlook 忽视 the possibility of taking a gap year 间隔年. After all, if everyone you know is going to college in the fall, it seems silly to stay back 推迟一年 a year, doesn't it? And after going to school for 12 years, it doesn't feel natural to spend a year doing something that isn't academic 学术的.
 

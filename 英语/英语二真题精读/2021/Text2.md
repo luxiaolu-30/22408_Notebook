@@ -1,4 +1,13 @@
-
+---
+title: 英语二 2021 Text2
+type: source-summary
+domain: 英语
+subject: 英语二
+topic: 真题精读
+created: 2026-09-10
+updated: 2026-09-10
+tags: [英语二, 真题精读, 2021, Text2]
+---
 
 With the global population predicted to hit close to 10 billion by 2050, and forecasts that agricultural production in some regions will need to nearly double to keep pace 跟上步伐, food security 粮食安全 is increasingly making headlines 成为头条新闻. In the UK, it has become a big talking point 热门话题 recently too, for a rather particular reason: Brexit 英国脱欧.
 

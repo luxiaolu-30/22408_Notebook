@@ -1,4 +1,13 @@
-
+---
+title: 英语二 2012 Text1
+type: source-summary
+domain: 英语
+subject: 英语二
+topic: 真题精读
+created: 2026-09-10
+updated: 2026-09-10
+tags: [英语二, 真题精读, 2012, Text1]
+---
 
 Homework has never been terribly popular with students and even many parents, but in recent years it has been particularly scorned 鄙视. School districts across the country, most recently Los Angeles Unified, are revising 修订 their thinking on this educational ritual 惯例. Unfortunately, L.A. Unified has produced an inflexible 不灵活的 policy which mandates 规定 that with the exception of 除了 some advanced courses, homework may no longer count for 占 more than 10% of a student's academic grade 学业成绩.
 

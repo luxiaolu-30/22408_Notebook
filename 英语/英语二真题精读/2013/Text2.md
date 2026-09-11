@@ -1,4 +1,13 @@
-
+---
+title: 英语二 2013 Text2
+type: source-summary
+domain: 英语
+subject: 英语二
+topic: 真题精读
+created: 2026-09-10
+updated: 2026-09-10
+tags: [英语二, 真题精读, 2013, Text2]
+---
 
 A century ago, the immigrants from across the Atlantic included settlers 定居者 and sojourners 旅居者. Along with the many folks looking to make a permanent home in the United States came those who had no intention to stay, and who would make some money and then go home. Between 1908 and 1915, about 7 million people arrived while about 2 million departed 离开. About a quarter of all Italian immigrants, for example, eventually returned to Italy for good 永久地. They even had an affectionate 深情的 nickname, "uccelli di passaggio," birds of passage 候鸟.
 

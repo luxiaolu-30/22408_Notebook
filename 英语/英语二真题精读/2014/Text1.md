@@ -1,4 +1,13 @@
-
+---
+title: 英语二 2014 Text1
+type: source-summary
+domain: 英语
+subject: 英语二
+topic: 真题精读
+created: 2026-09-10
+updated: 2026-09-10
+tags: [英语二, 真题精读, 2014, Text1]
+---
 
 What would you do with $590m? This is now a question for Gloria Mackenzie, an 84-year-old widow 寡妇 who recently emerged 出现 from her small, tin-roofed 铁皮屋顶的 house in Florida to collect the biggest undivided 未分割的 lottery jackpot 彩票头奖 in history. If she hopes her new-found 新获得的 fortune will yield 产生 lasting feelings of fulfillment 满足感, she could do worse than 不妨 read "Happy Money" by Elizabeth Dunn and Michael Norton.
 

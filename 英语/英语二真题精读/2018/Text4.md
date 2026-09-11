@@ -1,4 +1,13 @@
-
+---
+title: 英语二 2018 Text4
+type: source-summary
+domain: 英语
+subject: 英语二
+topic: 真题精读
+created: 2026-09-10
+updated: 2026-09-10
+tags: [英语二, 真题精读, 2018, Text4]
+---
 
 To combat 对抗 the trap of putting a premium on 重视 being busy, Cal Newport, author of Deep Work: Rules for Focused Success in a Distracted World 《深度工作：在分心世界中专注成功的法则》, recommends building a habit of "deep work"—the ability to focus without distraction 不分心.
 

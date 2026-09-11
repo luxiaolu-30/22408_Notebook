@@ -1,4 +1,13 @@
-
+---
+title: 英语二 2025 Text3
+type: source-summary
+domain: 英语
+subject: 英语二
+topic: 真题精读
+created: 2026-09-10
+updated: 2026-09-10
+tags: [英语二, 真题精读, 2025, Text3]
+---
 
 Heat action plans 热浪行动计划, or HAPs, have been proliferating 激增 in India in the past few years. In general, an HAP spells out 详细说明 when and how officials should issue heat warnings 发布高温预警 and alert hospitals and other institutions. Nagpur's plan, for instance, calls for 要求 hospitals to set aside 留出 "cold wards" 冷病房 in the summer for treating heatstroke 中暑 patients, and advises builders to give construction laborers 建筑工人 a break from work on very hot days.
 

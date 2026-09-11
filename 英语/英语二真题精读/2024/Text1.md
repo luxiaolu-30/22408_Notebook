@@ -1,4 +1,13 @@
-
+---
+title: 英语二 2024 Text1
+type: source-summary
+domain: 英语
+subject: 英语二
+topic: 真题精读
+created: 2026-09-10
+updated: 2026-09-10
+tags: [英语二, 真题精读, 2024, Text1]
+---
 
 In her new book Cogs and Monsters: What Economics Is, and What It Should Be, Diane Coyle, an economist at Cambridge University, argues that the digital economy requires new ways of thinking about progress. "Whatever we mean by the economy growing, by things getting better, the gains will have to be more evenly shared 更均衡地共享 than in the recent past," she writes. "An economy of tech millionaires or billionaires and gig workers 零工工人, with middle-income jobs undercut by 被…削弱 automation, will not be politically sustainable 政治上可持续的."
 

@@ -1,4 +1,13 @@
-
+---
+title: 英语二 2022 Text4
+type: source-summary
+domain: 英语
+subject: 英语二
+topic: 真题精读
+created: 2026-09-10
+updated: 2026-09-10
+tags: [英语二, 真题精读, 2022, Text4]
+---
 
 Although ethics classes 伦理课 are common around the world, scientists are unsure if their lessons can actually change behavior; evidence either way is weak, relying on contrived 人为的 laboratory tests or sometimes unreliable self-reports 自我报告. But a new study published in Cognition 认知 found that, in at least one real-world situation, a single ethics lesson may have had lasting effects 持久影响.
 

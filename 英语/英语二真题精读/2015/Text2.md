@@ -1,4 +1,13 @@
-
+---
+title: 英语二 2015 Text2
+type: source-summary
+domain: 英语
+subject: 英语二
+topic: 真题精读
+created: 2026-09-10
+updated: 2026-09-10
+tags: [英语二, 真题精读, 2015, Text2]
+---
 
 For years, studies have found that first-generation college students 第一代大学生—those who do not have a parent with a college degree—lag 落后 other students on a range of 一系列 education achievement factors. Their grades are lower and their dropout rates 辍学率 are higher. But since such students are most likely to advance economically 经济上进步 if they succeed in higher education, colleges and universities have pushed for decades to recruit 招收 more of them. This has created "a paradox 悖论" in that recruiting first-generation students, but then watching many of them fail, means that higher education has "continued to reproduce 复制 and widen, rather than close" achievement gap 成就差距 based on social class, according to the depressing beginning of a paper forthcoming 即将发表的 in the journal Psychological Science.
 

@@ -1,4 +1,13 @@
-
+---
+title: 英语二 2015 Text3
+type: source-summary
+domain: 英语
+subject: 英语二
+topic: 真题精读
+created: 2026-09-10
+updated: 2026-09-10
+tags: [英语二, 真题精读, 2015, Text3]
+---
 
 Even in traditional offices, "the lingua franca 通用语 of corporate America 美国企业 has gotten much more emotional 情感化的 and much more right-brained 右脑的 than it was 20 years ago," said Harvard Business School professor Nancy Koehn. She started spinning off 列举 examples. "If you and I parachuted 空降到 back to Fortune 500 companies in 1990, we would see much less frequent use of terms like journey, mission 使命, passion 热情. There were goals, there were strategies, there were objectives 目标, but we didn't talk about energy; we didn't talk about passion."
 

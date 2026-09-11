@@ -1,4 +1,13 @@
-
+---
+title: 英语二 2012 Text4
+type: source-summary
+domain: 英语
+subject: 英语二
+topic: 真题精读
+created: 2026-09-10
+updated: 2026-09-10
+tags: [英语二, 真题精读, 2012, Text4]
+---
 
 The great recession 大萧条 may be over, but this era of high joblessness 高失业率 is probably beginning. Before it ends, it will likely change the life course and character of a generation of young adults. And ultimately 最终, it is likely to reshape 重塑 our politics, our culture, and the character of our society for years.
 

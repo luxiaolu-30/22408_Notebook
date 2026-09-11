@@ -1,4 +1,13 @@
-
+---
+title: 英语二 2013 Text1
+type: source-summary
+domain: 英语
+subject: 英语二
+topic: 真题精读
+created: 2026-09-10
+updated: 2026-09-10
+tags: [英语二, 真题精读, 2013, Text1]
+---
 
 In an essay entitled 题为 "Making It in America," the author Adam Davidson relates 讲述 a joke from cotton country 产棉区 about just how much a modern textile mill 纺织厂 has been automated 自动化: The average mill has only two employees today, "a man and a dog. The man is there to feed the dog, and the dog is there to keep the man away from the machines."
 

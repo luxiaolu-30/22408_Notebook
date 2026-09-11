@@ -1,4 +1,13 @@
-
+---
+title: 英语二 2023 Text3
+type: source-summary
+domain: 英语
+subject: 英语二
+topic: 真题精读
+created: 2026-09-10
+updated: 2026-09-10
+tags: [英语二, 真题精读, 2023, Text3]
+---
 
 The Internet may be changing merely what we remember, not our capacity to do so, suggests Columbia University psychology professor Betsy Sparrow. In 2011, Sparrow led a study in which participants were asked to record 40 factoids 琐事 in a computer ("an ostrich's 鸵鸟 eye is bigger than its brain," for example). Half of the participants were told the information would be erased 擦除, while the other half were told it would be saved. Guess what? The latter group 后者 made no effort to recall the information when quizzed 测试 on it later, because they knew they could find it on their computers. In the same study, a group was asked to remember both the information and the folders 文件夹 it was stored in. They didn't remember the information, but they remembered how to find the folders. In other words, human memory is not deteriorating 恶化 but "adapting to new communications technology," Sparrow says.
 

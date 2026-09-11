@@ -1,4 +1,13 @@
-
+---
+title: 英语二 2015 Text4
+type: source-summary
+domain: 英语
+subject: 英语二
+topic: 真题精读
+created: 2026-09-10
+updated: 2026-09-10
+tags: [英语二, 真题精读, 2015, Text4]
+---
 
 Many people talked of the 288,000 new jobs the Labor Department 劳工部 reported for June, along with the drop in the unemployment rate 失业率 to 6.1 percent, as good news. And they were right. For now it appears the economy is creating jobs at a decent pace 可观的速度. We still have a long way to go to get back to full employment 充分就业, but at least we are now finally moving forward at a faster pace.
 

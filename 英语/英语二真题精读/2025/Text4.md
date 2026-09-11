@@ -1,4 +1,13 @@
-
+---
+title: 英语二 2025 Text4
+type: source-summary
+domain: 英语
+subject: 英语二
+topic: 真题精读
+created: 2026-09-10
+updated: 2026-09-10
+tags: [英语二, 真题精读, 2025, Text4]
+---
 
 Navigating beyond 超越 the organised pavements 有组织的人行道 and parts of our urban spaces, desire paths 欲望路径 are the unofficial footprints 非官方足迹 of a community, revealing the unspoken preferences 未说出口的偏好, shared shortcuts 共享捷径 and collective choices 集体选择 of humans. Often appearing as trodden dirt tracks 踩出来的土路 through otherwise neat green spaces 整洁的绿地, these routes of collective disobedience 集体不服从 cut corners 抄近路, bisect 平分 lawns 草坪 and cross hills, representing the natural capability of people and animals to go from point A to point B most effectively 最有效地.
 

@@ -1,4 +1,13 @@
-
+---
+title: 英语二 2011 Text3
+type: source-summary
+domain: 英语
+subject: 英语二
+topic: 真题精读
+created: 2026-09-10
+updated: 2026-09-10
+tags: [英语二, 真题精读, 2011, Text3]
+---
 
 We tend to think of the decades immediately following World War II as a time of prosperity 繁荣 and growth, with soldiers returning home by the millions, going off to college on the G. I. Bill 退伍军人法案 and lining up at the marriage bureaus 婚姻登记处.
 

@@ -1,4 +1,13 @@
-
+---
+title: 英语二 2021 Text3
+type: source-summary
+domain: 英语
+subject: 英语二
+topic: 真题精读
+created: 2026-09-10
+updated: 2026-09-10
+tags: [英语二, 真题精读, 2021, Text3]
+---
 
 When Microsoft bought task management app 任务管理应用 Wunderlist and mobile calendar 移动日历 Sunrise in 2015, it picked up 获得 two newcomers 新公司 that were attracting considerable buzz 相当大的关注 in Silicon Valley 硅谷. Microsoft's own Office dominates 主导 the market for "productivity" software 生产力软件, but the start-ups 初创公司 represented a new wave of technology designed from the ground up 从头设计 for the smartphone world.
 

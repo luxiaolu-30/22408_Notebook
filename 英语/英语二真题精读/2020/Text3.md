@@ -1,4 +1,13 @@
-
+---
+title: 英语二 2020 Text3
+type: source-summary
+domain: 英语
+subject: 英语二
+topic: 真题精读
+created: 2026-09-10
+updated: 2026-09-10
+tags: [英语二, 真题精读, 2020, Text3]
+---
 
 Madrid was hailed as 被誉为 a public health beacon 灯塔 last November when it rolled out 推出 ambitious restrictions on the most polluting cars. Seven months and one election day later, a new conservative city council 市议会 suspended enforcement 暂停执行 of the clean air zone, a first step toward its possible demise 消亡.
 

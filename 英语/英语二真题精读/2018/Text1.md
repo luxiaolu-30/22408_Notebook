@@ -1,4 +1,13 @@
-
+---
+title: 英语二 2018 Text1
+type: source-summary
+domain: 英语
+subject: 英语二
+topic: 真题精读
+created: 2026-09-10
+updated: 2026-09-10
+tags: [英语二, 真题精读, 2018, Text1]
+---
 
 It is curious 奇怪的 that Stephen Koziatek feels almost as though he has to justify 证明…合理 his efforts to give his students a better future.
 

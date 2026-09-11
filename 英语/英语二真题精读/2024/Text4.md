@@ -1,4 +1,13 @@
-
+---
+title: 英语二 2024 Text4
+type: source-summary
+domain: 英语
+subject: 英语二
+topic: 真题精读
+created: 2026-09-10
+updated: 2026-09-10
+tags: [英语二, 真题精读, 2024, Text4]
+---
 
 If you look at the apps on your phone, chances are 很可能 you have at least one related to your health—and probably several. Whether it is a mental health app, a fitness tracker 健身追踪器, a connected health device 联网健康设备 or something else, many of us are taking advantage of 利用 this technology to keep better track of 更好地跟踪 our health in some shape or form 以某种形式. Recent research from the Organization for the Review of Care and Health Applications 护理和健康应用审查组织 found that 350,000 health apps were available on the market, 90,000 of which launched in 2020 alone.
 

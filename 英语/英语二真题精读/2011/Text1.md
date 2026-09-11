@@ -1,4 +1,13 @@
-
+---
+title: 英语二 2011 Text1
+type: source-summary
+domain: 英语
+subject: 英语二
+topic: 真题精读
+created: 2026-09-10
+updated: 2026-09-10
+tags: [英语二, 真题精读, 2011, Text1]
+---
 
 Ruth Simmons joined Goldman Sachs's board as an outside director 外部董事 in January 2000; a year later she became president of Brown University. For the rest of the decade she apparently 显然 managed both roles without attracting much criticism. But by the end of 2009 Ms. Simmons was under fire 受到抨击 for having sat on 担任 Goldman's compensation committee 薪酬委员会; how could she have let those enormous bonus payouts 奖金发放 pass unremarked 未被注意? By February the next year Ms. Simmons had left the board. The position was just taking up too much time, she said.
 

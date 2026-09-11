@@ -1,4 +1,13 @@
-
+---
+title: 英语二 2014 Text4
+type: source-summary
+domain: 英语
+subject: 英语二
+topic: 真题精读
+created: 2026-09-10
+updated: 2026-09-10
+tags: [英语二, 真题精读, 2014, Text4]
+---
 
 When the government talks about infrastructure 基础设施 contributing to the economy the focus is usually on roads, railways, broadband 宽带 and energy. Housing is seldom mentioned.
 

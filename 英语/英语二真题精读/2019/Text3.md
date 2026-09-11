@@ -1,4 +1,13 @@
-
+---
+title: 英语二 2019 Text3
+type: source-summary
+domain: 英语
+subject: 英语二
+topic: 真题精读
+created: 2026-09-10
+updated: 2026-09-10
+tags: [英语二, 真题精读, 2019, Text3]
+---
 
 American farmers have been complaining of labor shortages 劳动力短缺 for several years. The complaints are unlikely to stop without an overhaul 全面改革 of immigration rules 移民规则 for farm workers.
 

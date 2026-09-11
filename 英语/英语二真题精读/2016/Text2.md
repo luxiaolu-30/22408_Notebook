@@ -1,4 +1,13 @@
-
+---
+title: 英语二 2016 Text2
+type: source-summary
+domain: 英语
+subject: 英语二
+topic: 真题精读
+created: 2026-09-10
+updated: 2026-09-10
+tags: [英语二, 真题精读, 2016, Text2]
+---
 
 Biologists estimate 估计 that as many as 2 million lesser prairie chickens 小草原榛鸡—a kind of bird living on stretching grasslands 绵延的草原—once lent red to the often gray landscape 风景 of the midwestern and southwestern United States. But just some 22,000 birds remain today, occupying 占据 about 16% of the species' 物种 historic range 历史分布范围.
 

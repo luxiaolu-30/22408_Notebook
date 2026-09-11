@@ -1,4 +1,13 @@
-
+---
+title: 英语二 2025 Text1
+type: source-summary
+domain: 英语
+subject: 英语二
+topic: 真题精读
+created: 2026-09-10
+updated: 2026-09-10
+tags: [英语二, 真题精读, 2025, Text1]
+---
 
 U.S. customers historically tipped 给小费 people they assumed were earning most of their income via tips, such as restaurant servers earning less than the minimum wage 最低工资. In the early 2010s, a wide range of businesses started processing purchases with iPads and other digital payment systems 数字支付系统. These systems often prompted 提示 customers to tip for services that were not previously tipped. Today's tip requests are not connected to the salary and service norms 规范 that used to determine when and how people tip. Customers in the past merely always paid tips after receiving service, such as at the conclusion 结束 of a restaurant meal, after getting a haircut or once a pizza was delivered. That timing could reward high-quality service and give workers an incentive 激励 to provide it. It's becoming more common for tips to be requested beforehand 事先. And now tipping technology may even automatically add tips.
 

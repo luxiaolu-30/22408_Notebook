@@ -1,4 +1,13 @@
-
+---
+title: 英语二 2016 Text1
+type: source-summary
+domain: 英语
+subject: 英语二
+topic: 真题精读
+created: 2026-09-10
+updated: 2026-09-10
+tags: [英语二, 真题精读, 2016, Text1]
+---
 
 It's true that high-school coding 编程 classes aren't essential 必要的 for learning computer science in college. Students without experience can catch up 赶上 after a few introductory courses 入门课程, said Tom Cortina, the assistant dean 副院长 at Carnegie Mellon's School of Computer Science.
 

@@ -1,4 +1,13 @@
-
+---
+title: 英语二 2016 Text3
+type: source-summary
+domain: 英语
+subject: 英语二
+topic: 真题精读
+created: 2026-09-10
+updated: 2026-09-10
+tags: [英语二, 真题精读, 2016, Text3]
+---
 
 That everyone's too busy these days is a cliché 陈词滥调. But one specific complaint is made especially mournfully 悲哀地：There's never any time to read.
 

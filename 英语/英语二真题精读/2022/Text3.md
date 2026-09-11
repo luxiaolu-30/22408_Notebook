@@ -1,4 +1,13 @@
-
+---
+title: 英语二 2022 Text3
+type: source-summary
+domain: 英语
+subject: 英语二
+topic: 真题精读
+created: 2026-09-10
+updated: 2026-09-10
+tags: [英语二, 真题精读, 2022, Text3]
+---
 
 We have all encountered them, in both our personal and professional lives. Think about the times you felt tricked 欺骗 or frustrated 沮丧 by a membership or subscription 会员或订阅 that had a seamless 无缝的 sign-up process 注册流程 but was later difficult to cancel—something that should be simple and transparent 透明的 can be complicated, intentionally or unintentionally, in ways that impair 损害 consumer choice 消费者选择. These are examples of dark patterns 黑暗模式.
 

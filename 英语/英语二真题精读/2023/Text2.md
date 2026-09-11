@@ -1,4 +1,13 @@
-
+---
+title: 英语二 2023 Text2
+type: source-summary
+domain: 英语
+subject: 英语二
+topic: 真题精读
+created: 2026-09-10
+updated: 2026-09-10
+tags: [英语二, 真题精读, 2023, Text2]
+---
 
 It's easy to dismiss as absurd 认为…荒谬 the Trump administration's ideas for plugging 填补 the chronic funding gap 长期资金缺口 of our national parks. Can anyone really think it's a good idea to allow Amazon deliveries to your tent in Yosemite 约塞米蒂 or food trucks 餐车 to line up under the redwood trees 红杉树 at Sequoia National Park 红杉国家公园?
 

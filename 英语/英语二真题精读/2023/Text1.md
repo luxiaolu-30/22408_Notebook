@@ -1,4 +1,13 @@
-
+---
+title: 英语二 2023 Text1
+type: source-summary
+domain: 英语
+subject: 英语二
+topic: 真题精读
+created: 2026-09-10
+updated: 2026-09-10
+tags: [英语二, 真题精读, 2023, Text1]
+---
 
 In the quest for 追求 the perfect lawn 完美草坪, homeowners across the country are taking a shortcut 走捷径—and it is the environment that is paying the price 付出代价. About eight million square metres of plastic grass is sold each year but opposition has now spread to the highest gardening circles 最高园艺界. The Chelsea Flower Show 切尔西花展 has banned fake grass from this year's event, declaring it to be not part of its ethos 精神. The Royal Horticultural Society (RHS) 英国皇家园艺学会, which runs the annual show in west London, says it has introduced the ban because of the damage plastic grass does to the environment and biodiversity 生物多样性.
 

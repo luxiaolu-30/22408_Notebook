@@ -1,4 +1,13 @@
-
+---
+title: 英语二 2013 Text4
+type: source-summary
+domain: 英语
+subject: 英语二
+topic: 真题精读
+created: 2026-09-10
+updated: 2026-09-10
+tags: [英语二, 真题精读, 2013, Text4]
+---
 
 Europe is not a gender-equality 性别平等 heaven. In particular, the corporate workplace 企业职场 will never be completely family-friendly 家庭友好的 until women are part of senior management 高级管理层 decisions, and Europe's top corporate-governance 公司治理 positions remain overwhelmingly 压倒性地 male. Indeed, women hold only 14 percent of positions on European corporate boards 董事会.
 

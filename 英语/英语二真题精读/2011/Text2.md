@@ -1,4 +1,13 @@
-
+---
+title: 英语二 2011 Text2
+type: source-summary
+domain: 英语
+subject: 英语二
+topic: 真题精读
+created: 2026-09-10
+updated: 2026-09-10
+tags: [英语二, 真题精读, 2011, Text2]
+---
 
 Whatever happened to the death of newspapers? A year ago the end seemed near. The recession 经济衰退 threatened to remove the advertising and readers that had not already fled 逃离 to the internet. Newspapers like the San Francisco Chronicle were chronicling 记录 their own doom 厄运. America's Federal Trade Commission 联邦贸易委员会 launched a round of talks about how to save newspapers. Should they become charitable corporations 慈善机构? Should the state subsidize 补贴 them? It will hold another meeting soon. But the discussions now seem out of date 过时的.
 
