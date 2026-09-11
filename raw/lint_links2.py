@@ -32,6 +32,16 @@ def file_stem(rel):
     stem = rel[:-3] if rel.endswith(".md") else rel
     return os.path.basename(stem)
 
+# 素材页目录：叶子文件靠 00-总目录索引，不参与「孤立页面」判定（避免素材页淹没 lint）
+MATERIAL_DIRS = {"英语/英语二真题精读", "数学/题目", "408/历年真题"}
+
+def is_material_leaf(rel):
+    """判断是否为素材页叶子（非 00-总目录）。素材页走目录索引，不需被其他页双链。"""
+    for d in MATERIAL_DIRS:
+        if rel.startswith(d + "/") and not os.path.basename(rel).startswith("00-"):
+            return True
+    return False
+
 files = all_md_files()
 by_base = defaultdict(list)
 for rel in files:
@@ -85,6 +95,8 @@ orphans = []
 for rel in sorted(files):
     base = file_stem(rel)
     if base in special:
+        continue
+    if is_material_leaf(rel):
         continue
     if base not in link_src:
         orphans.append(rel)
