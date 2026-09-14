@@ -1,0 +1,390 @@
+---
+title: 英语二 2010 Text2
+type: source-summary
+domain: 英语
+subject: 英语二
+topic: 真题精读
+created: 2026-09-10
+updated: 2026-09-10
+tags: [英语二, 真题精读, "2010", Text2]
+---
+
+I was addressing 发表演讲 a small gathering in a suburban Virginia living room—a women's group that had invited men to join them. Throughout the evening, one man had been particularly talkative 健谈的, frequently offering ideas and anecdotes 奇闻轶事, while his wife sat silently 安静地 beside him on the couch 沙发. Toward the end of the evening, I commented that women frequently complain that their husbands don't talk to them. This man quickly nodded in agreement 点头同意. He gestured 做手势 toward his wife and said, "She's the talker in our family." The room burst into laughter 哄堂大笑; the man looked puzzled 困惑的 and hurt 受伤的. "It's true," he explained. "When I come home from work I have nothing to say. If she didn't keep the conversation going, we'd spend the whole evening in silence."
+
+This episode 插曲 crystallizes 清晰体现 the irony 讽刺 that although American men tend to talk more than women in public situations, they often talk less at home. And this pattern is wreaking havoc 造成严重破坏 with marriage.
+
+The pattern was observed by political scientist Andrew Hacker in the late 1970s. Sociologist Catherine Kohler Riessman reports in her new book Divorce Talk that most of the women she interviewed—but only a few of the men—gave lack of communication as the reason for their divorces. Given the current divorce rate of nearly 50 percent, that amounts to 相当于 millions of cases in the United States every year—a virtual epidemic 实际上的流行病 of failed conversation.
+
+In my own research, complaints from women about their husbands most often focused not on tangible inequities 有形的不平等 such as having given up the chance for a career to accompany a husband to his, or doing far more than their share of daily life-support work like cleaning, cooking and social arrangements. Instead, they focused on communication: "He doesn't listen to me." "He doesn't talk to me." I found, as Hacker observed years before, that most wives want their husbands to be, first and foremost 首先也是最重要的, conversational partners 对话伙伴, but few husbands share this expectation of their wives.
+
+In short, the image that best represents the current crisis is the stereotypical 老套的 cartoon scene of a man sitting at the breakfast table with a newspaper held up in front of his face, while a woman glares at 怒视 the back of it, wanting to talk.
+
+## 题目（26–30）
+
+26. What is most wives' main expectation of their husbands?
+[A] Talking to them.
+[B] Trusting them.
+[C] Supporting their careers.
+[D] Sharing housework.
+
+27. Judging from the context, the phrase "wreaking havoc" (Para.2) most probably means ______.
+[A] generating motivation
+[B] exerting influence
+[C] causing damage
+[D] creating pressure
+
+28. All of the following are true EXCEPT ______.
+[A] men tend to talk more in public than women
+[B] nearly 50 percent of recent divorces are caused by failed conversation
+[C] women attach much importance to communication between couples
+[D] a female tends to be more talkative at home than her spouse
+
+29. Which of the following can best summarize the main idea of this text?
+[A] The moral decaying deserves more research by sociologists.
+[B] Marriage break-up stems from sex inequalities.
+[C] Husband and wife have different expectations from their marriage.
+[D] Conversational patterns between man and wife are different.
+
+30. In the following part immediately after this text, the author will most probably focus on ______.
+[A] a vivid account of the new book Divorce Talk
+[B] a detailed description of the stereotypical cartoon
+[C] other possible reasons for high divorce rate in the U.S.
+[D] a brief introduction to the political scientist Andrew Hacker
+
+---
+
+### 参考答案
+
+26.A 27.C 28.B 29.D 30.B
+
+# 2010英二 Text2 长难句精读（原文+拆分+语法+翻译+考点）
+
+## 长难句1
+
+> I was addressing a small gathering in a suburban Virginia living room—a women's group that had invited men to join them.
+
+### 句子拆分
+
+主干：**I was addressing a small gathering**
+- `in a suburban Virginia living room`：地点状语
+- 破折号后：`a women's group that had invited men to join them`：同位语，解释gathering
+  - `that had invited men to join them`：that定语从句，修饰group
+
+### 生词
+
+address：发表演讲；a small gathering：小型聚会；suburban：郊区的；Virginia：弗吉尼亚州；living room：客厅；a women's group：一个女性团体；invite：邀请；join them：加入她们
+
+### 翻译
+
+我在弗吉尼亚州郊区一个客厅里的小型聚会上发表演讲——这是一个邀请了男性加入的女性团体。
+
+### 考点
+
+**破折号同位语+that定语从句**；场景引入——作者在女性聚会上演讲，引出男女沟通差异的话题。
+
+---
+
+## 长难句2
+
+> Throughout the evening, one man had been particularly talkative, frequently offering ideas and anecdotes, while his wife sat silently beside him on the couch.
+
+### 句子拆分
+
+主干：**one man had been particularly talkative, while his wife sat silently beside him on the couch**
+- `Throughout the evening`：时间状语
+- `frequently offering ideas and anecdotes`：现在分词作伴随状语
+- while连接并列句，表对比
+
+### 生词
+
+throughout the evening：整个晚上；particularly：特别地；talkative：健谈的；frequently：频繁地；offer ideas and anecdotes：发表观点和奇闻轶事；while：而；sit silently：安静地坐着；beside him：在他旁边；on the couch：在沙发上
+
+### 翻译
+
+整个晚上，一位男士特别健谈，频繁地发表观点和奇闻轶事，而他的妻子安静地坐在他旁边的沙发上。
+
+### 考点
+
+**现在分词伴随状语+while对比并列句**；26题A选项的背景——男性在公共场合健谈，女性在家更想说话，引出妻子期望丈夫和她们交谈。
+
+---
+
+## 长难句3
+
+> This episode crystallizes the irony that although American men tend to talk more than women in public situations, they often talk less at home.
+
+### 句子拆分
+
+主干：**This episode crystallizes the irony**
+- `that although American men tend to talk more than women in public situations, they often talk less at home`：that同位语从句，解释irony
+  - `although American men tend to talk more than women in public situations`：although让步状语从句
+
+### 生词
+
+episode：插曲；crystallize：清晰体现；irony：讽刺；although：尽管；American men：美国男性；tend to：倾向于；talk more than：比…说得多；in public situations：在公共场合；talk less at home：在家说得少
+
+### 翻译
+
+这个插曲清晰体现了一个讽刺：尽管美国男性在公共场合往往比女性说得多，但他们在家常常说得少。
+
+### 考点
+
+**that同位语从句+although让步状语从句**；全文核心论点——男性公共场合健谈、在家沉默，这种模式对婚姻造成破坏。
+
+---
+
+## 长难句4
+
+> And this pattern is wreaking havoc with marriage.
+
+### 句子拆分
+
+简单句
+主干：**this pattern is wreaking havoc with marriage**
+
+### 生词
+
+pattern：模式；wreak havoc with：对…造成严重破坏；marriage：婚姻
+
+### 翻译
+
+而且这种模式正在对婚姻造成严重破坏。
+
+### 考点
+
+**固定搭配wreak havoc with**；27题C选项的依据——"wreaking havoc"最可能的意思是"造成破坏"（causing damage = wreaking havoc with marriage，结合下文divorce rate等内容）。
+
+---
+
+## 长难句5
+
+> Sociologist Catherine Kohler Riessman reports in her new book Divorce Talk that most of the women she interviewed—but only a few of the men—gave lack of communication as the reason for their divorces.
+
+### 句子拆分
+
+主干：**Sociologist Catherine Kohler Riessman reports that most of the women gave lack of communication as the reason for their divorces**
+- `in her new book Divorce Talk`：状语
+- `that most of the women she interviewed—but only a few of the men—gave lack of communication as the reason for their divorces`：that宾语从句，作reports的宾语
+  - `she interviewed`：省略that的定语从句，修饰women
+  - 破折号插入：`but only a few of the men`
+
+### 生词
+
+sociologist：社会学家；report：报告；in her new book：在她的新书中；Divorce Talk：《离婚谈话》；most of the women：大多数女性；interview：采访；but only a few of the men：但只有少数男性；give lack of communication as the reason：把缺乏沟通作为原因；for their divorces：他们离婚的
+
+### 翻译
+
+社会学家凯瑟琳·科勒·里斯曼在她的新书《离婚谈话》中报告说，她采访的大多数女性——但只有少数男性——把缺乏沟通作为离婚的原因。
+
+### 考点
+
+**that宾语从句+省略that的定语从句+破折号插入**；28题B选项的依据——"近50%的近期离婚是由失败的沟通造成的"是不正确的（原文是most women gave lack of communication as reason，divorce rate nearly 50%，但不能说50%离婚由失败沟通造成）。
+
+---
+
+## 长难句6
+
+> Given the current divorce rate of nearly 50 percent, that amounts to millions of cases in the United States every year—a virtual epidemic of failed conversation.
+
+### 句子拆分
+
+主干：**that amounts to millions of cases in the United States every year**
+- `Given the current divorce rate of nearly 50 percent`：given介词短语作状语
+- 破折号后：`a virtual epidemic of failed conversation`：同位语，解释前面的情况
+
+### 生词
+
+given：考虑到；current divorce rate：当前离婚率；nearly 50 percent：近50%；amount to：相当于；millions of cases：数百万案例；in the United States：在美国；every year：每年；virtual：实际上的；epidemic：流行病；failed conversation：失败的沟通
+
+### 翻译
+
+考虑到当前近50%的离婚率，这相当于美国每年数百万案例——实际上是失败沟通的流行病。
+
+### 考点
+
+**given介词短语+破折号同位语**；说明沟通失败对婚姻的严重影响——每年数百万离婚案例，相当于流行病。
+
+---
+
+## 长难句7
+
+> In my own research, complaints from women about their husbands most often focused not on tangible inequities such as having given up the chance for a career to accompany a husband to his, or doing far more than their share of daily life-support work like cleaning, cooking and social arrangements.
+
+### 句子拆分
+
+主干：**complaints from women about their husbands most often focused not on tangible inequities**
+- `In my own research`：状语
+- `such as having given up the chance for a career to accompany a husband to his, or doing far more than their share of daily life-support work like cleaning, cooking and social arrangements`：such as举例
+  - 两个动名词并列：having given up... or doing...
+  - `like cleaning, cooking and social arrangements`：举例
+
+### 生词
+
+in my own research：在我自己的研究中；complaints from women about their husbands：女性对丈夫的抱怨；most often：最常；focus on：关注；tangible inequities：有形的不平等；such as：例如；give up the chance for a career：放弃职业机会；to accompany a husband to his：陪伴丈夫去他的（工作）；do far more than their share：做远超她们份额的；daily life-support work：日常生活维持工作；like cleaning, cooking and social arrangements：如清洁、烹饪和社交安排
+
+### 翻译
+
+在我自己的研究中，女性对丈夫的抱怨最常不关注有形的不平等，比如放弃职业机会陪伴丈夫去他的工作地，或做远超她们份额的日常生活维持工作如清洁、烹饪和社交安排。
+
+### 考点
+
+**such as举例+两个动名词并列+like举例**；28题C选项的依据——女性非常重视夫妻间沟通（instead, they focused on communication: "He doesn't listen to me." "He doesn't talk to me."）。
+
+---
+
+## 长难句8
+
+> Instead, they focused on communication: "He doesn't listen to me." "He doesn't talk to me."
+
+### 句子拆分
+
+主干：**they focused on communication**
+- `Instead`：状语
+- 冒号后：直接引语，举例说明communication
+
+### 生词
+
+instead：相反；focus on：关注；communication：沟通；listen to me：听我说话；talk to me：和我说话
+
+### 翻译
+
+相反，她们关注沟通："他不听我说话。""他不和我说话。"
+
+### 考点
+
+**Instead转折+冒号直接引语举例**；26题A选项和28题C选项的依据——妻子最主要期望是丈夫和她们交谈，女性重视夫妻间沟通。
+
+---
+
+## 长难句9
+
+> I found, as Hacker observed years before, that most wives want their husbands to be, first and foremost, conversational partners, but few husbands share this expectation of their wives.
+
+### 句子拆分
+
+主干：**I found that most wives want their husbands to be conversational partners, but few husbands share this expectation of their wives**
+- `as Hacker observed years before`：as定语从句，插入语
+- `that most wives want their husbands to be, first and foremost, conversational partners, but few husbands share this expectation of their wives`：that宾语从句，作found的宾语
+  - but连接两个并列分句
+  - `first and foremost`：插入语
+
+### 生词
+
+find：发现；as Hacker observed years before：正如哈克多年前观察到的；most wives：大多数妻子；want their husbands to be：希望她们的丈夫成为；first and foremost：首先也是最重要的；conversational partners：对话伙伴；but：但是；few husbands：很少丈夫；share this expectation：分享这种期望；of their wives：对他们妻子的
+
+### 翻译
+
+我发现，正如哈克多年前观察到的，大多数妻子希望她们的丈夫首先也是最重要的是成为对话伙伴，但很少有丈夫对妻子有这种期望。
+
+### 考点
+
+**as定语从句插入语+that宾语从句+but并列分句+first and foremost插入语**；26题A选项的直接依据——大多数妻子最主要期望是丈夫成为对话伙伴（Talking to them = conversational partners）。
+
+---
+
+## 长难句10
+
+> In short, the image that best represents the current crisis is the stereotypical cartoon scene of a man sitting at the breakfast table with a newspaper held up in front of his face, while a woman glares at the back of it, wanting to talk.
+
+### 句子拆分
+
+主干：**the image is the stereotypical cartoon scene**
+- `In short`：状语
+- `that best represents the current crisis`：that定语从句，修饰image
+- `of a man sitting at the breakfast table with a newspaper held up in front of his face`：介词短语修饰scene
+  - `sitting at the breakfast table`：现在分词作后置定语，修饰man
+  - `with a newspaper held up in front of his face`：with复合结构
+- `while a woman glares at the back of it, wanting to talk`：while并列句，表对比
+  - `wanting to talk`：现在分词作伴随状语
+
+### 生词
+
+in short：简而言之；image：画面；that best represents：最能代表的；the current crisis：当前危机；stereotypical：老套的；cartoon scene：卡通场景；a man sitting at the breakfast table：一个男人坐在早餐桌旁；with a newspaper held up in front of his face：脸前举着一份报纸；while：而；a woman glares at the back of it：一个女人怒视着报纸背面；wanting to talk：想说话
+
+### 翻译
+
+简而言之，最能代表当前危机的画面是老套的卡通场景：一个男人坐在早餐桌旁，脸前举着一份报纸，而一个女人怒视着报纸背面，想说话。
+
+### 考点
+
+**that定语从句+现在分词后置定语+with复合结构+while对比并列句+现在分词伴随状语**；30题B选项的依据——文章接下来最可能详细描述这幅老套卡通（a detailed description of the stereotypical cartoon = the image that best represents the current crisis is the stereotypical cartoon scene）。
+
+---
+
+# 2010 英二 Text2 26–30｜题目+选项+逐选项解析
+
+> 原文主题：作者在弗吉尼亚郊区女性聚会上演讲，一位男士整晚健谈发表观点轶事，妻子安静坐在旁边；作者评论女性常抱怨丈夫不和她们说话，男士点头同意并说妻子是家里话多的人，房间哄堂大笑，男士困惑受伤，解释说下班回家没话说，如果妻子不维持对话整晚沉默；这个插曲体现讽刺：美国男性公共场合比女性说得多但在家说得少，这种模式对婚姻造成严重破坏；政治学家哈克70年代末观察到这种模式，社会家里斯曼新书《离婚谈话》报告大多数受访女性（只有少数男性）把缺乏沟通作为离婚原因，考虑到近50%离婚率，相当于每年数百万案例——失败沟通的流行病；作者自己研究发现女性对丈夫抱怨不关注有形不平等（放弃职业机会、做更多家务），而是关注沟通："他不听我说话""他不和我说话"；大多数妻子希望丈夫首先是对话伙伴，但很少丈夫对妻子有这种期望；简而言之，最能代表当前危机的是老套卡通：男人早餐桌前举着报纸，女人怒视报纸背面想说话
+
+## 26. What is most wives' main expectation of their husbands?
+
+[A] Talking to them. [B] Trusting them. [C] Supporting their careers. [D] Sharing housework.
+
+✅答案：**A** 定位：第四段。`most wives want their husbands to be, first and foremost, conversational partners`（大多数妻子希望她们的丈夫首先也是最重要的是成为对话伙伴）+ `Instead, they focused on communication: "He doesn't listen to me." "He doesn't talk to me."`（相反，她们关注沟通："他不听我说话。""他不和我说话。"）说明大多数妻子最主要的期望是丈夫和她们交谈。
+
+- A：正确。和她们交谈。first and foremost conversational partners + focused on communication: "He doesn't talk to me" = Talking to them。
+- B：错误。Trusting them（信任她们）无中生有。
+- C：错误。Supporting their careers（支持她们的事业）与原文相反。是having given up the chance for a career to accompany a husband，不是支持妻子事业。
+- D：错误。Sharing housework（分担家务）与原文相反。是complaints not focused on tangible inequities like doing far more than their share of daily life-support work，不是期望分担家务。
+
+---
+
+## 27. Judging from the context, the phrase "wreaking havoc" (Para.2) most probably means ______.
+
+[A] generating motivation [B] exerting influence [C] causing damage [D] creating pressure
+
+✅答案：**C** 定位：第二段。`And this pattern is wreaking havoc with marriage.`（而且这种模式正在对婚姻造成严重破坏。）结合下文`most of the women … gave lack of communication as the reason for their divorces. Given the current divorce rate of nearly 50 percent, that amounts to millions of cases`（大多数女性把缺乏沟通作为离婚原因。考虑到近50%离婚率，相当于数百万案例），说明"wreaking havoc"意思是造成破坏。
+
+- A：错误。generating motivation（产生动力）与原文感情色彩相反。
+- B：错误。exerting influence（施加影响）程度太轻，原文是离婚等严重后果。
+- C：正确。造成破坏。this pattern + marriage +下文divorce rate nearly 50%, millions of cases = causing damage。
+- D：错误。creating pressure（制造压力）程度太轻，原文是离婚等严重后果。
+
+---
+
+## 28. All of the following are true EXCEPT ______.
+
+[A] men tend to talk more in public than women [B] nearly 50 percent of recent divorces are caused by failed conversation [C] women attach much importance to communication between couples [D] a female tends to be more talkative at home than her spouse
+
+✅答案：**B** 定位：全文。A选项对应`although American men tend to talk more than women in public situations`（尽管美国男性在公共场合往往比女性说得多），正确。C选项对应`they focused on communication: "He doesn't listen to me." "He doesn't talk to me."`（她们关注沟通），正确。D选项对应男士说"She's the talker in our family"（她是我们家话多的人）+男性在家talk less，正确。B选项"近50%的近期离婚是由失败的沟通造成的"不正确——原文是`most of the women … gave lack of communication as the reason for their divorces. Given the current divorce rate of nearly 50 percent`（大多数女性把缺乏沟通作为离婚原因。考虑到当前近50%的离婚率），不能说50%离婚由失败沟通造成，这是偷换概念。
+
+- A：正确。men tend to talk more in public than women = although American men tend to talk more than women in public situations。
+- B：错误。nearly 50 percent of recent divorces are caused by failed conversation偷换概念。原文是most women gave lack of communication as reason + divorce rate nearly 50%，不能说50%离婚由失败沟通造成。
+- C：正确。women attach much importance to communication between couples = they focused on communication。
+- D：正确。a female tends to be more talkative at home than her spouse = "She's the talker in our family" + men talk less at home。
+
+---
+
+## 29. Which of the following can best summarize the main idea of this text?
+
+[A] The moral decaying deserves more research by sociologists. [B] Marriage break-up stems from sex inequalities. [C] Husband and wife have different expectations from their marriage. [D] Conversational patterns between man and wife are different.
+
+✅答案：**D** 主旨题。全文主线：插曲引入（男性公共场合健谈、在家沉默）→核心论点（美国男性公共场合比女性说得多但在家说得少，这种模式破坏婚姻）→研究证据（哈克观察、里斯曼《离婚谈话》：大多数女性把缺乏沟通作为离婚原因）→作者研究（女性抱怨不关注有形不平等，而是关注沟通；大多数妻子期望丈夫是对话伙伴，很少丈夫有同样期望）→结尾画面（老套卡通：男人举报纸，女人怒视想说话）。全文主要讲夫妻之间沟通模式不同。
+
+- A：错误。The moral decaying deserves more research by sociologists（道德衰退值得社会学家更多研究）无中生有。
+- B：错误。Marriage break-up stems from sex inequalities（婚姻破裂源于性别不平等）与原文相反。是lack of communication，不是sex inequalities。
+- C：错误。Husband and wife have different expectations from their marriage（夫妻对婚姻有不同期望）以偏概全。是期望不同（妻子期望对话伙伴），但全文核心是沟通模式差异。
+- D：正确。夫妻之间沟通模式不同。men talk more in public but less at home + women focus on communication + wives want conversational partners + stereotypical cartoon = Conversational patterns between man and wife are different。
+
+---
+
+## 30. In the following part immediately after this text, the author will most probably focus on ______.
+
+[A] a vivid account of the new book Divorce Talk [B] a detailed description of the stereotypical cartoon [C] other possible reasons for high divorce rate in the U.S. [D] a brief introduction to the political scientist Andrew Hacker
+
+✅答案：**B** 定位：最后一段。`In short, the image that best represents the current crisis is the stereotypical cartoon scene of a man sitting at the breakfast table with a newspaper held up in front of his face, while a woman glares at the back of it, wanting to talk.`（简而言之，最能代表当前危机的画面是老套的卡通场景：一个男人坐在早餐桌旁，脸前举着一份报纸，而一个女人怒视着报纸背面，想说话。）文章结尾提到了这幅老套卡通，接下来最可能详细描述这幅卡通。
+
+- A：错误。a vivid account of the new book Divorce Talk（生动描述新书《离婚谈话》）已在第三段提到，不会接下来重点讲。
+- B：正确。详细描述这幅老套卡通。the image that best represents the current crisis is the stereotypical cartoon scene，结尾提到卡通，接下来最可能详细描述。
+- C：错误。other possible reasons for high divorce rate in the U.S.（美国高离婚率的其他可能原因）偏离主题，全文讲沟通模式，不是离婚原因。
+- D：错误。a brief introduction to the political scientist Andrew Hacker（简要介绍政治学家安德鲁·哈克）已在第三段提到，不会接下来重点讲。
+
+---
+
+### 本篇命题规律小结（英二阅读）
+
+1. 社会/家庭类文章：关注**场景引入（女性聚会插曲：男性公共场合健谈、在家沉默）→核心论点（男性公共场合比女性说得多但在家说得少，这种模式破坏婚姻）→研究证据（哈克70年代末观察、里斯曼《离婚谈话》：大多数女性把缺乏沟通作为离婚原因，近50%离婚率相当于数百万案例）→作者研究（女性抱怨不关注有形不平等如放弃职业、做家务，而是关注沟通："他不听我说话""他不和我说话"；大多数妻子期望丈夫首先是对话伙伴，很少丈夫有同样期望）→结尾画面（老套卡通：男人早餐桌前举报纸，女人怒视报纸背面想说话）**的结构
+2. 细节题：定位到**first and foremost+conversational partners**（first and foremost conversational partners + focused on communication = Talking to them）
+3. 词义题：定位到**固定搭配+下文证据**（wreaking havoc with marriage + 下文divorce rate nearly 50%, millions of cases = causing damage）
+4. 细节题（EXCEPT）：注意**偷换概念**（most women gave lack of communication as reason + divorce rate nearly 50% ≠ 50% divorces caused by failed conversation）
+5. 主旨题：把握**全文反复强调的主题**（men talk more in public but less at home + women focus on communication + wives want conversational partners = Conversational patterns between man and wife are different）
+6. 推理题（下文内容）：定位到**结尾提到的新事物**（the stereotypical cartoon scene在结尾首次详细提到，接下来最可能详细描述）

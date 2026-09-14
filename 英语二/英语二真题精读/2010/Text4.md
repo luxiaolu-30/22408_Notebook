@@ -1,0 +1,387 @@
+---
+title: 英语二 2010 Text4
+type: source-summary
+domain: 英语
+subject: 英语二
+topic: 真题精读
+created: 2026-09-11
+updated: 2026-09-11
+tags: [英语二, 真题精读, "2010", Text4]
+---
+
+Many Americans regard 看待 认为 the jury system 陪审团制度 as a concrete expression 具体体现 of crucial democratic values 关键民主价值, including the principles that all citizens who meet minimal qualifications 最低资格 of age and literacy 读写能力 are equally competent 同等胜任 to serve on juries 担任陪审员; that jurors should be selected randomly 随机地 from a representative cross section 代表性横截面 of the community; that no citizen should be denied the right to serve on a jury on account of 由于 race种族, religion宗教, sex性别, or national origin 民族血统; that defendants 被告 are entitled to 有权 trial by their peers 同辈审判; and that verdicts 裁决 should represent the conscience 良知 of the community and not just the letter of the law 法律条文. The jury is also said to be the best surviving example of direct rather than representative democracy 直接民主而非代议制民主. In a direct democracy, citizens take turns governing themselves 轮流治理自己, rather than electing representatives to govern for them.
+
+But as recently as in 1968, jury selection procedures 陪审团选拔程序 conflicted with 与…冲突 these democratic ideals. In some states, for example, jury duty was limited to persons of supposedly superior intelligence 较高智力, education, and moral character 品德. Although the Supreme Court 最高法院 of the United States had prohibited intentional 有意图的 racial discrimination 故意种族歧视 in jury selection as early as the 1880 case of Strauder v. West Virginia, the practice of selecting 遴选 so-called elite 精英 or blue-ribbon juries 蓝带陪审团 provided a convenient way around this and other antidiscrimination laws 反歧视法律.
+
+The system also failed to regularly 定期的 include women on juries until the mid-20th century. Although women first served on state juries in Utah in 1898, it was not until the 1940s that a majority of states made women eligible 使女性有资格 for jury duty. Even then several states automatically exempted 自动免除 women from jury duty unless they personally asked to have their names included on the jury list. This practice was justified by 被证明合理 the claim that women were needed at home, and it kept juries unrepresentative 不具代表性 of women through the 1960s.
+
+In 1968, the Congress of the United States 美国国会 passed the Jury Selection and Service Act 陪审团选拔与服务法, ushering in 开创 a new era of democratic reforms for the jury. This law abolished 废除 special educational requirements for federal jurors 联邦陪审员 and required them to be selected at random from a cross section of the entire community. In the landmark 具有里程碑意义的 1975 decision Taylor v. Louisiana, the Supreme Court extended the requirement that juries be representative of all parts of the community to the state level. The Taylor decision also declared sex discrimination in jury selection to be unconstitutional 违宪的 and ordered states to use the same procedures for selecting male and female jurors.
+
+## 题目（36–40）
+
+36. From the principles of the US jury system, we learn that ______.
+[A] both literate and illiterate people can serve on juries
+[B] defendants are immune from trial by their peers
+[C] no age limit should be imposed for jury service
+[D] judgment should consider the opinion of the public
+
+37. The practice of selecting so-called elite jurors prior to 1968 showed ______.
+[A] the inadequacy of antidiscrimination laws
+[B] the prevalent discrimination against certain races
+[C] the conflicting ideals in jury selection procedures
+[D] the arrogance common among the Supreme Court judges
+
+38. Even in the 1960s, women were seldom on the jury list in some states because ______.
+[A] they were automatically banned by state laws
+[B] they fell far short of the required qualifications
+[C] they were supposed to perform domestic duties
+[D] they tended to evade public engagement
+
+39. After the Jury Selection and Service Act was passed, ______.
+[A] sex discrimination in jury selection was unconstitutional and had to be abolished
+[B] educational requirements became less rigid in the selection of federal jurors
+[C] jurors at the state level ought to be representative of the entire community
+[D] states ought to conform to the federal court in reforming the jury system
+
+40. In discussing the US jury system, the text centers on ______.
+[A] its nature and problems
+[B] its characteristics and tradition
+[C] its problems and their solutions
+[D] its tradition and development
+
+---
+
+### 参考答案
+
+36.D 37.A 38.C 39.B 40.D
+
+# 2010英二 Text4 长难句精读（原文+拆分+语法+翻译+考点）
+
+## 长难句1
+
+> Many Americans regard the jury system as a concrete expression of crucial democratic values, including the principles that all citizens who meet minimal qualifications of age and literacy are equally competent to serve on juries; that jurors should be selected randomly from a representative cross section of the community; that no citizen should be denied the right to serve on a jury on account of race, religion, sex, or national origin; that defendants are entitled to trial by their peers; and that verdicts should represent the conscience of the community and not just the letter of the law.
+
+### 句子拆分
+
+主干：**Many Americans regard the jury system as a concrete expression of crucial democratic values**
+- `including the principles that…; that…; that…; that…; and that…`：现在分词短语作状语，包含五个that同位语从句并列，解释principles
+  - 第一个that从句：`that all citizens who meet minimal qualifications of age and literacy are equally competent to serve on juries`
+    - `who meet minimal qualifications of age and literacy`：who定语从句，修饰citizens
+  - 第二个that从句：`that jurors should be selected randomly from a representative cross section of the community`
+  - 第三个that从句：`that no citizen should be denied the right to serve on a jury on account of race, religion, sex, or national origin`
+  - 第四个that从句：`that defendants are entitled to trial by their peers`
+  - 第五个that从句：`that verdicts should represent the conscience of the community and not just the letter of the law`
+
+### 生词
+
+regard…as…：把…视为…；jury system：陪审团制度；concrete expression：具体体现；crucial democratic values：关键民主价值；including：包括；principles：原则；all citizens：所有公民；meet minimal qualifications：满足最低资格；of age and literacy：年龄和读写能力的；equally competent：同等胜任；serve on juries：担任陪审员；jurors：陪审员；be selected randomly：被随机选择；from a representative cross section of the community：从社区的代表性横截面中；no citizen should be denied the right：任何公民不应被剥夺权利；to serve on a jury：担任陪审员；on account of：由于；race, religion, sex, or national origin：种族、宗教、性别或民族血统；defendants：被告；be entitled to：有权；trial by their peers：同辈审判；verdicts：裁决；represent the conscience of the community：代表社区的良知；and not just the letter of the law：而不仅仅是法律条文
+
+### 翻译
+
+许多美国人把陪审团制度视为关键民主价值的具体体现，包括以下原则：所有满足年龄和读写能力最低资格的公民同等胜任担任陪审员；陪审员应从社区的代表性横截面中随机选择；任何公民不应因种族、宗教、性别或民族血统被剥夺担任陪审员的权利；被告有权接受同辈审判；裁决应代表社区的良知，而不仅仅是法律条文。
+
+### 考点
+
+**regard…as…结构+现在分词短语+五个that同位语从句并列+who定语从句**；36题D选项的依据——从美国陪审团制度的原则中我们了解到判决应考虑公众意见（judgment should consider the opinion of the public = verdicts should represent the conscience of the community and not just the letter of the law）。
+
+---
+
+## 长难句2
+
+> The jury is also said to be the best surviving example of direct rather than representative democracy.
+
+### 句子拆分
+
+主干：**The jury is also said to be the best surviving example of direct rather than representative democracy**
+- 被动语态：be said to be
+- rather than：而不是
+
+### 生词
+
+jury：陪审团；be said to be：据说；the best surviving example：现存最好的例子；direct rather than representative democracy：直接民主而非代议制民主
+
+### 翻译
+
+陪审团也被认为是直接民主而非代议制民主的现存最好例子。
+
+### 考点
+
+**被动语态be said to be+rather than结构**；说明陪审团制度的性质——直接民主的最好例子。
+
+---
+
+## 长难句3
+
+> But as recently as in 1968, jury selection procedures conflicted with these democratic ideals.
+
+### 句子拆分
+
+主干：**jury selection procedures conflicted with these democratic ideals**
+- `But as recently as in 1968`：时间状语
+
+### 生词
+
+but：但是；as recently as in 1968：就在1968年；jury selection procedures：陪审团选拔程序；conflict with：与…冲突；these democratic ideals：这些民主理想
+
+### 翻译
+
+但就在1968年，陪审团选拔程序还与这些民主理想相冲突。
+
+### 考点
+
+**as recently as时间状语+conflict with**；转折引入——陪审团制度存在问题，选拔程序与民主理想冲突。
+
+---
+
+## 长难句4
+
+> Although the Supreme Court of the United States had prohibited intentional racial discrimination in jury selection as early as the 1880 case of Strauder v. West Virginia, the practice of selecting so-called elite or blue-ribbon juries provided a convenient way around this and other antidiscrimination laws.
+
+### 句子拆分
+
+主干：**the practice of selecting so-called elite or blue-ribbon juries provided a convenient way around this and other antidiscrimination laws**
+- `Although the Supreme Court of the United States had prohibited intentional racial discrimination in jury selection as early as the 1880 case of Strauder v. West Virginia`：although让步状语从句
+- `of selecting so-called elite or blue-ribbon juries`：介词短语修饰practice
+- `around this and other antidiscrimination laws`：介词短语修饰way
+
+### 生词
+
+although：尽管；the Supreme Court of the United States：美国最高法院；had prohibited：已禁止；intentional racial discrimination：故意种族歧视；in jury selection：在陪审团选拔中；as early as the 1880 case of Strauder v. West Virginia：早在1880年斯特劳德诉西弗吉尼亚州案中；the practice of selecting：选择…的做法；so-called elite or blue-ribbon juries：所谓的精英或蓝带陪审团；provided a convenient way around：提供了绕过…的便利方式；this and other antidiscrimination laws：这项和其他反歧视法律
+
+### 翻译
+
+尽管美国最高法院早在1880年斯特劳德诉西弗吉尼亚州案中就禁止了陪审团选拔中的故意种族歧视，但选择所谓精英或蓝带陪审团的做法为绕过这项和其他反歧视法律提供了便利方式。
+
+### 考点
+
+**although让步状语从句+介词短语修饰+过去完成时**；37题A选项的依据——1968年前选择所谓精英陪审员的做法表明反歧视法律的不足（the inadequacy of antidiscrimination laws = Supreme Court prohibited racial discrimination as early as 1880, but practice of selecting elite juries provided a convenient way around this and other antidiscrimination laws）。
+
+---
+
+## 长难句5
+
+> Although women first served on state juries in Utah in 1898, it was not until the 1940s that a majority of states made women eligible for jury duty.
+
+### 句子拆分
+
+主干：**it was not until the 1940s that a majority of states made women eligible for jury duty**
+- `Although women first served on state juries in Utah in 1898`：although让步状语从句
+- it was not until…that…：强调句型，强调时间
+
+### 生词
+
+although：尽管；women first served on state juries：女性首次在州陪审团任职；in Utah in 1898：1898年在犹他州；it was not until the 1940s that：直到20世纪40年代才；a majority of states：大多数州；make women eligible for jury duty：使女性有资格担任陪审员
+
+### 翻译
+
+尽管女性1898年首次在犹他州的州陪审团任职，但直到20世纪40年代，大多数州才使女性有资格担任陪审员。
+
+### 考点
+
+**although让步状语从句+it was not until…that…强调句型**；说明女性进入陪审团的历史——直到1940年代大多数州才使女性有资格。
+
+---
+
+## 长难句6
+
+> Even then several states automatically exempted women from jury duty unless they personally asked to have their names included on the jury list.
+
+### 句子拆分
+
+主干：**several states automatically exempted women from jury duty**
+- `Even then`：状语
+- `unless they personally asked to have their names included on the jury list`：unless条件状语从句
+  - `to have their names included on the jury list`：不定式作宾语
+    - have sth. done结构
+
+### 生词
+
+even then：即使那时；several states：几个州；automatically exempted women from jury duty：自动免除女性的陪审员义务；unless：除非；they personally asked：她们亲自要求；to have their names included on the jury list：把她们的名字列入陪审团名单
+
+### 翻译
+
+即使那时，几个州也自动免除女性的陪审员义务，除非她们亲自要求把名字列入陪审团名单。
+
+### 考点
+
+**unless条件状语从句+have sth. done结构**；38题C选项的背景——一些州自动免除女性陪审员义务，除非亲自要求，说明女性很少在陪审团名单上。
+
+---
+
+## 长难句7
+
+> This practice was justified by the claim that women were needed at home, and it kept juries unrepresentative of women through the 1960s.
+
+### 句子拆分
+
+主干：**This practice was justified by the claim that women were needed at home, and it kept juries unrepresentative of women through the 1960s**
+- and连接两个并列句
+- 第一个句子：被动语态
+  - `that women were needed at home`：that同位语从句，解释claim
+- 第二个句子：`it kept juries unrepresentative of women through the 1960s`
+
+### 生词
+
+this practice：这种做法；be justified by：被…证明合理；the claim that：…的主张；women were needed at home：家里需要女性；and：而且；it kept juries unrepresentative of women：这使陪审团不具女性代表性；through the 1960s：整个20世纪60年代
+
+### 翻译
+
+这种做法被"家里需要女性"的主张证明合理，而且整个20世纪60年代这使陪审团不具女性代表性。
+
+### 考点
+
+**and连接并列句+被动语态+that同位语从句**；38题C选项的依据——即使在20世纪60年代，女性在一些州很少在陪审团名单上因为她们被认为应该履行家庭职责（they were supposed to perform domestic duties = the claim that women were needed at home）。
+
+---
+
+## 长难句8
+
+> In 1968, the Congress of the United States passed the Jury Selection and Service Act, ushering in a new era of democratic reforms for the jury.
+
+### 句子拆分
+
+主干：**the Congress of the United States passed the Jury Selection and Service Act**
+- `In 1968`：时间状语
+- `ushering in a new era of democratic reforms for the jury`：现在分词作结果状语
+
+### 生词
+
+in 1968：1968年；the Congress of the United States：美国国会；pass：通过；the Jury Selection and Service Act：陪审团选拔与服务法；usher in：开创；a new era of democratic reforms：民主改革的新时代；for the jury：陪审团的
+
+### 翻译
+
+1968年，美国国会通过了《陪审团选拔与服务法》，开创了陪审团民主改革的新时代。
+
+### 考点
+
+**时间状语+现在分词作结果状语**；改革引入——1968年国会通过法案，开创新时代。
+
+---
+
+## 长难句9
+
+> This law abolished special educational requirements for federal jurors and required them to be selected at random from a cross section of the entire community.
+
+### 句子拆分
+
+主干：**This law abolished special educational requirements for federal jurors and required them to be selected at random from a cross section of the entire community**
+- 两个谓语并列：abolished and required
+- `to be selected at random from a cross section of the entire community`：不定式作宾语补足语
+  - 被动语态
+
+### 生词
+
+this law：这项法律；abolish：废除；special educational requirements：特殊教育要求；for federal jurors：联邦陪审员的；and：并且；require them to be selected：要求他们被选择；at random：随机地；from a cross section of the entire community：从整个社区的横截面中
+
+### 翻译
+
+这项法律废除了联邦陪审员的特殊教育要求，并要求从整个社区的横截面中随机选择他们。
+
+### 考点
+
+**两个谓语并列+不定式宾语补足语+被动语态**；39题B选项的依据——《陪审团选拔与服务法》通过后，联邦陪审员选拔中的教育要求变得不那么严格（educational requirements became less rigid in the selection of federal jurors = abolished special educational requirements for federal jurors）。
+
+---
+
+## 长难句10
+
+> In the landmark 1975 decision Taylor v. Louisiana, the Supreme Court extended the requirement that juries be representative of all parts of the community to the state level.
+
+### 句子拆分
+
+主干：**the Supreme Court extended the requirement to the state level**
+- `In the landmark 1975 decision Taylor v. Louisiana`：状语
+- `that juries be representative of all parts of the community`：that同位语从句，解释requirement
+  - 虚拟语气：be representative（should be省略should）
+
+### 生词
+
+in the landmark 1975 decision Taylor v. Louisiana：在1975年具有里程碑意义的泰勒诉路易斯安那州案裁决中；the Supreme Court：最高法院；extend：扩展；the requirement that：…的要求；juries be representative of all parts of the community：陪审团应代表社区所有部分；to the state level：到州一级
+
+### 翻译
+
+在1975年具有里程碑意义的泰勒诉路易斯安那州案裁决中，最高法院将陪审团应代表社区所有部分的要求扩展到州一级。
+
+### 考点
+
+**状语+that同位语从句+虚拟语气（should be省略should）**；说明改革深化——1975年泰勒案将代表性要求扩展到州一级，并宣布性别歧视违宪。
+
+---
+
+# 2010 英二 Text4 36–40｜题目+选项+逐选项解析
+
+> 原文主题：许多美国人把陪审团制度视为关键民主价值的具体体现，包括原则：满足年龄和读写能力最低资格的公民同等胜任担任陪审员；陪审员从社区代表性横截面随机选择；公民不因种族宗教性别民族血统被剥夺权利；被告有权同辈审判；裁决代表社区良知而不仅法律条文；陪审团也是直接民主而非代议制民主现存最好例子，直接民主中公民轮流治理自己；但就在1968年陪审团选拔程序还与民主理想冲突，一些州陪审员义务限于据称较高智力教育品德的人；尽管最高法院1880年斯特劳德案就禁止陪审团选拔故意种族歧视，但选择精英或蓝带陪审团的做法为绕过反歧视法律提供便利方式；制度直到20世纪中期也未能定期包括女性，尽管1898年犹他州女性首次在州陪审团任职，但直到1940年代大多数州才使女性有资格，即使那时几个州自动免除女性陪审员义务除非亲自要求列入名单，这种做法被"家里需要女性"主张证明合理，整个60年代使陪审团不具女性代表性；1968年美国国会通过《陪审团选拔与服务法》，开创陪审团民主改革新时代，该法废除联邦陪审员特殊教育要求，要求从整个社区横截面随机选择；1975年具有里程碑意义的泰勒诉路易斯安那州案中，最高法院将陪审团应代表社区所有部分的要求扩展到州一级，泰勒裁决还宣布陪审团选拔中性别歧视违宪，命令各州使用相同程序选择男女陪审员
+
+## 36. From the principles of the US jury system, we learn that ______.
+
+[A] both literate and illiterate people can serve on juries [B] defendants are immune from trial by their peers [C] no age limit should be imposed for jury service [D] judgment should consider the opinion of the public
+
+✅答案：**D** 定位：第一段。`verdicts should represent the conscience of the community and not just the letter of the law`（裁决应代表社区的良知，而不仅仅是法律条文）。说明从美国陪审团制度的原则中我们了解到判决应考虑公众意见。
+
+- A：错误。both literate and illiterate people can serve on juries（识字和不识字的人都能担任陪审员）与原文相反。原文是all citizens who meet minimal qualifications of age and literacy（满足年龄和读写能力最低资格的公民），说明需要读写能力。
+- B：错误。defendants are immune from trial by their peers（被告免于同辈审判）与原文相反。原文是defendants are entitled to trial by their peers（被告有权接受同辈审判）。
+- C：错误。no age limit should be imposed for jury service（陪审员服务不应有年龄限制）与原文相反。原文是meet minimal qualifications of age（满足年龄最低资格），说明有年龄要求。
+- D：正确。判决应考虑公众意见。verdicts should represent the conscience of the community and not just the letter of the law = judgment should consider the opinion of the public。
+
+---
+
+## 37. The practice of selecting so-called elite jurors prior to 1968 showed ______.
+
+[A] the inadequacy of antidiscrimination laws [B] the prevalent discrimination against certain races [C] the conflicting ideals in jury selection procedures [D] the arrogance common among the Supreme Court judges
+
+✅答案：**A** 定位：第二段。`Although the Supreme Court of the United States had prohibited intentional racial discrimination in jury selection as early as the 1880 case of Strauder v. West Virginia, the practice of selecting so-called elite or blue-ribbon juries provided a convenient way around this and other antidiscrimination laws.`（尽管美国最高法院早在1880年斯特劳德诉西弗吉尼亚州案中就禁止了陪审团选拔中的故意种族歧视，但选择所谓精英或蓝带陪审团的做法为绕过这项和其他反歧视法律提供了便利方式。）说明1968年前选择所谓精英陪审员的做法表明反歧视法律的不足。
+
+- A：正确。反歧视法律的不足。Supreme Court prohibited racial discrimination as early as 1880 + but practice of selecting elite juries provided a convenient way around this and other antidiscrimination laws = the inadequacy of antidiscrimination laws。
+- B：错误。the prevalent discrimination against certain races（对某些种族的普遍歧视）偷换概念。是说反歧视法律可以被绕过，不是普遍歧视。
+- C：错误。the conflicting ideals in jury selection procedures（陪审团选拔程序中冲突的理想）偷换概念。是jury selection procedures conflicted with these democratic ideals（选拔程序与民主理想冲突），不是理想本身冲突。
+- D：错误。the arrogance common among the Supreme Court judges（最高法院法官中常见的傲慢）无中生有。
+
+---
+
+## 38. Even in the 1960s, women were seldom on the jury list in some states because ______.
+
+[A] they were automatically banned by state laws [B] they fell far short of the required qualifications [C] they were supposed to perform domestic duties [D] they tended to evade public engagement
+
+✅答案：**C** 定位：第三段。`Even then several states automatically exempted women from jury duty unless they personally asked to have their names included on the jury list. This practice was justified by the claim that women were needed at home, and it kept juries unrepresentative of women through the 1960s.`（即使那时，几个州也自动免除女性的陪审员义务，除非她们亲自要求把名字列入陪审团名单。这种做法被"家里需要女性"的主张证明合理，而且整个20世纪60年代这使陪审团不具女性代表性。）说明即使在20世纪60年代，女性在一些州很少在陪审团名单上因为她们被认为应该履行家庭职责。
+
+- A：错误。they were automatically banned by state laws（她们被州法律自动禁止）偷换概念。是automatically exempted（自动免除），不是banned（禁止），且除非亲自要求可以列入。
+- B：错误。they fell far short of the required qualifications（她们远达不到所需资格）无中生有。
+- C：正确。她们被认为应该履行家庭职责。the claim that women were needed at home = they were supposed to perform domestic duties。
+- D：错误。they tended to evade public engagement（她们倾向于逃避公共参与）无中生有。
+
+---
+
+## 39. After the Jury Selection and Service Act was passed, ______.
+
+[A] sex discrimination in jury selection was unconstitutional and had to be abolished [B] educational requirements became less rigid in the selection of federal jurors [C] jurors at the state level ought to be representative of the entire community [D] states ought to conform to the federal court in reforming the jury system
+
+✅答案：**B** 定位：第四段。`In 1968, the Congress of the United States passed the Jury Selection and Service Act … This law abolished special educational requirements for federal jurors and required them to be selected at random from a cross section of the entire community.`（1968年，美国国会通过了《陪审团选拔与服务法》……这项法律废除了联邦陪审员的特殊教育要求，并要求从整个社区的横截面中随机选择他们。）说明《陪审团选拔与服务法》通过后，联邦陪审员选拔中的教育要求变得不那么严格。
+
+- A：错误。sex discrimination in jury selection was unconstitutional and had to be abolished（陪审团选拔中的性别歧视违宪必须废除）是1975年Taylor案的内容，不是1968年法案的内容。
+- B：正确。联邦陪审员选拔中的教育要求变得不那么严格。abolished special educational requirements for federal jurors = educational requirements became less rigid in the selection of federal jurors。
+- C：错误。jurors at the state level ought to be representative of the entire community（州一级陪审员应该代表整个社区）是1975年Taylor案的内容，不是1968年法案的内容。
+- D：错误。states ought to conform to the federal court in reforming the jury system（各州在改革陪审团制度时应遵守联邦法院）无中生有。
+
+---
+
+## 40. In discussing the US jury system, the text centers on ______.
+
+[A] its nature and problems [B] its characteristics and tradition [C] its problems and their solutions [D] its tradition and development
+
+✅答案：**D** 主旨题。全文结构：第一段介绍陪审团制度的性质和原则（民主价值具体体现、直接民主最好例子）；第二段讲1968年前存在的问题（选拔程序与民主理想冲突、精英陪审团绕过反歧视法律）；第三段讲女性代表问题（直到20世纪中期才定期包括女性、60年代仍不具女性代表性）；第四段讲改革发展（1968年《陪审团选拔与服务法》废除教育要求、1975年Taylor案扩展代表性要求到州一级、宣布性别歧视违宪）。全文围绕陪审团制度的传统和发展展开。
+
+- A：错误。its nature and problems（其性质和问题）以偏概全。只涵盖前半部分，没有涵盖改革发展。
+- B：错误。its characteristics and tradition（其特点和传统）以偏概全。没有涵盖问题和改革。
+- C：错误。its problems and their solutions（其问题和解决方案）以偏概全。没有涵盖第一段的性质原则介绍。
+- D：正确。其传统和发展。第一段介绍制度原则和传统，第二三段讲历史问题，第四段讲改革发展 = its tradition and development。
+
+---
+
+### 本篇命题规律小结（英二阅读）
+
+1. 法律/社会类文章：关注**制度介绍（陪审团制度是民主价值具体体现，五个原则：公民资格、随机选择、禁止歧视、同辈审判、裁决代表良知；直接民主最好例子）→历史问题1（1968年前选拔程序与民主理想冲突，精英陪审团绕过反歧视法律）→历史问题2（女性代表不足，直到1940年代大多数州才使女性有资格，60年代仍因"家里需要女性"而不具代表性）→改革发展（1968年《陪审团选拔与服务法》废除联邦陪审员特殊教育要求、随机选择；1975年Taylor案将代表性要求扩展到州一级、宣布性别歧视违宪）**的结构
+2. 细节题：定位到**verdicts should represent the conscience**（verdicts represent conscience of community not just letter of law = judgment should consider opinion of public）
+3. 例证题：定位到**Although prohibited…but provided a convenient way around**（Supreme Court prohibited racial discrimination + but elite juries provided way around antidiscrimination laws = inadequacy of antidiscrimination laws）
+4. 细节题：定位到**the claim that women were needed at home**（practice justified by claim women needed at home = supposed to perform domestic duties）
+5. 细节题：定位到**abolished special educational requirements for federal jurors**（abolished special educational requirements = educational requirements became less rigid）
+6. 主旨题：把握**全文结构**（制度原则介绍→历史问题→改革发展 = tradition and development）
