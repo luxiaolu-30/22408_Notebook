@@ -54,6 +54,8 @@ for rel in sorted(files):
     with open(files[rel], encoding="utf-8") as f:
         text = f.read()
     for raw, tgt in extract_links(text):
+        if tgt.endswith("/"):  # 目录链接（[[xxx/]]），Obsidian 合法用法，跳过断链判断
+            continue
         tgt_stem = tgt[:-3] if tgt.endswith(".md") else tgt
         base = os.path.basename(tgt_stem)
         # 1) 目标是否真实存在（basename 匹配）
